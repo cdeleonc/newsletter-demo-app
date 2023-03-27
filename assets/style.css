@@ -1,0 +1,336 @@
+body{
+    background-image: url('bg_newsletter.png');
+    font-family: sans-serif;
+    padding: 0 5%;
+    color: white;
+}
+
+/* .container{
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 0px;
+} */
+
+.block-1, .block-2, .block-3{
+    border-radius: 2rem;
+    margin: 10% 0;
+    padding: 0;
+    z-index: 0;
+}
+
+.block-1 {
+    border: medium solid #36413E;
+    background-color: #ADC48B;
+    color: #36413E;
+}
+
+.block-2{
+    border: solid medium white;
+    background-color: #153654;
+    color: white;
+}
+
+.block-3{
+    border: solid medium white;
+    background-color: #3C7681;
+    color: white;
+}
+
+h2, h3{
+    margin:0;
+    padding:0;
+}
+
+.title-section-1, .title-section-2, .title-section-3{
+    border-radius: 2rem;
+    text-align: center;
+    width: 20%;
+    display: block;
+    margin: 0;
+    padding: 1.5rem;
+    z-index: 1;
+    position: relative;
+    top: -1rem;
+    left: -1rem;
+}
+
+.title-section-1{
+    border: medium solid #36413E;
+    color:#ADC48B;
+    background-color: #36413E;
+}
+
+.title-section-2{
+    border: medium solid white;
+    color:#153654;
+    background-color: white;
+}
+
+.title-section-3{
+    border: medium solid white;
+    color:#3C7681;
+    background-color: white;
+}
+
+.body-section-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    /* flex: 1 1 100%; */
+    margin-top: 15%;
+}
+
+.body-section-2, .body-section-3{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    flex: 1 1 0px;
+}
+
+.body-section-3{
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+
+.body-section-2-subsection-1, .body-section-2-subsection-2{
+    flex: 1 1 0px;
+}
+
+.body-section-2-subsection-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    padding: 2vw;
+
+}
+
+.body-section-2-subsection-2{
+    height: auto;
+    align-content: flex-start;
+    height: auto;
+}
+
+.bottom, .top{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 1 1 0px;
+}
+
+.active, .active-bottom-right, .active-bottom, .active-right{
+    text-align: center;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1 1 0px;
+    padding: 5%;
+}
+
+.active-bottom-right{
+    border-bottom: medium solid white;
+    border-right: medium solid white;
+}
+
+.active-bottom{
+    border-bottom: medium solid white;
+}
+
+.active-right{
+    border-right: medium solid white;
+}
+
+.body-section-3-subsection-1, .body-section-3-subsection-2, .body-section-3-subsection-3{
+    flex: 1 1 0px;
+}
+
+.body-section-3-subsection-2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.section-3-subsection-2-top, .section-3-subsection-2-bottom{
+    display: flex;
+    flex-direction: row;
+    flex:1 1 0px;
+}
+
+/* .house-card{
+    margin: 1vw;
+} */
+
+.housed_plots > *{
+    width: auto;
+    height: 10vh;
+}
+
+.housed-metrics{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    padding: 0 2vw;
+    margin: 0 1vw;
+    color: #3C7681;
+    background-color: white;
+    border: #3C7681 solid 3px;
+}
+
+.bar{
+    padding: 0 10%;
+    font-size: 1.5rem;
+}
+
+h4{
+    font-size: 1.25em;
+    font-weight: lighter;
+}
+
+.card{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.plots{
+    width:30vw;
+}
+
+.card h3{
+    inline-size: 50%;
+    overflow-wrap: break-word;
+    font-size: 1.5vw;
+}
+
+
+
+div > .metric{
+    font-size: 4vw;
+    font-weight: bolder;
+}
+
+#graph{
+    width: 60%;
+    align-self: flex-start;
+}
+
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 9vw solid transparent;
+    border-right: 9vw solid transparent;
+    border-bottom: 4vw solid white;
+    flex: 1 1 0px;
+  }
+
+.filter_section{
+    background-color: white;
+    border: grey solid thin;
+    border-radius: 2.5vw;
+    color: black;
+    padding: 2%;
+}
+
+.radio_button{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.radio_button > * {
+    font-size: 1.15vw;
+    background-color: lightgray;
+    border: white thin solid;
+    border-radius: 1vw;
+    padding: 0.75vw 2vw;
+    margin-right: 1vw;
+    accent-color: green;
+}
+
+#race_option{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#race_option > *{
+    font-size: 1.15vw;
+    background-color: lightgray;
+    border: white thin solid;
+    border-radius: 1vw;
+    width: 20vw; 
+    height: 3.5vw;
+    padding: 0.75vw 2vw;
+    text-align: center;
+    line-height: 100%;
+    accent-color: green;
+}
+
+.filter_titles{
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.arrow-up-1 {
+    width: 0; 
+    height: 0; 
+    border-left: .3em solid transparent;
+    border-right: .3em solid transparent;
+    border-bottom: .5em solid white;
+  }
+
+.active-card{
+    z-index: 0;
+    position: relative;
+    top: -52%;
+    left: 23%;
+}
+
+#active_counts_pie{
+    z-index: 100;
+}
+
+.active-card-bottom{
+    z-index: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 1%;
+    padding-top: .25em;
+}
+
+.active-metric-1{
+    font-size: 3em;
+    font-weight: bold;
+    position: relative;
+    left: 1%;
+}
+
+.active-text-1{
+    font-size: 1.5em;
+    font-weight: lighter;
+    position: relative;
+    left: -1%;
+    padding-top: .25em;
+}
+
+.active-metric-2{
+    padding-left: .25em;
+}
+
+.race_plot{
+    z-index: 0;
+    position: relative;
+    top: -34vh;
+    left: -2.5vw;
+}

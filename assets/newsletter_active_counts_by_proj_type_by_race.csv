@@ -1,0 +1,1983 @@
+,Project Type,static_demographics.race_text,Active Clients Count,Abbrev,Reporting Month,Reporting Window
+0,Safe Haven (SH),Multi-Racial,1,SH,Sep-2022,Monthly
+1,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Sep-2022,Monthly
+2,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Sep-2022,Monthly
+3,Safe Haven (SH),"Black, African American, or African",7,SH,Sep-2022,Monthly
+4,Safe Haven (SH),White,29,SH,Sep-2022,Monthly
+5,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Sep-2022,Monthly
+6,Other (OTH),Asian or Asian American,2,OTH,Sep-2022,Monthly
+7,Other (OTH),Multi-Racial,5,OTH,Sep-2022,Monthly
+8,Other (OTH),"Black, African American, or African",15,OTH,Sep-2022,Monthly
+9,Other (OTH),White,38,OTH,Sep-2022,Monthly
+10,Transitional Housing (TH),Client refused,3,TH,Sep-2022,Monthly
+11,Transitional Housing (TH),Client doesn't know,6,TH,Sep-2022,Monthly
+12,Transitional Housing (TH),Native Hawaiian or Pacific Islander,14,TH,Sep-2022,Monthly
+13,Transitional Housing (TH),Asian or Asian American,19,TH,Sep-2022,Monthly
+14,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",21,TH,Sep-2022,Monthly
+15,Transitional Housing (TH),Multi-Racial,38,TH,Sep-2022,Monthly
+16,Transitional Housing (TH),"Black, African American, or African",261,TH,Sep-2022,Monthly
+17,Transitional Housing (TH),White,698,TH,Sep-2022,Monthly
+18,Day Shelter (DS),Client doesn't know,5,DS,Sep-2022,Monthly
+19,Day Shelter (DS),Client refused,14,DS,Sep-2022,Monthly
+20,Day Shelter (DS),Data not collected,15,DS,Sep-2022,Monthly
+21,Day Shelter (DS),Native Hawaiian or Pacific Islander,56,DS,Sep-2022,Monthly
+22,Day Shelter (DS),Asian or Asian American,82,DS,Sep-2022,Monthly
+23,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",129,DS,Sep-2022,Monthly
+24,Day Shelter (DS),Multi-Racial,139,DS,Sep-2022,Monthly
+25,Day Shelter (DS),"Black, African American, or African",1169,DS,Sep-2022,Monthly
+26,Day Shelter (DS),White,2575,DS,Sep-2022,Monthly
+27,Homelessness Prevention (HP),Client doesn't know,7,HP,Sep-2022,Monthly
+28,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",13,HP,Sep-2022,Monthly
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,13,HP,Sep-2022,Monthly
+30,Homelessness Prevention (HP),Client refused,23,HP,Sep-2022,Monthly
+31,Homelessness Prevention (HP),Asian or Asian American,28,HP,Sep-2022,Monthly
+32,Homelessness Prevention (HP),Data not collected,28,HP,Sep-2022,Monthly
+33,Homelessness Prevention (HP),Multi-Racial,37,HP,Sep-2022,Monthly
+34,Homelessness Prevention (HP),"Black, African American, or African",292,HP,Sep-2022,Monthly
+35,Homelessness Prevention (HP),White,494,HP,Sep-2022,Monthly
+36,Emergency Shelter (ES),Client refused,15,ES,Sep-2022,Monthly
+37,Emergency Shelter (ES),Data not collected,51,ES,Sep-2022,Monthly
+38,Emergency Shelter (ES),Asian or Asian American,56,ES,Sep-2022,Monthly
+39,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,89,ES,Sep-2022,Monthly
+40,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",97,ES,Sep-2022,Monthly
+41,Emergency Shelter (ES),Client doesn't know,120,ES,Sep-2022,Monthly
+42,Emergency Shelter (ES),Multi-Racial,125,ES,Sep-2022,Monthly
+43,Emergency Shelter (ES),"Black, African American, or African",1018,ES,Sep-2022,Monthly
+44,Emergency Shelter (ES),White,2625,ES,Sep-2022,Monthly
+45,Street Outreach (OUT),Client doesn't know,17,OUT,Sep-2022,Monthly
+46,Street Outreach (OUT),Client refused,23,OUT,Sep-2022,Monthly
+47,Street Outreach (OUT),Asian or Asian American,26,OUT,Sep-2022,Monthly
+48,Street Outreach (OUT),Native Hawaiian or Pacific Islander,31,OUT,Sep-2022,Monthly
+49,Street Outreach (OUT),Data not collected,47,OUT,Sep-2022,Monthly
+50,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",66,OUT,Sep-2022,Monthly
+51,Street Outreach (OUT),Multi-Racial,94,OUT,Sep-2022,Monthly
+52,Street Outreach (OUT),"Black, African American, or African",548,OUT,Sep-2022,Monthly
+53,Street Outreach (OUT),White,1646,OUT,Sep-2022,Monthly
+54,Permanent Housing (PH),Client refused,20,PH,Sep-2022,Monthly
+55,Permanent Housing (PH),Data not collected,93,PH,Sep-2022,Monthly
+56,Permanent Housing (PH),Client doesn't know,168,PH,Sep-2022,Monthly
+57,Permanent Housing (PH),Native Hawaiian or Pacific Islander,180,PH,Sep-2022,Monthly
+58,Permanent Housing (PH),Asian or Asian American,200,PH,Sep-2022,Monthly
+59,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",205,PH,Sep-2022,Monthly
+60,Permanent Housing (PH),Multi-Racial,529,PH,Sep-2022,Monthly
+61,Permanent Housing (PH),"Black, African American, or African",3592,PH,Sep-2022,Monthly
+62,Permanent Housing (PH),White,6807,PH,Sep-2022,Monthly
+63,Coordinated Entry (CE),Client refused,20,CE,Sep-2022,Monthly
+64,Coordinated Entry (CE),Client doesn't know,23,CE,Sep-2022,Monthly
+65,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,43,CE,Sep-2022,Monthly
+66,Coordinated Entry (CE),Data not collected,44,CE,Sep-2022,Monthly
+67,Coordinated Entry (CE),Asian or Asian American,47,CE,Sep-2022,Monthly
+68,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",91,CE,Sep-2022,Monthly
+69,Coordinated Entry (CE),Multi-Racial,139,CE,Sep-2022,Monthly
+70,Coordinated Entry (CE),"Black, African American, or African",814,CE,Sep-2022,Monthly
+71,Coordinated Entry (CE),White,2122,CE,Sep-2022,Monthly
+72,Services Only (SO),Client refused,46,SO,Sep-2022,Monthly
+73,Services Only (SO),Client doesn't know,53,SO,Sep-2022,Monthly
+74,Services Only (SO),Native Hawaiian or Pacific Islander,91,SO,Sep-2022,Monthly
+75,Services Only (SO),Data not collected,106,SO,Sep-2022,Monthly
+76,Services Only (SO),Asian or Asian American,109,SO,Sep-2022,Monthly
+77,Services Only (SO),"American Indian, Alaska Native, or Indigenous",168,SO,Sep-2022,Monthly
+78,Services Only (SO),Multi-Racial,343,SO,Sep-2022,Monthly
+79,Services Only (SO),"Black, African American, or African",1671,SO,Sep-2022,Monthly
+80,Services Only (SO),White,3969,SO,Sep-2022,Monthly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Sep-2022,Quarterly
+1,Other (OTH),Asian or Asian American,2,OTH,Sep-2022,Quarterly
+2,Other (OTH),Multi-Racial,5,OTH,Sep-2022,Quarterly
+3,Other (OTH),"Black, African American, or African",15,OTH,Sep-2022,Quarterly
+4,Other (OTH),White,44,OTH,Sep-2022,Quarterly
+5,Safe Haven (SH),Asian or Asian American,1,SH,Sep-2022,Quarterly
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Sep-2022,Quarterly
+7,Safe Haven (SH),Multi-Racial,2,SH,Sep-2022,Quarterly
+8,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Sep-2022,Quarterly
+9,Safe Haven (SH),"Black, African American, or African",10,SH,Sep-2022,Quarterly
+10,Safe Haven (SH),White,39,SH,Sep-2022,Quarterly
+11,Transitional Housing (TH),Data not collected,1,TH,Sep-2022,Quarterly
+12,Transitional Housing (TH),Client refused,3,TH,Sep-2022,Quarterly
+13,Transitional Housing (TH),Client doesn't know,8,TH,Sep-2022,Quarterly
+14,Transitional Housing (TH),Asian or Asian American,21,TH,Sep-2022,Quarterly
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,22,TH,Sep-2022,Quarterly
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",34,TH,Sep-2022,Quarterly
+17,Transitional Housing (TH),Multi-Racial,49,TH,Sep-2022,Quarterly
+18,Transitional Housing (TH),"Black, African American, or African",384,TH,Sep-2022,Quarterly
+19,Transitional Housing (TH),White,1013,TH,Sep-2022,Quarterly
+20,Day Shelter (DS),Client doesn't know,8,DS,Sep-2022,Quarterly
+21,Day Shelter (DS),Client refused,15,DS,Sep-2022,Quarterly
+22,Day Shelter (DS),Data not collected,17,DS,Sep-2022,Quarterly
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,64,DS,Sep-2022,Quarterly
+24,Day Shelter (DS),Asian or Asian American,93,DS,Sep-2022,Quarterly
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",158,DS,Sep-2022,Quarterly
+26,Day Shelter (DS),Multi-Racial,171,DS,Sep-2022,Quarterly
+27,Day Shelter (DS),"Black, African American, or African",1397,DS,Sep-2022,Quarterly
+28,Day Shelter (DS),White,3156,DS,Sep-2022,Quarterly
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Sep-2022,Quarterly
+30,Homelessness Prevention (HP),Client doesn't know,23,HP,Sep-2022,Quarterly
+31,Homelessness Prevention (HP),Client refused,24,HP,Sep-2022,Quarterly
+32,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",25,HP,Sep-2022,Quarterly
+33,Homelessness Prevention (HP),Data not collected,33,HP,Sep-2022,Quarterly
+34,Homelessness Prevention (HP),Asian or Asian American,44,HP,Sep-2022,Quarterly
+35,Homelessness Prevention (HP),Multi-Racial,53,HP,Sep-2022,Quarterly
+36,Homelessness Prevention (HP),"Black, African American, or African",370,HP,Sep-2022,Quarterly
+37,Homelessness Prevention (HP),White,769,HP,Sep-2022,Quarterly
+38,Emergency Shelter (ES),Client refused,18,ES,Sep-2022,Quarterly
+39,Emergency Shelter (ES),Data not collected,66,ES,Sep-2022,Quarterly
+40,Emergency Shelter (ES),Asian or Asian American,91,ES,Sep-2022,Quarterly
+41,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,115,ES,Sep-2022,Quarterly
+42,Emergency Shelter (ES),Client doesn't know,127,ES,Sep-2022,Quarterly
+43,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",163,ES,Sep-2022,Quarterly
+44,Emergency Shelter (ES),Multi-Racial,197,ES,Sep-2022,Quarterly
+45,Emergency Shelter (ES),"Black, African American, or African",1486,ES,Sep-2022,Quarterly
+46,Emergency Shelter (ES),White,3831,ES,Sep-2022,Quarterly
+47,Permanent Housing (PH),Client refused,22,PH,Sep-2022,Quarterly
+48,Permanent Housing (PH),Data not collected,94,PH,Sep-2022,Quarterly
+49,Permanent Housing (PH),Client doesn't know,169,PH,Sep-2022,Quarterly
+50,Permanent Housing (PH),Native Hawaiian or Pacific Islander,190,PH,Sep-2022,Quarterly
+51,Permanent Housing (PH),Asian or Asian American,214,PH,Sep-2022,Quarterly
+52,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",221,PH,Sep-2022,Quarterly
+53,Permanent Housing (PH),Multi-Racial,562,PH,Sep-2022,Quarterly
+54,Permanent Housing (PH),"Black, African American, or African",3807,PH,Sep-2022,Quarterly
+55,Permanent Housing (PH),White,7187,PH,Sep-2022,Quarterly
+56,Coordinated Entry (CE),Client refused,34,CE,Sep-2022,Quarterly
+57,Coordinated Entry (CE),Client doesn't know,43,CE,Sep-2022,Quarterly
+58,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,84,CE,Sep-2022,Quarterly
+59,Coordinated Entry (CE),Data not collected,107,CE,Sep-2022,Quarterly
+60,Coordinated Entry (CE),Asian or Asian American,111,CE,Sep-2022,Quarterly
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",208,CE,Sep-2022,Quarterly
+62,Coordinated Entry (CE),Multi-Racial,324,CE,Sep-2022,Quarterly
+63,Coordinated Entry (CE),"Black, African American, or African",1856,CE,Sep-2022,Quarterly
+64,Coordinated Entry (CE),White,4588,CE,Sep-2022,Quarterly
+65,Street Outreach (OUT),Client doesn't know,36,OUT,Sep-2022,Quarterly
+66,Street Outreach (OUT),Client refused,52,OUT,Sep-2022,Quarterly
+67,Street Outreach (OUT),Asian or Asian American,67,OUT,Sep-2022,Quarterly
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,69,OUT,Sep-2022,Quarterly
+69,Street Outreach (OUT),Data not collected,149,OUT,Sep-2022,Quarterly
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",152,OUT,Sep-2022,Quarterly
+71,Street Outreach (OUT),Multi-Racial,216,OUT,Sep-2022,Quarterly
+72,Street Outreach (OUT),"Black, African American, or African",1229,OUT,Sep-2022,Quarterly
+73,Street Outreach (OUT),White,3846,OUT,Sep-2022,Quarterly
+74,Services Only (SO),Client refused,58,SO,Sep-2022,Quarterly
+75,Services Only (SO),Client doesn't know,62,SO,Sep-2022,Quarterly
+76,Services Only (SO),Native Hawaiian or Pacific Islander,123,SO,Sep-2022,Quarterly
+77,Services Only (SO),Data not collected,124,SO,Sep-2022,Quarterly
+78,Services Only (SO),Asian or Asian American,147,SO,Sep-2022,Quarterly
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",213,SO,Sep-2022,Quarterly
+80,Services Only (SO),Multi-Racial,444,SO,Sep-2022,Quarterly
+81,Services Only (SO),"Black, African American, or African",2172,SO,Sep-2022,Quarterly
+82,Services Only (SO),White,5120,SO,Sep-2022,Quarterly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Sep-2022,6 - Month
+1,Other (OTH),Asian or Asian American,2,OTH,Sep-2022,6 - Month
+2,Other (OTH),Multi-Racial,5,OTH,Sep-2022,6 - Month
+3,Other (OTH),"Black, African American, or African",15,OTH,Sep-2022,6 - Month
+4,Other (OTH),White,44,OTH,Sep-2022,6 - Month
+5,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Sep-2022,6 - Month
+6,Safe Haven (SH),Asian or Asian American,2,SH,Sep-2022,6 - Month
+7,Safe Haven (SH),Multi-Racial,2,SH,Sep-2022,6 - Month
+8,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Sep-2022,6 - Month
+9,Safe Haven (SH),"Black, African American, or African",14,SH,Sep-2022,6 - Month
+10,Safe Haven (SH),White,47,SH,Sep-2022,6 - Month
+11,Transitional Housing (TH),Data not collected,2,TH,Sep-2022,6 - Month
+12,Transitional Housing (TH),Client refused,3,TH,Sep-2022,6 - Month
+13,Transitional Housing (TH),Client doesn't know,8,TH,Sep-2022,6 - Month
+14,Transitional Housing (TH),Asian or Asian American,23,TH,Sep-2022,6 - Month
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,30,TH,Sep-2022,6 - Month
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",40,TH,Sep-2022,6 - Month
+17,Transitional Housing (TH),Multi-Racial,53,TH,Sep-2022,6 - Month
+18,Transitional Housing (TH),"Black, African American, or African",447,TH,Sep-2022,6 - Month
+19,Transitional Housing (TH),White,1231,TH,Sep-2022,6 - Month
+20,Day Shelter (DS),Client doesn't know,8,DS,Sep-2022,6 - Month
+21,Day Shelter (DS),Client refused,17,DS,Sep-2022,6 - Month
+22,Day Shelter (DS),Data not collected,20,DS,Sep-2022,6 - Month
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,69,DS,Sep-2022,6 - Month
+24,Day Shelter (DS),Asian or Asian American,98,DS,Sep-2022,6 - Month
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",175,DS,Sep-2022,6 - Month
+26,Day Shelter (DS),Multi-Racial,195,DS,Sep-2022,6 - Month
+27,Day Shelter (DS),"Black, African American, or African",1534,DS,Sep-2022,6 - Month
+28,Day Shelter (DS),White,3448,DS,Sep-2022,6 - Month
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,16,HP,Sep-2022,6 - Month
+30,Homelessness Prevention (HP),Client doesn't know,23,HP,Sep-2022,6 - Month
+31,Homelessness Prevention (HP),Client refused,24,HP,Sep-2022,6 - Month
+32,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",27,HP,Sep-2022,6 - Month
+33,Homelessness Prevention (HP),Data not collected,36,HP,Sep-2022,6 - Month
+34,Homelessness Prevention (HP),Asian or Asian American,47,HP,Sep-2022,6 - Month
+35,Homelessness Prevention (HP),Multi-Racial,65,HP,Sep-2022,6 - Month
+36,Homelessness Prevention (HP),"Black, African American, or African",408,HP,Sep-2022,6 - Month
+37,Homelessness Prevention (HP),White,899,HP,Sep-2022,6 - Month
+38,Emergency Shelter (ES),Client refused,20,ES,Sep-2022,6 - Month
+39,Emergency Shelter (ES),Data not collected,70,ES,Sep-2022,6 - Month
+40,Emergency Shelter (ES),Asian or Asian American,110,ES,Sep-2022,6 - Month
+41,Emergency Shelter (ES),Client doesn't know,146,ES,Sep-2022,6 - Month
+42,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,147,ES,Sep-2022,6 - Month
+43,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",208,ES,Sep-2022,6 - Month
+44,Emergency Shelter (ES),Multi-Racial,254,ES,Sep-2022,6 - Month
+45,Emergency Shelter (ES),"Black, African American, or African",1845,ES,Sep-2022,6 - Month
+46,Emergency Shelter (ES),White,4737,ES,Sep-2022,6 - Month
+47,Permanent Housing (PH),Client refused,22,PH,Sep-2022,6 - Month
+48,Permanent Housing (PH),Data not collected,98,PH,Sep-2022,6 - Month
+49,Permanent Housing (PH),Client doesn't know,169,PH,Sep-2022,6 - Month
+50,Permanent Housing (PH),Native Hawaiian or Pacific Islander,194,PH,Sep-2022,6 - Month
+51,Permanent Housing (PH),Asian or Asian American,221,PH,Sep-2022,6 - Month
+52,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",236,PH,Sep-2022,6 - Month
+53,Permanent Housing (PH),Multi-Racial,590,PH,Sep-2022,6 - Month
+54,Permanent Housing (PH),"Black, African American, or African",3929,PH,Sep-2022,6 - Month
+55,Permanent Housing (PH),White,7430,PH,Sep-2022,6 - Month
+56,Coordinated Entry (CE),Client refused,38,CE,Sep-2022,6 - Month
+57,Coordinated Entry (CE),Client doesn't know,47,CE,Sep-2022,6 - Month
+58,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,122,CE,Sep-2022,6 - Month
+59,Coordinated Entry (CE),Data not collected,135,CE,Sep-2022,6 - Month
+60,Coordinated Entry (CE),Asian or Asian American,151,CE,Sep-2022,6 - Month
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",273,CE,Sep-2022,6 - Month
+62,Coordinated Entry (CE),Multi-Racial,420,CE,Sep-2022,6 - Month
+63,Coordinated Entry (CE),"Black, African American, or African",2375,CE,Sep-2022,6 - Month
+64,Coordinated Entry (CE),White,5785,CE,Sep-2022,6 - Month
+65,Street Outreach (OUT),Client doesn't know,46,OUT,Sep-2022,6 - Month
+66,Street Outreach (OUT),Client refused,66,OUT,Sep-2022,6 - Month
+67,Street Outreach (OUT),Native Hawaiian or Pacific Islander,89,OUT,Sep-2022,6 - Month
+68,Street Outreach (OUT),Asian or Asian American,108,OUT,Sep-2022,6 - Month
+69,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",223,OUT,Sep-2022,6 - Month
+70,Street Outreach (OUT),Data not collected,231,OUT,Sep-2022,6 - Month
+71,Street Outreach (OUT),Multi-Racial,297,OUT,Sep-2022,6 - Month
+72,Street Outreach (OUT),"Black, African American, or African",1716,OUT,Sep-2022,6 - Month
+73,Street Outreach (OUT),White,5129,OUT,Sep-2022,6 - Month
+74,Services Only (SO),Client refused,65,SO,Sep-2022,6 - Month
+75,Services Only (SO),Client doesn't know,68,SO,Sep-2022,6 - Month
+76,Services Only (SO),Native Hawaiian or Pacific Islander,135,SO,Sep-2022,6 - Month
+77,Services Only (SO),Data not collected,136,SO,Sep-2022,6 - Month
+78,Services Only (SO),Asian or Asian American,162,SO,Sep-2022,6 - Month
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",242,SO,Sep-2022,6 - Month
+80,Services Only (SO),Multi-Racial,480,SO,Sep-2022,6 - Month
+81,Services Only (SO),"Black, African American, or African",2440,SO,Sep-2022,6 - Month
+82,Services Only (SO),White,5721,SO,Sep-2022,6 - Month
+0,Safe Haven (SH),Client refused,1,SH,Sep-2022,Annual
+1,Safe Haven (SH),Asian or Asian American,2,SH,Sep-2022,Annual
+2,Safe Haven (SH),Multi-Racial,2,SH,Sep-2022,Annual
+3,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Sep-2022,Annual
+4,Safe Haven (SH),Native Hawaiian or Pacific Islander,3,SH,Sep-2022,Annual
+5,Safe Haven (SH),"Black, African American, or African",20,SH,Sep-2022,Annual
+6,Safe Haven (SH),White,85,SH,Sep-2022,Annual
+7,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Sep-2022,Annual
+8,Other (OTH),Asian or Asian American,2,OTH,Sep-2022,Annual
+9,Other (OTH),Multi-Racial,5,OTH,Sep-2022,Annual
+10,Other (OTH),"Black, African American, or African",15,OTH,Sep-2022,Annual
+11,Other (OTH),White,44,OTH,Sep-2022,Annual
+12,Transitional Housing (TH),Client refused,4,TH,Sep-2022,Annual
+13,Transitional Housing (TH),Client doesn't know,12,TH,Sep-2022,Annual
+14,Transitional Housing (TH),Data not collected,13,TH,Sep-2022,Annual
+15,Transitional Housing (TH),Asian or Asian American,40,TH,Sep-2022,Annual
+16,Transitional Housing (TH),Native Hawaiian or Pacific Islander,41,TH,Sep-2022,Annual
+17,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",65,TH,Sep-2022,Annual
+18,Transitional Housing (TH),Multi-Racial,80,TH,Sep-2022,Annual
+19,Transitional Housing (TH),"Black, African American, or African",637,TH,Sep-2022,Annual
+20,Transitional Housing (TH),White,1737,TH,Sep-2022,Annual
+21,Day Shelter (DS),Client doesn't know,8,DS,Sep-2022,Annual
+22,Day Shelter (DS),Client refused,20,DS,Sep-2022,Annual
+23,Day Shelter (DS),Data not collected,24,DS,Sep-2022,Annual
+24,Day Shelter (DS),Native Hawaiian or Pacific Islander,90,DS,Sep-2022,Annual
+25,Day Shelter (DS),Asian or Asian American,118,DS,Sep-2022,Annual
+26,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",199,DS,Sep-2022,Annual
+27,Day Shelter (DS),Multi-Racial,243,DS,Sep-2022,Annual
+28,Day Shelter (DS),"Black, African American, or African",1881,DS,Sep-2022,Annual
+29,Day Shelter (DS),White,4349,DS,Sep-2022,Annual
+30,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,21,HP,Sep-2022,Annual
+31,Homelessness Prevention (HP),Client refused,24,HP,Sep-2022,Annual
+32,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",32,HP,Sep-2022,Annual
+33,Homelessness Prevention (HP),Data not collected,36,HP,Sep-2022,Annual
+34,Homelessness Prevention (HP),Client doesn't know,40,HP,Sep-2022,Annual
+35,Homelessness Prevention (HP),Asian or Asian American,58,HP,Sep-2022,Annual
+36,Homelessness Prevention (HP),Multi-Racial,85,HP,Sep-2022,Annual
+37,Homelessness Prevention (HP),"Black, African American, or African",499,HP,Sep-2022,Annual
+38,Homelessness Prevention (HP),White,1220,HP,Sep-2022,Annual
+39,Permanent Housing (PH),Client refused,23,PH,Sep-2022,Annual
+40,Permanent Housing (PH),Data not collected,101,PH,Sep-2022,Annual
+41,Permanent Housing (PH),Client doesn't know,171,PH,Sep-2022,Annual
+42,Permanent Housing (PH),Native Hawaiian or Pacific Islander,213,PH,Sep-2022,Annual
+43,Permanent Housing (PH),Asian or Asian American,251,PH,Sep-2022,Annual
+44,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",254,PH,Sep-2022,Annual
+45,Permanent Housing (PH),Multi-Racial,668,PH,Sep-2022,Annual
+46,Permanent Housing (PH),"Black, African American, or African",4350,PH,Sep-2022,Annual
+47,Permanent Housing (PH),White,8120,PH,Sep-2022,Annual
+48,Emergency Shelter (ES),Client refused,34,ES,Sep-2022,Annual
+49,Emergency Shelter (ES),Data not collected,108,ES,Sep-2022,Annual
+50,Emergency Shelter (ES),Client doesn't know,153,ES,Sep-2022,Annual
+51,Emergency Shelter (ES),Asian or Asian American,170,ES,Sep-2022,Annual
+52,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,186,ES,Sep-2022,Annual
+53,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",308,ES,Sep-2022,Annual
+54,Emergency Shelter (ES),Multi-Racial,410,ES,Sep-2022,Annual
+55,Emergency Shelter (ES),"Black, African American, or African",2633,ES,Sep-2022,Annual
+56,Emergency Shelter (ES),White,6988,ES,Sep-2022,Annual
+57,Coordinated Entry (CE),Client refused,56,CE,Sep-2022,Annual
+58,Coordinated Entry (CE),Client doesn't know,70,CE,Sep-2022,Annual
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,193,CE,Sep-2022,Annual
+60,Coordinated Entry (CE),Data not collected,196,CE,Sep-2022,Annual
+61,Coordinated Entry (CE),Asian or Asian American,226,CE,Sep-2022,Annual
+62,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",382,CE,Sep-2022,Annual
+63,Coordinated Entry (CE),Multi-Racial,616,CE,Sep-2022,Annual
+64,Coordinated Entry (CE),"Black, African American, or African",3525,CE,Sep-2022,Annual
+65,Coordinated Entry (CE),White,8563,CE,Sep-2022,Annual
+66,Street Outreach (OUT),Client doesn't know,72,OUT,Sep-2022,Annual
+67,Street Outreach (OUT),Client refused,104,OUT,Sep-2022,Annual
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,156,OUT,Sep-2022,Annual
+69,Street Outreach (OUT),Asian or Asian American,202,OUT,Sep-2022,Annual
+70,Street Outreach (OUT),Data not collected,351,OUT,Sep-2022,Annual
+71,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",353,OUT,Sep-2022,Annual
+72,Street Outreach (OUT),Multi-Racial,472,OUT,Sep-2022,Annual
+73,Street Outreach (OUT),"Black, African American, or African",2728,OUT,Sep-2022,Annual
+74,Street Outreach (OUT),White,8083,OUT,Sep-2022,Annual
+75,Services Only (SO),Client doesn't know,82,SO,Sep-2022,Annual
+76,Services Only (SO),Client refused,93,SO,Sep-2022,Annual
+77,Services Only (SO),Native Hawaiian or Pacific Islander,161,SO,Sep-2022,Annual
+78,Services Only (SO),Data not collected,174,SO,Sep-2022,Annual
+79,Services Only (SO),Asian or Asian American,227,SO,Sep-2022,Annual
+80,Services Only (SO),"American Indian, Alaska Native, or Indigenous",320,SO,Sep-2022,Annual
+81,Services Only (SO),Multi-Racial,647,SO,Sep-2022,Annual
+82,Services Only (SO),"Black, African American, or African",3321,SO,Sep-2022,Annual
+83,Services Only (SO),White,7787,SO,Sep-2022,Annual
+0,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",1,SH,Oct-2022,Monthly
+1,Safe Haven (SH),Multi-Racial,1,SH,Oct-2022,Monthly
+2,Safe Haven (SH),Native Hawaiian or Pacific Islander,1,SH,Oct-2022,Monthly
+3,Safe Haven (SH),"Black, African American, or African",5,SH,Oct-2022,Monthly
+4,Safe Haven (SH),White,26,SH,Oct-2022,Monthly
+5,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Oct-2022,Monthly
+6,Other (OTH),Asian or Asian American,2,OTH,Oct-2022,Monthly
+7,Other (OTH),Multi-Racial,5,OTH,Oct-2022,Monthly
+8,Other (OTH),"Black, African American, or African",15,OTH,Oct-2022,Monthly
+9,Other (OTH),White,38,OTH,Oct-2022,Monthly
+10,Transitional Housing (TH),Client refused,3,TH,Oct-2022,Monthly
+11,Transitional Housing (TH),Data not collected,5,TH,Oct-2022,Monthly
+12,Transitional Housing (TH),Client doesn't know,7,TH,Oct-2022,Monthly
+13,Transitional Housing (TH),Native Hawaiian or Pacific Islander,13,TH,Oct-2022,Monthly
+14,Transitional Housing (TH),Asian or Asian American,19,TH,Oct-2022,Monthly
+15,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",21,TH,Oct-2022,Monthly
+16,Transitional Housing (TH),Multi-Racial,38,TH,Oct-2022,Monthly
+17,Transitional Housing (TH),"Black, African American, or African",266,TH,Oct-2022,Monthly
+18,Transitional Housing (TH),White,679,TH,Oct-2022,Monthly
+19,Day Shelter (DS),Client doesn't know,6,DS,Oct-2022,Monthly
+20,Day Shelter (DS),Client refused,14,DS,Oct-2022,Monthly
+21,Day Shelter (DS),Data not collected,16,DS,Oct-2022,Monthly
+22,Day Shelter (DS),Native Hawaiian or Pacific Islander,69,DS,Oct-2022,Monthly
+23,Day Shelter (DS),Asian or Asian American,83,DS,Oct-2022,Monthly
+24,Day Shelter (DS),Multi-Racial,137,DS,Oct-2022,Monthly
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",141,DS,Oct-2022,Monthly
+26,Day Shelter (DS),"Black, African American, or African",1189,DS,Oct-2022,Monthly
+27,Day Shelter (DS),White,2675,DS,Oct-2022,Monthly
+28,Homelessness Prevention (HP),Client doesn't know,7,HP,Oct-2022,Monthly
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,10,HP,Oct-2022,Monthly
+30,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",11,HP,Oct-2022,Monthly
+31,Homelessness Prevention (HP),Client refused,26,HP,Oct-2022,Monthly
+32,Homelessness Prevention (HP),Data not collected,30,HP,Oct-2022,Monthly
+33,Homelessness Prevention (HP),Asian or Asian American,33,HP,Oct-2022,Monthly
+34,Homelessness Prevention (HP),Multi-Racial,43,HP,Oct-2022,Monthly
+35,Homelessness Prevention (HP),"Black, African American, or African",295,HP,Oct-2022,Monthly
+36,Homelessness Prevention (HP),White,496,HP,Oct-2022,Monthly
+37,Emergency Shelter (ES),Client refused,13,ES,Oct-2022,Monthly
+38,Emergency Shelter (ES),Data not collected,54,ES,Oct-2022,Monthly
+39,Emergency Shelter (ES),Asian or Asian American,64,ES,Oct-2022,Monthly
+40,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,84,ES,Oct-2022,Monthly
+41,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",109,ES,Oct-2022,Monthly
+42,Emergency Shelter (ES),Client doesn't know,121,ES,Oct-2022,Monthly
+43,Emergency Shelter (ES),Multi-Racial,136,ES,Oct-2022,Monthly
+44,Emergency Shelter (ES),"Black, African American, or African",1060,ES,Oct-2022,Monthly
+45,Emergency Shelter (ES),White,2733,ES,Oct-2022,Monthly
+46,Coordinated Entry (CE),Client refused,15,CE,Oct-2022,Monthly
+47,Coordinated Entry (CE),Client doesn't know,20,CE,Oct-2022,Monthly
+48,Coordinated Entry (CE),Data not collected,42,CE,Oct-2022,Monthly
+49,Coordinated Entry (CE),Asian or Asian American,54,CE,Oct-2022,Monthly
+50,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,61,CE,Oct-2022,Monthly
+51,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",93,CE,Oct-2022,Monthly
+52,Coordinated Entry (CE),Multi-Racial,156,CE,Oct-2022,Monthly
+53,Coordinated Entry (CE),"Black, African American, or African",868,CE,Oct-2022,Monthly
+54,Coordinated Entry (CE),White,2062,CE,Oct-2022,Monthly
+55,Street Outreach (OUT),Client doesn't know,16,OUT,Oct-2022,Monthly
+56,Street Outreach (OUT),Asian or Asian American,29,OUT,Oct-2022,Monthly
+57,Street Outreach (OUT),Data not collected,32,OUT,Oct-2022,Monthly
+58,Street Outreach (OUT),Native Hawaiian or Pacific Islander,44,OUT,Oct-2022,Monthly
+59,Street Outreach (OUT),Client refused,55,OUT,Oct-2022,Monthly
+60,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",72,OUT,Oct-2022,Monthly
+61,Street Outreach (OUT),Multi-Racial,117,OUT,Oct-2022,Monthly
+62,Street Outreach (OUT),"Black, African American, or African",636,OUT,Oct-2022,Monthly
+63,Street Outreach (OUT),White,1688,OUT,Oct-2022,Monthly
+64,Permanent Housing (PH),Client refused,22,PH,Oct-2022,Monthly
+65,Permanent Housing (PH),Data not collected,95,PH,Oct-2022,Monthly
+66,Permanent Housing (PH),Client doesn't know,170,PH,Oct-2022,Monthly
+67,Permanent Housing (PH),Native Hawaiian or Pacific Islander,186,PH,Oct-2022,Monthly
+68,Permanent Housing (PH),Asian or Asian American,203,PH,Oct-2022,Monthly
+69,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",213,PH,Oct-2022,Monthly
+70,Permanent Housing (PH),Multi-Racial,539,PH,Oct-2022,Monthly
+71,Permanent Housing (PH),"Black, African American, or African",3577,PH,Oct-2022,Monthly
+72,Permanent Housing (PH),White,6870,PH,Oct-2022,Monthly
+73,Services Only (SO),Client refused,50,SO,Oct-2022,Monthly
+74,Services Only (SO),Client doesn't know,54,SO,Oct-2022,Monthly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,98,SO,Oct-2022,Monthly
+76,Services Only (SO),Data not collected,98,SO,Oct-2022,Monthly
+77,Services Only (SO),Asian or Asian American,117,SO,Oct-2022,Monthly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",174,SO,Oct-2022,Monthly
+79,Services Only (SO),Multi-Racial,351,SO,Oct-2022,Monthly
+80,Services Only (SO),"Black, African American, or African",1721,SO,Oct-2022,Monthly
+81,Services Only (SO),White,4095,SO,Oct-2022,Monthly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Oct-2022,Quarterly
+1,Other (OTH),Asian or Asian American,2,OTH,Oct-2022,Quarterly
+2,Other (OTH),Multi-Racial,5,OTH,Oct-2022,Quarterly
+3,Other (OTH),"Black, African American, or African",15,OTH,Oct-2022,Quarterly
+4,Other (OTH),White,44,OTH,Oct-2022,Quarterly
+5,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Oct-2022,Quarterly
+6,Safe Haven (SH),Multi-Racial,2,SH,Oct-2022,Quarterly
+7,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Oct-2022,Quarterly
+8,Safe Haven (SH),"Black, African American, or African",9,SH,Oct-2022,Quarterly
+9,Safe Haven (SH),White,40,SH,Oct-2022,Quarterly
+10,Transitional Housing (TH),Client refused,3,TH,Oct-2022,Quarterly
+11,Transitional Housing (TH),Data not collected,6,TH,Oct-2022,Quarterly
+12,Transitional Housing (TH),Client doesn't know,8,TH,Oct-2022,Quarterly
+13,Transitional Housing (TH),Asian or Asian American,21,TH,Oct-2022,Quarterly
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,22,TH,Oct-2022,Quarterly
+15,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",29,TH,Oct-2022,Quarterly
+16,Transitional Housing (TH),Multi-Racial,50,TH,Oct-2022,Quarterly
+17,Transitional Housing (TH),"Black, African American, or African",375,TH,Oct-2022,Quarterly
+18,Transitional Housing (TH),White,1018,TH,Oct-2022,Quarterly
+19,Homelessness Prevention (HP),Client doesn't know,8,HP,Oct-2022,Quarterly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Oct-2022,Quarterly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",19,HP,Oct-2022,Quarterly
+22,Homelessness Prevention (HP),Client refused,27,HP,Oct-2022,Quarterly
+23,Homelessness Prevention (HP),Data not collected,36,HP,Oct-2022,Quarterly
+24,Homelessness Prevention (HP),Asian or Asian American,49,HP,Oct-2022,Quarterly
+25,Homelessness Prevention (HP),Multi-Racial,57,HP,Oct-2022,Quarterly
+26,Homelessness Prevention (HP),"Black, African American, or African",372,HP,Oct-2022,Quarterly
+27,Homelessness Prevention (HP),White,692,HP,Oct-2022,Quarterly
+28,Day Shelter (DS),Client doesn't know,9,DS,Oct-2022,Quarterly
+29,Day Shelter (DS),Client refused,16,DS,Oct-2022,Quarterly
+30,Day Shelter (DS),Data not collected,19,DS,Oct-2022,Quarterly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,78,DS,Oct-2022,Quarterly
+32,Day Shelter (DS),Asian or Asian American,97,DS,Oct-2022,Quarterly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",166,DS,Oct-2022,Quarterly
+34,Day Shelter (DS),Multi-Racial,167,DS,Oct-2022,Quarterly
+35,Day Shelter (DS),"Black, African American, or African",1406,DS,Oct-2022,Quarterly
+36,Day Shelter (DS),White,3257,DS,Oct-2022,Quarterly
+37,Emergency Shelter (ES),Client refused,18,ES,Oct-2022,Quarterly
+38,Emergency Shelter (ES),Data not collected,68,ES,Oct-2022,Quarterly
+39,Emergency Shelter (ES),Asian or Asian American,89,ES,Oct-2022,Quarterly
+40,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,112,ES,Oct-2022,Quarterly
+41,Emergency Shelter (ES),Client doesn't know,126,ES,Oct-2022,Quarterly
+42,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",173,ES,Oct-2022,Quarterly
+43,Emergency Shelter (ES),Multi-Racial,199,ES,Oct-2022,Quarterly
+44,Emergency Shelter (ES),"Black, African American, or African",1474,ES,Oct-2022,Quarterly
+45,Emergency Shelter (ES),White,3831,ES,Oct-2022,Quarterly
+46,Permanent Housing (PH),Client refused,22,PH,Oct-2022,Quarterly
+47,Permanent Housing (PH),Data not collected,98,PH,Oct-2022,Quarterly
+48,Permanent Housing (PH),Client doesn't know,171,PH,Oct-2022,Quarterly
+49,Permanent Housing (PH),Native Hawaiian or Pacific Islander,197,PH,Oct-2022,Quarterly
+50,Permanent Housing (PH),Asian or Asian American,214,PH,Oct-2022,Quarterly
+51,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",230,PH,Oct-2022,Quarterly
+52,Permanent Housing (PH),Multi-Racial,569,PH,Oct-2022,Quarterly
+53,Permanent Housing (PH),"Black, African American, or African",3815,PH,Oct-2022,Quarterly
+54,Permanent Housing (PH),White,7267,PH,Oct-2022,Quarterly
+55,Street Outreach (OUT),Client doesn't know,31,OUT,Oct-2022,Quarterly
+56,Street Outreach (OUT),Asian or Asian American,64,OUT,Oct-2022,Quarterly
+57,Street Outreach (OUT),Client refused,79,OUT,Oct-2022,Quarterly
+58,Street Outreach (OUT),Native Hawaiian or Pacific Islander,83,OUT,Oct-2022,Quarterly
+59,Street Outreach (OUT),Data not collected,116,OUT,Oct-2022,Quarterly
+60,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",162,OUT,Oct-2022,Quarterly
+61,Street Outreach (OUT),Multi-Racial,219,OUT,Oct-2022,Quarterly
+62,Street Outreach (OUT),"Black, African American, or African",1252,OUT,Oct-2022,Quarterly
+63,Street Outreach (OUT),White,3666,OUT,Oct-2022,Quarterly
+64,Coordinated Entry (CE),Client refused,36,CE,Oct-2022,Quarterly
+65,Coordinated Entry (CE),Client doesn't know,45,CE,Oct-2022,Quarterly
+66,Coordinated Entry (CE),Data not collected,104,CE,Oct-2022,Quarterly
+67,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,112,CE,Oct-2022,Quarterly
+68,Coordinated Entry (CE),Asian or Asian American,120,CE,Oct-2022,Quarterly
+69,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",208,CE,Oct-2022,Quarterly
+70,Coordinated Entry (CE),Multi-Racial,346,CE,Oct-2022,Quarterly
+71,Coordinated Entry (CE),"Black, African American, or African",1910,CE,Oct-2022,Quarterly
+72,Coordinated Entry (CE),White,4643,CE,Oct-2022,Quarterly
+73,Services Only (SO),Client refused,60,SO,Oct-2022,Quarterly
+74,Services Only (SO),Client doesn't know,67,SO,Oct-2022,Quarterly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,116,SO,Oct-2022,Quarterly
+76,Services Only (SO),Data not collected,134,SO,Oct-2022,Quarterly
+77,Services Only (SO),Asian or Asian American,146,SO,Oct-2022,Quarterly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",219,SO,Oct-2022,Quarterly
+79,Services Only (SO),Multi-Racial,458,SO,Oct-2022,Quarterly
+80,Services Only (SO),"Black, African American, or African",2231,SO,Oct-2022,Quarterly
+81,Services Only (SO),White,5225,SO,Oct-2022,Quarterly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Oct-2022,6 - Month
+1,Other (OTH),Asian or Asian American,2,OTH,Oct-2022,6 - Month
+2,Other (OTH),Multi-Racial,5,OTH,Oct-2022,6 - Month
+3,Other (OTH),"Black, African American, or African",15,OTH,Oct-2022,6 - Month
+4,Other (OTH),White,44,OTH,Oct-2022,6 - Month
+5,Safe Haven (SH),Asian or Asian American,1,SH,Oct-2022,6 - Month
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Oct-2022,6 - Month
+7,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Oct-2022,6 - Month
+8,Safe Haven (SH),Multi-Racial,2,SH,Oct-2022,6 - Month
+9,Safe Haven (SH),"Black, African American, or African",12,SH,Oct-2022,6 - Month
+10,Safe Haven (SH),White,45,SH,Oct-2022,6 - Month
+11,Transitional Housing (TH),Client refused,3,TH,Oct-2022,6 - Month
+12,Transitional Housing (TH),Data not collected,7,TH,Oct-2022,6 - Month
+13,Transitional Housing (TH),Client doesn't know,9,TH,Oct-2022,6 - Month
+14,Transitional Housing (TH),Asian or Asian American,22,TH,Oct-2022,6 - Month
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,27,TH,Oct-2022,6 - Month
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",40,TH,Oct-2022,6 - Month
+17,Transitional Housing (TH),Multi-Racial,54,TH,Oct-2022,6 - Month
+18,Transitional Housing (TH),"Black, African American, or African",451,TH,Oct-2022,6 - Month
+19,Transitional Housing (TH),White,1232,TH,Oct-2022,6 - Month
+20,Day Shelter (DS),Client doesn't know,9,DS,Oct-2022,6 - Month
+21,Day Shelter (DS),Client refused,17,DS,Oct-2022,6 - Month
+22,Day Shelter (DS),Data not collected,22,DS,Oct-2022,6 - Month
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,80,DS,Oct-2022,6 - Month
+24,Day Shelter (DS),Asian or Asian American,101,DS,Oct-2022,6 - Month
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",184,DS,Oct-2022,6 - Month
+26,Day Shelter (DS),Multi-Racial,191,DS,Oct-2022,6 - Month
+27,Day Shelter (DS),"Black, African American, or African",1551,DS,Oct-2022,6 - Month
+28,Day Shelter (DS),White,3564,DS,Oct-2022,6 - Month
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Oct-2022,6 - Month
+30,Homelessness Prevention (HP),Client doesn't know,23,HP,Oct-2022,6 - Month
+31,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",26,HP,Oct-2022,6 - Month
+32,Homelessness Prevention (HP),Client refused,27,HP,Oct-2022,6 - Month
+33,Homelessness Prevention (HP),Data not collected,41,HP,Oct-2022,6 - Month
+34,Homelessness Prevention (HP),Asian or Asian American,53,HP,Oct-2022,6 - Month
+35,Homelessness Prevention (HP),Multi-Racial,69,HP,Oct-2022,6 - Month
+36,Homelessness Prevention (HP),"Black, African American, or African",420,HP,Oct-2022,6 - Month
+37,Homelessness Prevention (HP),White,873,HP,Oct-2022,6 - Month
+38,Emergency Shelter (ES),Client refused,21,ES,Oct-2022,6 - Month
+39,Emergency Shelter (ES),Data not collected,72,ES,Oct-2022,6 - Month
+40,Emergency Shelter (ES),Asian or Asian American,111,ES,Oct-2022,6 - Month
+41,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,146,ES,Oct-2022,6 - Month
+42,Emergency Shelter (ES),Client doesn't know,147,ES,Oct-2022,6 - Month
+43,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",206,ES,Oct-2022,6 - Month
+44,Emergency Shelter (ES),Multi-Racial,244,ES,Oct-2022,6 - Month
+45,Emergency Shelter (ES),"Black, African American, or African",1831,ES,Oct-2022,6 - Month
+46,Emergency Shelter (ES),White,4731,ES,Oct-2022,6 - Month
+47,Permanent Housing (PH),Client refused,24,PH,Oct-2022,6 - Month
+48,Permanent Housing (PH),Data not collected,101,PH,Oct-2022,6 - Month
+49,Permanent Housing (PH),Client doesn't know,171,PH,Oct-2022,6 - Month
+50,Permanent Housing (PH),Native Hawaiian or Pacific Islander,200,PH,Oct-2022,6 - Month
+51,Permanent Housing (PH),Asian or Asian American,225,PH,Oct-2022,6 - Month
+52,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",240,PH,Oct-2022,6 - Month
+53,Permanent Housing (PH),Multi-Racial,591,PH,Oct-2022,6 - Month
+54,Permanent Housing (PH),"Black, African American, or African",3935,PH,Oct-2022,6 - Month
+55,Permanent Housing (PH),White,7512,PH,Oct-2022,6 - Month
+56,Coordinated Entry (CE),Client refused,39,CE,Oct-2022,6 - Month
+57,Coordinated Entry (CE),Client doesn't know,48,CE,Oct-2022,6 - Month
+58,Coordinated Entry (CE),Data not collected,132,CE,Oct-2022,6 - Month
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,141,CE,Oct-2022,6 - Month
+60,Coordinated Entry (CE),Asian or Asian American,157,CE,Oct-2022,6 - Month
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",273,CE,Oct-2022,6 - Month
+62,Coordinated Entry (CE),Multi-Racial,433,CE,Oct-2022,6 - Month
+63,Coordinated Entry (CE),"Black, African American, or African",2452,CE,Oct-2022,6 - Month
+64,Coordinated Entry (CE),White,5902,CE,Oct-2022,6 - Month
+65,Street Outreach (OUT),Client doesn't know,47,OUT,Oct-2022,6 - Month
+66,Street Outreach (OUT),Asian or Asian American,96,OUT,Oct-2022,6 - Month
+67,Street Outreach (OUT),Client refused,103,OUT,Oct-2022,6 - Month
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,104,OUT,Oct-2022,6 - Month
+69,Street Outreach (OUT),Data not collected,191,OUT,Oct-2022,6 - Month
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",214,OUT,Oct-2022,6 - Month
+71,Street Outreach (OUT),Multi-Racial,293,OUT,Oct-2022,6 - Month
+72,Street Outreach (OUT),"Black, African American, or African",1759,OUT,Oct-2022,6 - Month
+73,Street Outreach (OUT),White,5135,OUT,Oct-2022,6 - Month
+74,Services Only (SO),Client refused,67,SO,Oct-2022,6 - Month
+75,Services Only (SO),Client doesn't know,73,SO,Oct-2022,6 - Month
+76,Services Only (SO),Native Hawaiian or Pacific Islander,140,SO,Oct-2022,6 - Month
+77,Services Only (SO),Data not collected,143,SO,Oct-2022,6 - Month
+78,Services Only (SO),Asian or Asian American,169,SO,Oct-2022,6 - Month
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",248,SO,Oct-2022,6 - Month
+80,Services Only (SO),Multi-Racial,504,SO,Oct-2022,6 - Month
+81,Services Only (SO),"Black, African American, or African",2508,SO,Oct-2022,6 - Month
+82,Services Only (SO),White,5918,SO,Oct-2022,6 - Month
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Oct-2022,Annual
+1,Other (OTH),Asian or Asian American,2,OTH,Oct-2022,Annual
+2,Other (OTH),Multi-Racial,5,OTH,Oct-2022,Annual
+3,Other (OTH),"Black, African American, or African",15,OTH,Oct-2022,Annual
+4,Other (OTH),White,44,OTH,Oct-2022,Annual
+5,Safe Haven (SH),Client refused,1,SH,Oct-2022,Annual
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Oct-2022,Annual
+7,Safe Haven (SH),Multi-Racial,2,SH,Oct-2022,Annual
+8,Safe Haven (SH),Asian or Asian American,2,SH,Oct-2022,Annual
+9,Safe Haven (SH),Native Hawaiian or Pacific Islander,3,SH,Oct-2022,Annual
+10,Safe Haven (SH),"Black, African American, or African",20,SH,Oct-2022,Annual
+11,Safe Haven (SH),White,79,SH,Oct-2022,Annual
+12,Transitional Housing (TH),Client refused,4,TH,Oct-2022,Annual
+13,Transitional Housing (TH),Client doesn't know,13,TH,Oct-2022,Annual
+14,Transitional Housing (TH),Data not collected,18,TH,Oct-2022,Annual
+15,Transitional Housing (TH),Asian or Asian American,34,TH,Oct-2022,Annual
+16,Transitional Housing (TH),Native Hawaiian or Pacific Islander,40,TH,Oct-2022,Annual
+17,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",63,TH,Oct-2022,Annual
+18,Transitional Housing (TH),Multi-Racial,76,TH,Oct-2022,Annual
+19,Transitional Housing (TH),"Black, African American, or African",649,TH,Oct-2022,Annual
+20,Transitional Housing (TH),White,1750,TH,Oct-2022,Annual
+21,Day Shelter (DS),Client doesn't know,9,DS,Oct-2022,Annual
+22,Day Shelter (DS),Client refused,21,DS,Oct-2022,Annual
+23,Day Shelter (DS),Data not collected,25,DS,Oct-2022,Annual
+24,Day Shelter (DS),Native Hawaiian or Pacific Islander,99,DS,Oct-2022,Annual
+25,Day Shelter (DS),Asian or Asian American,116,DS,Oct-2022,Annual
+26,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",211,DS,Oct-2022,Annual
+27,Day Shelter (DS),Multi-Racial,240,DS,Oct-2022,Annual
+28,Day Shelter (DS),"Black, African American, or African",1900,DS,Oct-2022,Annual
+29,Day Shelter (DS),White,4443,DS,Oct-2022,Annual
+30,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,19,HP,Oct-2022,Annual
+31,Homelessness Prevention (HP),Client refused,27,HP,Oct-2022,Annual
+32,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",31,HP,Oct-2022,Annual
+33,Homelessness Prevention (HP),Client doesn't know,39,HP,Oct-2022,Annual
+34,Homelessness Prevention (HP),Data not collected,41,HP,Oct-2022,Annual
+35,Homelessness Prevention (HP),Asian or Asian American,64,HP,Oct-2022,Annual
+36,Homelessness Prevention (HP),Multi-Racial,91,HP,Oct-2022,Annual
+37,Homelessness Prevention (HP),"Black, African American, or African",517,HP,Oct-2022,Annual
+38,Homelessness Prevention (HP),White,1227,HP,Oct-2022,Annual
+39,Permanent Housing (PH),Client refused,25,PH,Oct-2022,Annual
+40,Permanent Housing (PH),Data not collected,104,PH,Oct-2022,Annual
+41,Permanent Housing (PH),Client doesn't know,173,PH,Oct-2022,Annual
+42,Permanent Housing (PH),Native Hawaiian or Pacific Islander,218,PH,Oct-2022,Annual
+43,Permanent Housing (PH),Asian or Asian American,253,PH,Oct-2022,Annual
+44,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",263,PH,Oct-2022,Annual
+45,Permanent Housing (PH),Multi-Racial,679,PH,Oct-2022,Annual
+46,Permanent Housing (PH),"Black, African American, or African",4367,PH,Oct-2022,Annual
+47,Permanent Housing (PH),White,8221,PH,Oct-2022,Annual
+48,Emergency Shelter (ES),Client refused,32,ES,Oct-2022,Annual
+49,Emergency Shelter (ES),Data not collected,109,ES,Oct-2022,Annual
+50,Emergency Shelter (ES),Client doesn't know,153,ES,Oct-2022,Annual
+51,Emergency Shelter (ES),Asian or Asian American,170,ES,Oct-2022,Annual
+52,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,184,ES,Oct-2022,Annual
+53,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",320,ES,Oct-2022,Annual
+54,Emergency Shelter (ES),Multi-Racial,407,ES,Oct-2022,Annual
+55,Emergency Shelter (ES),"Black, African American, or African",2660,ES,Oct-2022,Annual
+56,Emergency Shelter (ES),White,7058,ES,Oct-2022,Annual
+57,Coordinated Entry (CE),Client refused,58,CE,Oct-2022,Annual
+58,Coordinated Entry (CE),Client doesn't know,73,CE,Oct-2022,Annual
+59,Coordinated Entry (CE),Data not collected,197,CE,Oct-2022,Annual
+60,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,217,CE,Oct-2022,Annual
+61,Coordinated Entry (CE),Asian or Asian American,234,CE,Oct-2022,Annual
+62,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",394,CE,Oct-2022,Annual
+63,Coordinated Entry (CE),Multi-Racial,646,CE,Oct-2022,Annual
+64,Coordinated Entry (CE),"Black, African American, or African",3644,CE,Oct-2022,Annual
+65,Coordinated Entry (CE),White,8736,CE,Oct-2022,Annual
+66,Street Outreach (OUT),Client doesn't know,75,OUT,Oct-2022,Annual
+67,Street Outreach (OUT),Client refused,142,OUT,Oct-2022,Annual
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,174,OUT,Oct-2022,Annual
+69,Street Outreach (OUT),Asian or Asian American,201,OUT,Oct-2022,Annual
+70,Street Outreach (OUT),Data not collected,333,OUT,Oct-2022,Annual
+71,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",366,OUT,Oct-2022,Annual
+72,Street Outreach (OUT),Multi-Racial,488,OUT,Oct-2022,Annual
+73,Street Outreach (OUT),"Black, African American, or African",2800,OUT,Oct-2022,Annual
+74,Street Outreach (OUT),White,8205,OUT,Oct-2022,Annual
+75,Services Only (SO),Client doesn't know,82,SO,Oct-2022,Annual
+76,Services Only (SO),Client refused,91,SO,Oct-2022,Annual
+77,Services Only (SO),Native Hawaiian or Pacific Islander,170,SO,Oct-2022,Annual
+78,Services Only (SO),Data not collected,179,SO,Oct-2022,Annual
+79,Services Only (SO),Asian or Asian American,231,SO,Oct-2022,Annual
+80,Services Only (SO),"American Indian, Alaska Native, or Indigenous",332,SO,Oct-2022,Annual
+81,Services Only (SO),Multi-Racial,664,SO,Oct-2022,Annual
+82,Services Only (SO),"Black, African American, or African",3358,SO,Oct-2022,Annual
+83,Services Only (SO),White,7960,SO,Oct-2022,Annual
+0,Safe Haven (SH),Multi-Racial,1,SH,Nov-2022,Monthly
+1,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",1,SH,Nov-2022,Monthly
+2,Safe Haven (SH),"Black, African American, or African",6,SH,Nov-2022,Monthly
+3,Safe Haven (SH),White,30,SH,Nov-2022,Monthly
+4,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Nov-2022,Monthly
+5,Other (OTH),Asian or Asian American,2,OTH,Nov-2022,Monthly
+6,Other (OTH),Multi-Racial,5,OTH,Nov-2022,Monthly
+7,Other (OTH),"Black, African American, or African",15,OTH,Nov-2022,Monthly
+8,Other (OTH),White,38,OTH,Nov-2022,Monthly
+9,Transitional Housing (TH),Client doesn't know,2,TH,Nov-2022,Monthly
+10,Transitional Housing (TH),Data not collected,4,TH,Nov-2022,Monthly
+11,Transitional Housing (TH),Client refused,5,TH,Nov-2022,Monthly
+12,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",13,TH,Nov-2022,Monthly
+13,Transitional Housing (TH),Native Hawaiian or Pacific Islander,15,TH,Nov-2022,Monthly
+14,Transitional Housing (TH),Asian or Asian American,17,TH,Nov-2022,Monthly
+15,Transitional Housing (TH),Multi-Racial,33,TH,Nov-2022,Monthly
+16,Transitional Housing (TH),"Black, African American, or African",239,TH,Nov-2022,Monthly
+17,Transitional Housing (TH),White,705,TH,Nov-2022,Monthly
+18,Homelessness Prevention (HP),Client doesn't know,5,HP,Nov-2022,Monthly
+19,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,9,HP,Nov-2022,Monthly
+20,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",13,HP,Nov-2022,Monthly
+21,Homelessness Prevention (HP),Client refused,27,HP,Nov-2022,Monthly
+22,Homelessness Prevention (HP),Data not collected,31,HP,Nov-2022,Monthly
+23,Homelessness Prevention (HP),Asian or Asian American,42,HP,Nov-2022,Monthly
+24,Homelessness Prevention (HP),Multi-Racial,44,HP,Nov-2022,Monthly
+25,Homelessness Prevention (HP),"Black, African American, or African",312,HP,Nov-2022,Monthly
+26,Homelessness Prevention (HP),White,505,HP,Nov-2022,Monthly
+27,Day Shelter (DS),Client doesn't know,7,DS,Nov-2022,Monthly
+28,Day Shelter (DS),Client refused,14,DS,Nov-2022,Monthly
+29,Day Shelter (DS),Data not collected,16,DS,Nov-2022,Monthly
+30,Day Shelter (DS),Native Hawaiian or Pacific Islander,69,DS,Nov-2022,Monthly
+31,Day Shelter (DS),Asian or Asian American,81,DS,Nov-2022,Monthly
+32,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",136,DS,Nov-2022,Monthly
+33,Day Shelter (DS),Multi-Racial,137,DS,Nov-2022,Monthly
+34,Day Shelter (DS),"Black, African American, or African",1125,DS,Nov-2022,Monthly
+35,Day Shelter (DS),White,2612,DS,Nov-2022,Monthly
+36,Street Outreach (OUT),Client doesn't know,14,OUT,Nov-2022,Monthly
+37,Street Outreach (OUT),Client refused,19,OUT,Nov-2022,Monthly
+38,Street Outreach (OUT),Asian or Asian American,30,OUT,Nov-2022,Monthly
+39,Street Outreach (OUT),Native Hawaiian or Pacific Islander,31,OUT,Nov-2022,Monthly
+40,Street Outreach (OUT),Data not collected,44,OUT,Nov-2022,Monthly
+41,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",55,OUT,Nov-2022,Monthly
+42,Street Outreach (OUT),Multi-Racial,108,OUT,Nov-2022,Monthly
+43,Street Outreach (OUT),"Black, African American, or African",598,OUT,Nov-2022,Monthly
+44,Street Outreach (OUT),White,1569,OUT,Nov-2022,Monthly
+45,Emergency Shelter (ES),Client refused,15,ES,Nov-2022,Monthly
+46,Emergency Shelter (ES),Data not collected,61,ES,Nov-2022,Monthly
+47,Emergency Shelter (ES),Asian or Asian American,70,ES,Nov-2022,Monthly
+48,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,88,ES,Nov-2022,Monthly
+49,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",108,ES,Nov-2022,Monthly
+50,Emergency Shelter (ES),Client doesn't know,125,ES,Nov-2022,Monthly
+51,Emergency Shelter (ES),Multi-Racial,149,ES,Nov-2022,Monthly
+52,Emergency Shelter (ES),"Black, African American, or African",1056,ES,Nov-2022,Monthly
+53,Emergency Shelter (ES),White,2659,ES,Nov-2022,Monthly
+54,Coordinated Entry (CE),Client doesn't know,17,CE,Nov-2022,Monthly
+55,Coordinated Entry (CE),Client refused,18,CE,Nov-2022,Monthly
+56,Coordinated Entry (CE),Data not collected,43,CE,Nov-2022,Monthly
+57,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,43,CE,Nov-2022,Monthly
+58,Coordinated Entry (CE),Asian or Asian American,57,CE,Nov-2022,Monthly
+59,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",89,CE,Nov-2022,Monthly
+60,Coordinated Entry (CE),Multi-Racial,142,CE,Nov-2022,Monthly
+61,Coordinated Entry (CE),"Black, African American, or African",787,CE,Nov-2022,Monthly
+62,Coordinated Entry (CE),White,1969,CE,Nov-2022,Monthly
+63,Permanent Housing (PH),Client refused,23,PH,Nov-2022,Monthly
+64,Permanent Housing (PH),Data not collected,97,PH,Nov-2022,Monthly
+65,Permanent Housing (PH),Client doesn't know,169,PH,Nov-2022,Monthly
+66,Permanent Housing (PH),Native Hawaiian or Pacific Islander,188,PH,Nov-2022,Monthly
+67,Permanent Housing (PH),Asian or Asian American,207,PH,Nov-2022,Monthly
+68,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",211,PH,Nov-2022,Monthly
+69,Permanent Housing (PH),Multi-Racial,541,PH,Nov-2022,Monthly
+70,Permanent Housing (PH),"Black, African American, or African",3595,PH,Nov-2022,Monthly
+71,Permanent Housing (PH),White,6918,PH,Nov-2022,Monthly
+72,Services Only (SO),Client refused,47,SO,Nov-2022,Monthly
+73,Services Only (SO),Client doesn't know,52,SO,Nov-2022,Monthly
+74,Services Only (SO),Native Hawaiian or Pacific Islander,95,SO,Nov-2022,Monthly
+75,Services Only (SO),Data not collected,100,SO,Nov-2022,Monthly
+76,Services Only (SO),Asian or Asian American,127,SO,Nov-2022,Monthly
+77,Services Only (SO),"American Indian, Alaska Native, or Indigenous",178,SO,Nov-2022,Monthly
+78,Services Only (SO),Multi-Racial,357,SO,Nov-2022,Monthly
+79,Services Only (SO),"Black, African American, or African",1726,SO,Nov-2022,Monthly
+80,Services Only (SO),White,4203,SO,Nov-2022,Monthly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Nov-2022,Quarterly
+1,Other (OTH),Asian or Asian American,2,OTH,Nov-2022,Quarterly
+2,Other (OTH),Multi-Racial,5,OTH,Nov-2022,Quarterly
+3,Other (OTH),"Black, African American, or African",15,OTH,Nov-2022,Quarterly
+4,Other (OTH),White,38,OTH,Nov-2022,Quarterly
+5,Safe Haven (SH),Multi-Racial,1,SH,Nov-2022,Quarterly
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Nov-2022,Quarterly
+7,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Nov-2022,Quarterly
+8,Safe Haven (SH),"Black, African American, or African",10,SH,Nov-2022,Quarterly
+9,Safe Haven (SH),White,42,SH,Nov-2022,Quarterly
+10,Transitional Housing (TH),Client refused,5,TH,Nov-2022,Quarterly
+11,Transitional Housing (TH),Data not collected,7,TH,Nov-2022,Quarterly
+12,Transitional Housing (TH),Client doesn't know,8,TH,Nov-2022,Quarterly
+13,Transitional Housing (TH),Native Hawaiian or Pacific Islander,22,TH,Nov-2022,Quarterly
+14,Transitional Housing (TH),Asian or Asian American,22,TH,Nov-2022,Quarterly
+15,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",30,TH,Nov-2022,Quarterly
+16,Transitional Housing (TH),Multi-Racial,48,TH,Nov-2022,Quarterly
+17,Transitional Housing (TH),"Black, African American, or African",360,TH,Nov-2022,Quarterly
+18,Transitional Housing (TH),White,1031,TH,Nov-2022,Quarterly
+19,Homelessness Prevention (HP),Client doesn't know,8,HP,Nov-2022,Quarterly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Nov-2022,Quarterly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",21,HP,Nov-2022,Quarterly
+22,Homelessness Prevention (HP),Client refused,27,HP,Nov-2022,Quarterly
+23,Homelessness Prevention (HP),Data not collected,38,HP,Nov-2022,Quarterly
+24,Homelessness Prevention (HP),Asian or Asian American,53,HP,Nov-2022,Quarterly
+25,Homelessness Prevention (HP),Multi-Racial,55,HP,Nov-2022,Quarterly
+26,Homelessness Prevention (HP),"Black, African American, or African",403,HP,Nov-2022,Quarterly
+27,Homelessness Prevention (HP),White,702,HP,Nov-2022,Quarterly
+28,Day Shelter (DS),Client doesn't know,9,DS,Nov-2022,Quarterly
+29,Day Shelter (DS),Client refused,15,DS,Nov-2022,Quarterly
+30,Day Shelter (DS),Data not collected,21,DS,Nov-2022,Quarterly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,80,DS,Nov-2022,Quarterly
+32,Day Shelter (DS),Asian or Asian American,96,DS,Nov-2022,Quarterly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",163,DS,Nov-2022,Quarterly
+34,Day Shelter (DS),Multi-Racial,169,DS,Nov-2022,Quarterly
+35,Day Shelter (DS),"Black, African American, or African",1409,DS,Nov-2022,Quarterly
+36,Day Shelter (DS),White,3287,DS,Nov-2022,Quarterly
+37,Emergency Shelter (ES),Client refused,18,ES,Nov-2022,Quarterly
+38,Emergency Shelter (ES),Data not collected,70,ES,Nov-2022,Quarterly
+39,Emergency Shelter (ES),Asian or Asian American,88,ES,Nov-2022,Quarterly
+40,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,113,ES,Nov-2022,Quarterly
+41,Emergency Shelter (ES),Client doesn't know,128,ES,Nov-2022,Quarterly
+42,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",158,ES,Nov-2022,Quarterly
+43,Emergency Shelter (ES),Multi-Racial,207,ES,Nov-2022,Quarterly
+44,Emergency Shelter (ES),"Black, African American, or African",1492,ES,Nov-2022,Quarterly
+45,Emergency Shelter (ES),White,3814,ES,Nov-2022,Quarterly
+46,Permanent Housing (PH),Client refused,24,PH,Nov-2022,Quarterly
+47,Permanent Housing (PH),Data not collected,101,PH,Nov-2022,Quarterly
+48,Permanent Housing (PH),Client doesn't know,171,PH,Nov-2022,Quarterly
+49,Permanent Housing (PH),Native Hawaiian or Pacific Islander,198,PH,Nov-2022,Quarterly
+50,Permanent Housing (PH),Asian or Asian American,218,PH,Nov-2022,Quarterly
+51,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",233,PH,Nov-2022,Quarterly
+52,Permanent Housing (PH),Multi-Racial,568,PH,Nov-2022,Quarterly
+53,Permanent Housing (PH),"Black, African American, or African",3845,PH,Nov-2022,Quarterly
+54,Permanent Housing (PH),White,7322,PH,Nov-2022,Quarterly
+55,Coordinated Entry (CE),Client refused,34,CE,Nov-2022,Quarterly
+56,Coordinated Entry (CE),Client doesn't know,41,CE,Nov-2022,Quarterly
+57,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,108,CE,Nov-2022,Quarterly
+58,Coordinated Entry (CE),Data not collected,109,CE,Nov-2022,Quarterly
+59,Coordinated Entry (CE),Asian or Asian American,125,CE,Nov-2022,Quarterly
+60,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",207,CE,Nov-2022,Quarterly
+61,Coordinated Entry (CE),Multi-Racial,325,CE,Nov-2022,Quarterly
+62,Coordinated Entry (CE),"Black, African American, or African",1886,CE,Nov-2022,Quarterly
+63,Coordinated Entry (CE),White,4627,CE,Nov-2022,Quarterly
+64,Street Outreach (OUT),Client doesn't know,35,OUT,Nov-2022,Quarterly
+65,Street Outreach (OUT),Asian or Asian American,72,OUT,Nov-2022,Quarterly
+66,Street Outreach (OUT),Native Hawaiian or Pacific Islander,83,OUT,Nov-2022,Quarterly
+67,Street Outreach (OUT),Client refused,85,OUT,Nov-2022,Quarterly
+68,Street Outreach (OUT),Data not collected,130,OUT,Nov-2022,Quarterly
+69,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",156,OUT,Nov-2022,Quarterly
+70,Street Outreach (OUT),Multi-Racial,228,OUT,Nov-2022,Quarterly
+71,Street Outreach (OUT),"Black, African American, or African",1319,OUT,Nov-2022,Quarterly
+72,Street Outreach (OUT),White,3663,OUT,Nov-2022,Quarterly
+73,Services Only (SO),Client refused,58,SO,Nov-2022,Quarterly
+74,Services Only (SO),Client doesn't know,67,SO,Nov-2022,Quarterly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,118,SO,Nov-2022,Quarterly
+76,Services Only (SO),Data not collected,145,SO,Nov-2022,Quarterly
+77,Services Only (SO),Asian or Asian American,152,SO,Nov-2022,Quarterly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",229,SO,Nov-2022,Quarterly
+79,Services Only (SO),Multi-Racial,460,SO,Nov-2022,Quarterly
+80,Services Only (SO),"Black, African American, or African",2271,SO,Nov-2022,Quarterly
+81,Services Only (SO),White,5415,SO,Nov-2022,Quarterly
+0,Safe Haven (SH),Asian or Asian American,1,SH,Nov-2022,6 - Month
+1,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Nov-2022,6 - Month
+2,Safe Haven (SH),Multi-Racial,2,SH,Nov-2022,6 - Month
+3,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Nov-2022,6 - Month
+4,Safe Haven (SH),"Black, African American, or African",12,SH,Nov-2022,6 - Month
+5,Safe Haven (SH),White,47,SH,Nov-2022,6 - Month
+6,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Nov-2022,6 - Month
+7,Other (OTH),Asian or Asian American,2,OTH,Nov-2022,6 - Month
+8,Other (OTH),Multi-Racial,5,OTH,Nov-2022,6 - Month
+9,Other (OTH),"Black, African American, or African",15,OTH,Nov-2022,6 - Month
+10,Other (OTH),White,44,OTH,Nov-2022,6 - Month
+11,Transitional Housing (TH),Client refused,5,TH,Nov-2022,6 - Month
+12,Transitional Housing (TH),Data not collected,7,TH,Nov-2022,6 - Month
+13,Transitional Housing (TH),Client doesn't know,9,TH,Nov-2022,6 - Month
+14,Transitional Housing (TH),Asian or Asian American,23,TH,Nov-2022,6 - Month
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,25,TH,Nov-2022,6 - Month
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",41,TH,Nov-2022,6 - Month
+17,Transitional Housing (TH),Multi-Racial,55,TH,Nov-2022,6 - Month
+18,Transitional Housing (TH),"Black, African American, or African",453,TH,Nov-2022,6 - Month
+19,Transitional Housing (TH),White,1239,TH,Nov-2022,6 - Month
+20,Day Shelter (DS),Client doesn't know,10,DS,Nov-2022,6 - Month
+21,Day Shelter (DS),Client refused,16,DS,Nov-2022,6 - Month
+22,Day Shelter (DS),Data not collected,21,DS,Nov-2022,6 - Month
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,83,DS,Nov-2022,6 - Month
+24,Day Shelter (DS),Asian or Asian American,102,DS,Nov-2022,6 - Month
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",181,DS,Nov-2022,6 - Month
+26,Day Shelter (DS),Multi-Racial,187,DS,Nov-2022,6 - Month
+27,Day Shelter (DS),"Black, African American, or African",1533,DS,Nov-2022,6 - Month
+28,Day Shelter (DS),White,3579,DS,Nov-2022,6 - Month
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Nov-2022,6 - Month
+30,Homelessness Prevention (HP),Client doesn't know,23,HP,Nov-2022,6 - Month
+31,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",27,HP,Nov-2022,6 - Month
+32,Homelessness Prevention (HP),Client refused,28,HP,Nov-2022,6 - Month
+33,Homelessness Prevention (HP),Data not collected,40,HP,Nov-2022,6 - Month
+34,Homelessness Prevention (HP),Asian or Asian American,63,HP,Nov-2022,6 - Month
+35,Homelessness Prevention (HP),Multi-Racial,64,HP,Nov-2022,6 - Month
+36,Homelessness Prevention (HP),"Black, African American, or African",441,HP,Nov-2022,6 - Month
+37,Homelessness Prevention (HP),White,870,HP,Nov-2022,6 - Month
+38,Emergency Shelter (ES),Client refused,21,ES,Nov-2022,6 - Month
+39,Emergency Shelter (ES),Data not collected,79,ES,Nov-2022,6 - Month
+40,Emergency Shelter (ES),Asian or Asian American,113,ES,Nov-2022,6 - Month
+41,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,133,ES,Nov-2022,6 - Month
+42,Emergency Shelter (ES),Client doesn't know,133,ES,Nov-2022,6 - Month
+43,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",200,ES,Nov-2022,6 - Month
+44,Emergency Shelter (ES),Multi-Racial,246,ES,Nov-2022,6 - Month
+45,Emergency Shelter (ES),"Black, African American, or African",1783,ES,Nov-2022,6 - Month
+46,Emergency Shelter (ES),White,4587,ES,Nov-2022,6 - Month
+47,Permanent Housing (PH),Client refused,26,PH,Nov-2022,6 - Month
+48,Permanent Housing (PH),Data not collected,101,PH,Nov-2022,6 - Month
+49,Permanent Housing (PH),Client doesn't know,171,PH,Nov-2022,6 - Month
+50,Permanent Housing (PH),Native Hawaiian or Pacific Islander,203,PH,Nov-2022,6 - Month
+51,Permanent Housing (PH),Asian or Asian American,228,PH,Nov-2022,6 - Month
+52,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",236,PH,Nov-2022,6 - Month
+53,Permanent Housing (PH),Multi-Racial,590,PH,Nov-2022,6 - Month
+54,Permanent Housing (PH),"Black, African American, or African",3968,PH,Nov-2022,6 - Month
+55,Permanent Housing (PH),White,7553,PH,Nov-2022,6 - Month
+56,Coordinated Entry (CE),Client refused,42,CE,Nov-2022,6 - Month
+57,Coordinated Entry (CE),Client doesn't know,49,CE,Nov-2022,6 - Month
+58,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,134,CE,Nov-2022,6 - Month
+59,Coordinated Entry (CE),Data not collected,140,CE,Nov-2022,6 - Month
+60,Coordinated Entry (CE),Asian or Asian American,157,CE,Nov-2022,6 - Month
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",266,CE,Nov-2022,6 - Month
+62,Coordinated Entry (CE),Multi-Racial,418,CE,Nov-2022,6 - Month
+63,Coordinated Entry (CE),"Black, African American, or African",2438,CE,Nov-2022,6 - Month
+64,Coordinated Entry (CE),White,5897,CE,Nov-2022,6 - Month
+65,Street Outreach (OUT),Client doesn't know,49,OUT,Nov-2022,6 - Month
+66,Street Outreach (OUT),Asian or Asian American,99,OUT,Nov-2022,6 - Month
+67,Street Outreach (OUT),Client refused,107,OUT,Nov-2022,6 - Month
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,110,OUT,Nov-2022,6 - Month
+69,Street Outreach (OUT),Data not collected,192,OUT,Nov-2022,6 - Month
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",207,OUT,Nov-2022,6 - Month
+71,Street Outreach (OUT),Multi-Racial,301,OUT,Nov-2022,6 - Month
+72,Street Outreach (OUT),"Black, African American, or African",1728,OUT,Nov-2022,6 - Month
+73,Street Outreach (OUT),White,4988,OUT,Nov-2022,6 - Month
+74,Services Only (SO),Client refused,66,SO,Nov-2022,6 - Month
+75,Services Only (SO),Client doesn't know,72,SO,Nov-2022,6 - Month
+76,Services Only (SO),Native Hawaiian or Pacific Islander,143,SO,Nov-2022,6 - Month
+77,Services Only (SO),Data not collected,153,SO,Nov-2022,6 - Month
+78,Services Only (SO),Asian or Asian American,180,SO,Nov-2022,6 - Month
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",256,SO,Nov-2022,6 - Month
+80,Services Only (SO),Multi-Racial,516,SO,Nov-2022,6 - Month
+81,Services Only (SO),"Black, African American, or African",2571,SO,Nov-2022,6 - Month
+82,Services Only (SO),White,6135,SO,Nov-2022,6 - Month
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Nov-2022,Annual
+1,Other (OTH),Asian or Asian American,2,OTH,Nov-2022,Annual
+2,Other (OTH),Multi-Racial,5,OTH,Nov-2022,Annual
+3,Other (OTH),"Black, African American, or African",15,OTH,Nov-2022,Annual
+4,Other (OTH),White,44,OTH,Nov-2022,Annual
+5,Safe Haven (SH),Asian or Asian American,2,SH,Nov-2022,Annual
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Nov-2022,Annual
+7,Safe Haven (SH),Multi-Racial,2,SH,Nov-2022,Annual
+8,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Nov-2022,Annual
+9,Safe Haven (SH),"Black, African American, or African",21,SH,Nov-2022,Annual
+10,Safe Haven (SH),White,78,SH,Nov-2022,Annual
+11,Transitional Housing (TH),Client refused,6,TH,Nov-2022,Annual
+12,Transitional Housing (TH),Client doesn't know,12,TH,Nov-2022,Annual
+13,Transitional Housing (TH),Data not collected,19,TH,Nov-2022,Annual
+14,Transitional Housing (TH),Asian or Asian American,35,TH,Nov-2022,Annual
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,41,TH,Nov-2022,Annual
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",61,TH,Nov-2022,Annual
+17,Transitional Housing (TH),Multi-Racial,76,TH,Nov-2022,Annual
+18,Transitional Housing (TH),"Black, African American, or African",650,TH,Nov-2022,Annual
+19,Transitional Housing (TH),White,1791,TH,Nov-2022,Annual
+20,Day Shelter (DS),Client doesn't know,10,DS,Nov-2022,Annual
+21,Day Shelter (DS),Client refused,21,DS,Nov-2022,Annual
+22,Day Shelter (DS),Data not collected,25,DS,Nov-2022,Annual
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,103,DS,Nov-2022,Annual
+24,Day Shelter (DS),Asian or Asian American,115,DS,Nov-2022,Annual
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",215,DS,Nov-2022,Annual
+26,Day Shelter (DS),Multi-Racial,243,DS,Nov-2022,Annual
+27,Day Shelter (DS),"Black, African American, or African",1889,DS,Nov-2022,Annual
+28,Day Shelter (DS),White,4443,DS,Nov-2022,Annual
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,18,HP,Nov-2022,Annual
+30,Homelessness Prevention (HP),Client refused,28,HP,Nov-2022,Annual
+31,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",32,HP,Nov-2022,Annual
+32,Homelessness Prevention (HP),Client doesn't know,39,HP,Nov-2022,Annual
+33,Homelessness Prevention (HP),Data not collected,43,HP,Nov-2022,Annual
+34,Homelessness Prevention (HP),Asian or Asian American,74,HP,Nov-2022,Annual
+35,Homelessness Prevention (HP),Multi-Racial,92,HP,Nov-2022,Annual
+36,Homelessness Prevention (HP),"Black, African American, or African",546,HP,Nov-2022,Annual
+37,Homelessness Prevention (HP),White,1237,HP,Nov-2022,Annual
+38,Permanent Housing (PH),Client refused,27,PH,Nov-2022,Annual
+39,Permanent Housing (PH),Data not collected,107,PH,Nov-2022,Annual
+40,Permanent Housing (PH),Client doesn't know,173,PH,Nov-2022,Annual
+41,Permanent Housing (PH),Native Hawaiian or Pacific Islander,219,PH,Nov-2022,Annual
+42,Permanent Housing (PH),Asian or Asian American,259,PH,Nov-2022,Annual
+43,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",262,PH,Nov-2022,Annual
+44,Permanent Housing (PH),Multi-Racial,670,PH,Nov-2022,Annual
+45,Permanent Housing (PH),"Black, African American, or African",4372,PH,Nov-2022,Annual
+46,Permanent Housing (PH),White,8269,PH,Nov-2022,Annual
+47,Emergency Shelter (ES),Client refused,32,ES,Nov-2022,Annual
+48,Emergency Shelter (ES),Data not collected,103,ES,Nov-2022,Annual
+49,Emergency Shelter (ES),Client doesn't know,154,ES,Nov-2022,Annual
+50,Emergency Shelter (ES),Asian or Asian American,171,ES,Nov-2022,Annual
+51,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,190,ES,Nov-2022,Annual
+52,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",312,ES,Nov-2022,Annual
+53,Emergency Shelter (ES),Multi-Racial,410,ES,Nov-2022,Annual
+54,Emergency Shelter (ES),"Black, African American, or African",2633,ES,Nov-2022,Annual
+55,Emergency Shelter (ES),White,6935,ES,Nov-2022,Annual
+56,Coordinated Entry (CE),Client refused,60,CE,Nov-2022,Annual
+57,Coordinated Entry (CE),Client doesn't know,73,CE,Nov-2022,Annual
+58,Coordinated Entry (CE),Data not collected,211,CE,Nov-2022,Annual
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,221,CE,Nov-2022,Annual
+60,Coordinated Entry (CE),Asian or Asian American,240,CE,Nov-2022,Annual
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",398,CE,Nov-2022,Annual
+62,Coordinated Entry (CE),Multi-Racial,648,CE,Nov-2022,Annual
+63,Coordinated Entry (CE),"Black, African American, or African",3685,CE,Nov-2022,Annual
+64,Coordinated Entry (CE),White,8824,CE,Nov-2022,Annual
+65,Street Outreach (OUT),Client doesn't know,80,OUT,Nov-2022,Annual
+66,Street Outreach (OUT),Client refused,144,OUT,Nov-2022,Annual
+67,Street Outreach (OUT),Native Hawaiian or Pacific Islander,179,OUT,Nov-2022,Annual
+68,Street Outreach (OUT),Asian or Asian American,200,OUT,Nov-2022,Annual
+69,Street Outreach (OUT),Data not collected,338,OUT,Nov-2022,Annual
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",368,OUT,Nov-2022,Annual
+71,Street Outreach (OUT),Multi-Racial,490,OUT,Nov-2022,Annual
+72,Street Outreach (OUT),"Black, African American, or African",2832,OUT,Nov-2022,Annual
+73,Street Outreach (OUT),White,8212,OUT,Nov-2022,Annual
+74,Services Only (SO),Client doesn't know,82,SO,Nov-2022,Annual
+75,Services Only (SO),Client refused,91,SO,Nov-2022,Annual
+76,Services Only (SO),Native Hawaiian or Pacific Islander,177,SO,Nov-2022,Annual
+77,Services Only (SO),Data not collected,191,SO,Nov-2022,Annual
+78,Services Only (SO),Asian or Asian American,241,SO,Nov-2022,Annual
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",349,SO,Nov-2022,Annual
+80,Services Only (SO),Multi-Racial,672,SO,Nov-2022,Annual
+81,Services Only (SO),"Black, African American, or African",3418,SO,Nov-2022,Annual
+82,Services Only (SO),White,8176,SO,Nov-2022,Annual
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Dec-2022,Monthly
+1,Other (OTH),Asian or Asian American,2,OTH,Dec-2022,Monthly
+2,Other (OTH),Multi-Racial,5,OTH,Dec-2022,Monthly
+3,Other (OTH),"Black, African American, or African",15,OTH,Dec-2022,Monthly
+4,Other (OTH),White,38,OTH,Dec-2022,Monthly
+5,Transitional Housing (TH),Client doesn't know,1,TH,Dec-2022,Monthly
+6,Transitional Housing (TH),Client refused,5,TH,Dec-2022,Monthly
+7,Transitional Housing (TH),Data not collected,6,TH,Dec-2022,Monthly
+8,Transitional Housing (TH),Native Hawaiian or Pacific Islander,13,TH,Dec-2022,Monthly
+9,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",13,TH,Dec-2022,Monthly
+10,Transitional Housing (TH),Asian or Asian American,16,TH,Dec-2022,Monthly
+11,Transitional Housing (TH),Multi-Racial,35,TH,Dec-2022,Monthly
+12,Transitional Housing (TH),"Black, African American, or African",239,TH,Dec-2022,Monthly
+13,Transitional Housing (TH),White,665,TH,Dec-2022,Monthly
+14,Safe Haven (SH),Multi-Racial,1,SH,Dec-2022,Monthly
+15,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",2,SH,Dec-2022,Monthly
+16,Safe Haven (SH),"Black, African American, or African",5,SH,Dec-2022,Monthly
+17,Safe Haven (SH),White,33,SH,Dec-2022,Monthly
+18,Homelessness Prevention (HP),Client doesn't know,5,HP,Dec-2022,Monthly
+19,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",7,HP,Dec-2022,Monthly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,8,HP,Dec-2022,Monthly
+21,Homelessness Prevention (HP),Client refused,24,HP,Dec-2022,Monthly
+22,Homelessness Prevention (HP),Data not collected,27,HP,Dec-2022,Monthly
+23,Homelessness Prevention (HP),Asian or Asian American,42,HP,Dec-2022,Monthly
+24,Homelessness Prevention (HP),Multi-Racial,42,HP,Dec-2022,Monthly
+25,Homelessness Prevention (HP),"Black, African American, or African",331,HP,Dec-2022,Monthly
+26,Homelessness Prevention (HP),White,522,HP,Dec-2022,Monthly
+27,Day Shelter (DS),Client doesn't know,8,DS,Dec-2022,Monthly
+28,Day Shelter (DS),Client refused,16,DS,Dec-2022,Monthly
+29,Day Shelter (DS),Data not collected,16,DS,Dec-2022,Monthly
+30,Day Shelter (DS),Native Hawaiian or Pacific Islander,73,DS,Dec-2022,Monthly
+31,Day Shelter (DS),Asian or Asian American,82,DS,Dec-2022,Monthly
+32,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",141,DS,Dec-2022,Monthly
+33,Day Shelter (DS),Multi-Racial,144,DS,Dec-2022,Monthly
+34,Day Shelter (DS),"Black, African American, or African",1161,DS,Dec-2022,Monthly
+35,Day Shelter (DS),White,2691,DS,Dec-2022,Monthly
+36,Street Outreach (OUT),Client refused,19,OUT,Dec-2022,Monthly
+37,Street Outreach (OUT),Client doesn't know,20,OUT,Dec-2022,Monthly
+38,Street Outreach (OUT),Native Hawaiian or Pacific Islander,32,OUT,Dec-2022,Monthly
+39,Street Outreach (OUT),Data not collected,36,OUT,Dec-2022,Monthly
+40,Street Outreach (OUT),Asian or Asian American,39,OUT,Dec-2022,Monthly
+41,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",71,OUT,Dec-2022,Monthly
+42,Street Outreach (OUT),Multi-Racial,121,OUT,Dec-2022,Monthly
+43,Street Outreach (OUT),"Black, African American, or African",605,OUT,Dec-2022,Monthly
+44,Street Outreach (OUT),White,1628,OUT,Dec-2022,Monthly
+45,Emergency Shelter (ES),Client refused,19,ES,Dec-2022,Monthly
+46,Emergency Shelter (ES),Asian or Asian American,67,ES,Dec-2022,Monthly
+47,Emergency Shelter (ES),Data not collected,69,ES,Dec-2022,Monthly
+48,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,91,ES,Dec-2022,Monthly
+49,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",113,ES,Dec-2022,Monthly
+50,Emergency Shelter (ES),Client doesn't know,137,ES,Dec-2022,Monthly
+51,Emergency Shelter (ES),Multi-Racial,168,ES,Dec-2022,Monthly
+52,Emergency Shelter (ES),"Black, African American, or African",1087,ES,Dec-2022,Monthly
+53,Emergency Shelter (ES),White,2709,ES,Dec-2022,Monthly
+54,Coordinated Entry (CE),Client refused,19,CE,Dec-2022,Monthly
+55,Coordinated Entry (CE),Client doesn't know,24,CE,Dec-2022,Monthly
+56,Coordinated Entry (CE),Data not collected,40,CE,Dec-2022,Monthly
+57,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,51,CE,Dec-2022,Monthly
+58,Coordinated Entry (CE),Asian or Asian American,61,CE,Dec-2022,Monthly
+59,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",102,CE,Dec-2022,Monthly
+60,Coordinated Entry (CE),Multi-Racial,161,CE,Dec-2022,Monthly
+61,Coordinated Entry (CE),"Black, African American, or African",828,CE,Dec-2022,Monthly
+62,Coordinated Entry (CE),White,1987,CE,Dec-2022,Monthly
+63,Permanent Housing (PH),Client refused,23,PH,Dec-2022,Monthly
+64,Permanent Housing (PH),Data not collected,93,PH,Dec-2022,Monthly
+65,Permanent Housing (PH),Client doesn't know,172,PH,Dec-2022,Monthly
+66,Permanent Housing (PH),Native Hawaiian or Pacific Islander,183,PH,Dec-2022,Monthly
+67,Permanent Housing (PH),Asian or Asian American,198,PH,Dec-2022,Monthly
+68,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",207,PH,Dec-2022,Monthly
+69,Permanent Housing (PH),Multi-Racial,535,PH,Dec-2022,Monthly
+70,Permanent Housing (PH),"Black, African American, or African",3590,PH,Dec-2022,Monthly
+71,Permanent Housing (PH),White,6889,PH,Dec-2022,Monthly
+72,Services Only (SO),Client refused,53,SO,Dec-2022,Monthly
+73,Services Only (SO),Client doesn't know,55,SO,Dec-2022,Monthly
+74,Services Only (SO),Native Hawaiian or Pacific Islander,94,SO,Dec-2022,Monthly
+75,Services Only (SO),Data not collected,113,SO,Dec-2022,Monthly
+76,Services Only (SO),Asian or Asian American,131,SO,Dec-2022,Monthly
+77,Services Only (SO),"American Indian, Alaska Native, or Indigenous",193,SO,Dec-2022,Monthly
+78,Services Only (SO),Multi-Racial,369,SO,Dec-2022,Monthly
+79,Services Only (SO),"Black, African American, or African",1799,SO,Dec-2022,Monthly
+80,Services Only (SO),White,4299,SO,Dec-2022,Monthly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Dec-2022,Quarterly
+1,Other (OTH),Asian or Asian American,2,OTH,Dec-2022,Quarterly
+2,Other (OTH),Multi-Racial,5,OTH,Dec-2022,Quarterly
+3,Other (OTH),"Black, African American, or African",15,OTH,Dec-2022,Quarterly
+4,Other (OTH),White,38,OTH,Dec-2022,Quarterly
+5,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Dec-2022,Quarterly
+6,Safe Haven (SH),Multi-Racial,2,SH,Dec-2022,Quarterly
+7,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",3,SH,Dec-2022,Quarterly
+8,Safe Haven (SH),"Black, African American, or African",9,SH,Dec-2022,Quarterly
+9,Safe Haven (SH),White,46,SH,Dec-2022,Quarterly
+10,Transitional Housing (TH),Client refused,5,TH,Dec-2022,Quarterly
+11,Transitional Housing (TH),Client doesn't know,7,TH,Dec-2022,Quarterly
+12,Transitional Housing (TH),Data not collected,8,TH,Dec-2022,Quarterly
+13,Transitional Housing (TH),Native Hawaiian or Pacific Islander,17,TH,Dec-2022,Quarterly
+14,Transitional Housing (TH),Asian or Asian American,24,TH,Dec-2022,Quarterly
+15,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",29,TH,Dec-2022,Quarterly
+16,Transitional Housing (TH),Multi-Racial,51,TH,Dec-2022,Quarterly
+17,Transitional Housing (TH),"Black, African American, or African",366,TH,Dec-2022,Quarterly
+18,Transitional Housing (TH),White,1003,TH,Dec-2022,Quarterly
+19,Homelessness Prevention (HP),Client doesn't know,7,HP,Dec-2022,Quarterly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,13,HP,Dec-2022,Quarterly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",15,HP,Dec-2022,Quarterly
+22,Homelessness Prevention (HP),Client refused,27,HP,Dec-2022,Quarterly
+23,Homelessness Prevention (HP),Data not collected,35,HP,Dec-2022,Quarterly
+24,Homelessness Prevention (HP),Multi-Racial,49,HP,Dec-2022,Quarterly
+25,Homelessness Prevention (HP),Asian or Asian American,50,HP,Dec-2022,Quarterly
+26,Homelessness Prevention (HP),"Black, African American, or African",396,HP,Dec-2022,Quarterly
+27,Homelessness Prevention (HP),White,656,HP,Dec-2022,Quarterly
+28,Day Shelter (DS),Client doesn't know,8,DS,Dec-2022,Quarterly
+29,Day Shelter (DS),Client refused,17,DS,Dec-2022,Quarterly
+30,Day Shelter (DS),Data not collected,19,DS,Dec-2022,Quarterly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,81,DS,Dec-2022,Quarterly
+32,Day Shelter (DS),Asian or Asian American,95,DS,Dec-2022,Quarterly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",164,DS,Dec-2022,Quarterly
+34,Day Shelter (DS),Multi-Racial,169,DS,Dec-2022,Quarterly
+35,Day Shelter (DS),"Black, African American, or African",1390,DS,Dec-2022,Quarterly
+36,Day Shelter (DS),White,3221,DS,Dec-2022,Quarterly
+37,Emergency Shelter (ES),Client refused,23,ES,Dec-2022,Quarterly
+38,Emergency Shelter (ES),Data not collected,73,ES,Dec-2022,Quarterly
+39,Emergency Shelter (ES),Asian or Asian American,95,ES,Dec-2022,Quarterly
+40,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,121,ES,Dec-2022,Quarterly
+41,Emergency Shelter (ES),Client doesn't know,139,ES,Dec-2022,Quarterly
+42,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",167,ES,Dec-2022,Quarterly
+43,Emergency Shelter (ES),Multi-Racial,220,ES,Dec-2022,Quarterly
+44,Emergency Shelter (ES),"Black, African American, or African",1513,ES,Dec-2022,Quarterly
+45,Emergency Shelter (ES),White,3852,ES,Dec-2022,Quarterly
+46,Permanent Housing (PH),Client refused,24,PH,Dec-2022,Quarterly
+47,Permanent Housing (PH),Data not collected,103,PH,Dec-2022,Quarterly
+48,Permanent Housing (PH),Client doesn't know,173,PH,Dec-2022,Quarterly
+49,Permanent Housing (PH),Native Hawaiian or Pacific Islander,193,PH,Dec-2022,Quarterly
+50,Permanent Housing (PH),Asian or Asian American,216,PH,Dec-2022,Quarterly
+51,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",223,PH,Dec-2022,Quarterly
+52,Permanent Housing (PH),Multi-Racial,563,PH,Dec-2022,Quarterly
+53,Permanent Housing (PH),"Black, African American, or African",3821,PH,Dec-2022,Quarterly
+54,Permanent Housing (PH),White,7258,PH,Dec-2022,Quarterly
+55,Coordinated Entry (CE),Client refused,38,CE,Dec-2022,Quarterly
+56,Coordinated Entry (CE),Client doesn't know,43,CE,Dec-2022,Quarterly
+57,Coordinated Entry (CE),Data not collected,98,CE,Dec-2022,Quarterly
+58,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,115,CE,Dec-2022,Quarterly
+59,Coordinated Entry (CE),Asian or Asian American,130,CE,Dec-2022,Quarterly
+60,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",207,CE,Dec-2022,Quarterly
+61,Coordinated Entry (CE),Multi-Racial,327,CE,Dec-2022,Quarterly
+62,Coordinated Entry (CE),"Black, African American, or African",1867,CE,Dec-2022,Quarterly
+63,Coordinated Entry (CE),White,4513,CE,Dec-2022,Quarterly
+64,Street Outreach (OUT),Client doesn't know,39,OUT,Dec-2022,Quarterly
+65,Street Outreach (OUT),Asian or Asian American,75,OUT,Dec-2022,Quarterly
+66,Street Outreach (OUT),Native Hawaiian or Pacific Islander,82,OUT,Dec-2022,Quarterly
+67,Street Outreach (OUT),Client refused,88,OUT,Dec-2022,Quarterly
+68,Street Outreach (OUT),Data not collected,106,OUT,Dec-2022,Quarterly
+69,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",162,OUT,Dec-2022,Quarterly
+70,Street Outreach (OUT),Multi-Racial,246,OUT,Dec-2022,Quarterly
+71,Street Outreach (OUT),"Black, African American, or African",1334,OUT,Dec-2022,Quarterly
+72,Street Outreach (OUT),White,3556,OUT,Dec-2022,Quarterly
+73,Services Only (SO),Client refused,62,SO,Dec-2022,Quarterly
+74,Services Only (SO),Client doesn't know,71,SO,Dec-2022,Quarterly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,119,SO,Dec-2022,Quarterly
+76,Services Only (SO),Data not collected,152,SO,Dec-2022,Quarterly
+77,Services Only (SO),Asian or Asian American,160,SO,Dec-2022,Quarterly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",242,SO,Dec-2022,Quarterly
+79,Services Only (SO),Multi-Racial,456,SO,Dec-2022,Quarterly
+80,Services Only (SO),"Black, African American, or African",2286,SO,Dec-2022,Quarterly
+81,Services Only (SO),White,5470,SO,Dec-2022,Quarterly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Dec-2022,6 - Month
+1,Other (OTH),Asian or Asian American,2,OTH,Dec-2022,6 - Month
+2,Other (OTH),Multi-Racial,5,OTH,Dec-2022,6 - Month
+3,Other (OTH),"Black, African American, or African",15,OTH,Dec-2022,6 - Month
+4,Other (OTH),White,44,OTH,Dec-2022,6 - Month
+5,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Dec-2022,6 - Month
+6,Safe Haven (SH),Multi-Racial,3,SH,Dec-2022,6 - Month
+7,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",3,SH,Dec-2022,6 - Month
+8,Safe Haven (SH),"Black, African American, or African",11,SH,Dec-2022,6 - Month
+9,Safe Haven (SH),White,54,SH,Dec-2022,6 - Month
+10,Transitional Housing (TH),Client refused,5,TH,Dec-2022,6 - Month
+11,Transitional Housing (TH),Client doesn't know,8,TH,Dec-2022,6 - Month
+12,Transitional Housing (TH),Data not collected,9,TH,Dec-2022,6 - Month
+13,Transitional Housing (TH),Asian or Asian American,24,TH,Dec-2022,6 - Month
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,25,TH,Dec-2022,6 - Month
+15,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",34,TH,Dec-2022,6 - Month
+16,Transitional Housing (TH),Multi-Racial,59,TH,Dec-2022,6 - Month
+17,Transitional Housing (TH),"Black, African American, or African",438,TH,Dec-2022,6 - Month
+18,Transitional Housing (TH),White,1209,TH,Dec-2022,6 - Month
+19,Homelessness Prevention (HP),Client doesn't know,8,HP,Dec-2022,6 - Month
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,15,HP,Dec-2022,6 - Month
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",21,HP,Dec-2022,6 - Month
+22,Homelessness Prevention (HP),Client refused,28,HP,Dec-2022,6 - Month
+23,Homelessness Prevention (HP),Data not collected,38,HP,Dec-2022,6 - Month
+24,Homelessness Prevention (HP),Multi-Racial,59,HP,Dec-2022,6 - Month
+25,Homelessness Prevention (HP),Asian or Asian American,64,HP,Dec-2022,6 - Month
+26,Homelessness Prevention (HP),"Black, African American, or African",445,HP,Dec-2022,6 - Month
+27,Homelessness Prevention (HP),White,797,HP,Dec-2022,6 - Month
+28,Day Shelter (DS),Client doesn't know,11,DS,Dec-2022,6 - Month
+29,Day Shelter (DS),Client refused,18,DS,Dec-2022,6 - Month
+30,Day Shelter (DS),Data not collected,21,DS,Dec-2022,6 - Month
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,88,DS,Dec-2022,6 - Month
+32,Day Shelter (DS),Asian or Asian American,103,DS,Dec-2022,6 - Month
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",183,DS,Dec-2022,6 - Month
+34,Day Shelter (DS),Multi-Racial,188,DS,Dec-2022,6 - Month
+35,Day Shelter (DS),"Black, African American, or African",1529,DS,Dec-2022,6 - Month
+36,Day Shelter (DS),White,3591,DS,Dec-2022,6 - Month
+37,Permanent Housing (PH),Client refused,24,PH,Dec-2022,6 - Month
+38,Permanent Housing (PH),Data not collected,104,PH,Dec-2022,6 - Month
+39,Permanent Housing (PH),Client doesn't know,174,PH,Dec-2022,6 - Month
+40,Permanent Housing (PH),Native Hawaiian or Pacific Islander,201,PH,Dec-2022,6 - Month
+41,Permanent Housing (PH),Asian or Asian American,223,PH,Dec-2022,6 - Month
+42,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",237,PH,Dec-2022,6 - Month
+43,Permanent Housing (PH),Multi-Racial,585,PH,Dec-2022,6 - Month
+44,Permanent Housing (PH),"Black, African American, or African",3960,PH,Dec-2022,6 - Month
+45,Permanent Housing (PH),White,7508,PH,Dec-2022,6 - Month
+46,Emergency Shelter (ES),Client refused,25,ES,Dec-2022,6 - Month
+47,Emergency Shelter (ES),Data not collected,86,ES,Dec-2022,6 - Month
+48,Emergency Shelter (ES),Asian or Asian American,113,ES,Dec-2022,6 - Month
+49,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,136,ES,Dec-2022,6 - Month
+50,Emergency Shelter (ES),Client doesn't know,143,ES,Dec-2022,6 - Month
+51,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",209,ES,Dec-2022,6 - Month
+52,Emergency Shelter (ES),Multi-Racial,260,ES,Dec-2022,6 - Month
+53,Emergency Shelter (ES),"Black, African American, or African",1772,ES,Dec-2022,6 - Month
+54,Emergency Shelter (ES),White,4514,ES,Dec-2022,6 - Month
+55,Street Outreach (OUT),Client doesn't know,47,OUT,Dec-2022,6 - Month
+56,Street Outreach (OUT),Client refused,96,OUT,Dec-2022,6 - Month
+57,Street Outreach (OUT),Asian or Asian American,97,OUT,Dec-2022,6 - Month
+58,Street Outreach (OUT),Native Hawaiian or Pacific Islander,101,OUT,Dec-2022,6 - Month
+59,Street Outreach (OUT),Data not collected,158,OUT,Dec-2022,6 - Month
+60,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",212,OUT,Dec-2022,6 - Month
+61,Street Outreach (OUT),Multi-Racial,307,OUT,Dec-2022,6 - Month
+62,Street Outreach (OUT),"Black, African American, or African",1675,OUT,Dec-2022,6 - Month
+63,Street Outreach (OUT),White,4722,OUT,Dec-2022,6 - Month
+64,Coordinated Entry (CE),Client refused,48,CE,Dec-2022,6 - Month
+65,Coordinated Entry (CE),Client doesn't know,56,CE,Dec-2022,6 - Month
+66,Coordinated Entry (CE),Data not collected,138,CE,Dec-2022,6 - Month
+67,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,145,CE,Dec-2022,6 - Month
+68,Coordinated Entry (CE),Asian or Asian American,165,CE,Dec-2022,6 - Month
+69,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",273,CE,Dec-2022,6 - Month
+70,Coordinated Entry (CE),Multi-Racial,441,CE,Dec-2022,6 - Month
+71,Coordinated Entry (CE),"Black, African American, or African",2468,CE,Dec-2022,6 - Month
+72,Coordinated Entry (CE),White,5894,CE,Dec-2022,6 - Month
+73,Services Only (SO),Client refused,71,SO,Dec-2022,6 - Month
+74,Services Only (SO),Client doesn't know,77,SO,Dec-2022,6 - Month
+75,Services Only (SO),Native Hawaiian or Pacific Islander,132,SO,Dec-2022,6 - Month
+76,Services Only (SO),Data not collected,167,SO,Dec-2022,6 - Month
+77,Services Only (SO),Asian or Asian American,181,SO,Dec-2022,6 - Month
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",269,SO,Dec-2022,6 - Month
+79,Services Only (SO),Multi-Racial,522,SO,Dec-2022,6 - Month
+80,Services Only (SO),"Black, African American, or African",2621,SO,Dec-2022,6 - Month
+81,Services Only (SO),White,6190,SO,Dec-2022,6 - Month
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Dec-2022,Annual
+1,Other (OTH),Asian or Asian American,2,OTH,Dec-2022,Annual
+2,Other (OTH),Multi-Racial,5,OTH,Dec-2022,Annual
+3,Other (OTH),"Black, African American, or African",15,OTH,Dec-2022,Annual
+4,Other (OTH),White,44,OTH,Dec-2022,Annual
+5,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Dec-2022,Annual
+6,Safe Haven (SH),Asian or Asian American,2,SH,Dec-2022,Annual
+7,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",3,SH,Dec-2022,Annual
+8,Safe Haven (SH),Multi-Racial,3,SH,Dec-2022,Annual
+9,Safe Haven (SH),"Black, African American, or African",21,SH,Dec-2022,Annual
+10,Safe Haven (SH),White,83,SH,Dec-2022,Annual
+11,Transitional Housing (TH),Client refused,6,TH,Dec-2022,Annual
+12,Transitional Housing (TH),Data not collected,11,TH,Dec-2022,Annual
+13,Transitional Housing (TH),Client doesn't know,12,TH,Dec-2022,Annual
+14,Transitional Housing (TH),Asian or Asian American,36,TH,Dec-2022,Annual
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,40,TH,Dec-2022,Annual
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",60,TH,Dec-2022,Annual
+17,Transitional Housing (TH),Multi-Racial,80,TH,Dec-2022,Annual
+18,Transitional Housing (TH),"Black, African American, or African",655,TH,Dec-2022,Annual
+19,Transitional Housing (TH),White,1766,TH,Dec-2022,Annual
+20,Day Shelter (DS),Client doesn't know,11,DS,Dec-2022,Annual
+21,Day Shelter (DS),Client refused,22,DS,Dec-2022,Annual
+22,Day Shelter (DS),Data not collected,25,DS,Dec-2022,Annual
+23,Day Shelter (DS),Native Hawaiian or Pacific Islander,101,DS,Dec-2022,Annual
+24,Day Shelter (DS),Asian or Asian American,117,DS,Dec-2022,Annual
+25,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",217,DS,Dec-2022,Annual
+26,Day Shelter (DS),Multi-Racial,243,DS,Dec-2022,Annual
+27,Day Shelter (DS),"Black, African American, or African",1884,DS,Dec-2022,Annual
+28,Day Shelter (DS),White,4428,DS,Dec-2022,Annual
+29,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,16,HP,Dec-2022,Annual
+30,Homelessness Prevention (HP),Client refused,28,HP,Dec-2022,Annual
+31,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",32,HP,Dec-2022,Annual
+32,Homelessness Prevention (HP),Client doesn't know,38,HP,Dec-2022,Annual
+33,Homelessness Prevention (HP),Data not collected,43,HP,Dec-2022,Annual
+34,Homelessness Prevention (HP),Asian or Asian American,76,HP,Dec-2022,Annual
+35,Homelessness Prevention (HP),Multi-Racial,89,HP,Dec-2022,Annual
+36,Homelessness Prevention (HP),"Black, African American, or African",567,HP,Dec-2022,Annual
+37,Homelessness Prevention (HP),White,1229,HP,Dec-2022,Annual
+38,Permanent Housing (PH),Client refused,27,PH,Dec-2022,Annual
+39,Permanent Housing (PH),Data not collected,110,PH,Dec-2022,Annual
+40,Permanent Housing (PH),Client doesn't know,175,PH,Dec-2022,Annual
+41,Permanent Housing (PH),Native Hawaiian or Pacific Islander,215,PH,Dec-2022,Annual
+42,Permanent Housing (PH),Asian or Asian American,249,PH,Dec-2022,Annual
+43,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",260,PH,Dec-2022,Annual
+44,Permanent Housing (PH),Multi-Racial,665,PH,Dec-2022,Annual
+45,Permanent Housing (PH),"Black, African American, or African",4338,PH,Dec-2022,Annual
+46,Permanent Housing (PH),White,8223,PH,Dec-2022,Annual
+47,Emergency Shelter (ES),Client refused,34,ES,Dec-2022,Annual
+48,Emergency Shelter (ES),Data not collected,106,ES,Dec-2022,Annual
+49,Emergency Shelter (ES),Asian or Asian American,165,ES,Dec-2022,Annual
+50,Emergency Shelter (ES),Client doesn't know,167,ES,Dec-2022,Annual
+51,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,197,ES,Dec-2022,Annual
+52,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",315,ES,Dec-2022,Annual
+53,Emergency Shelter (ES),Multi-Racial,413,ES,Dec-2022,Annual
+54,Emergency Shelter (ES),"Black, African American, or African",2649,ES,Dec-2022,Annual
+55,Emergency Shelter (ES),White,6895,ES,Dec-2022,Annual
+56,Coordinated Entry (CE),Client refused,64,CE,Dec-2022,Annual
+57,Coordinated Entry (CE),Client doesn't know,82,CE,Dec-2022,Annual
+58,Coordinated Entry (CE),Data not collected,218,CE,Dec-2022,Annual
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,228,CE,Dec-2022,Annual
+60,Coordinated Entry (CE),Asian or Asian American,245,CE,Dec-2022,Annual
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",425,CE,Dec-2022,Annual
+62,Coordinated Entry (CE),Multi-Racial,675,CE,Dec-2022,Annual
+63,Coordinated Entry (CE),"Black, African American, or African",3743,CE,Dec-2022,Annual
+64,Coordinated Entry (CE),White,8980,CE,Dec-2022,Annual
+65,Street Outreach (OUT),Client doesn't know,85,OUT,Dec-2022,Annual
+66,Street Outreach (OUT),Client refused,148,OUT,Dec-2022,Annual
+67,Street Outreach (OUT),Native Hawaiian or Pacific Islander,174,OUT,Dec-2022,Annual
+68,Street Outreach (OUT),Asian or Asian American,196,OUT,Dec-2022,Annual
+69,Street Outreach (OUT),Data not collected,344,OUT,Dec-2022,Annual
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",359,OUT,Dec-2022,Annual
+71,Street Outreach (OUT),Multi-Racial,498,OUT,Dec-2022,Annual
+72,Street Outreach (OUT),"Black, African American, or African",2812,OUT,Dec-2022,Annual
+73,Street Outreach (OUT),White,8195,OUT,Dec-2022,Annual
+74,Services Only (SO),Client doesn't know,89,SO,Dec-2022,Annual
+75,Services Only (SO),Client refused,92,SO,Dec-2022,Annual
+76,Services Only (SO),Native Hawaiian or Pacific Islander,181,SO,Dec-2022,Annual
+77,Services Only (SO),Data not collected,197,SO,Dec-2022,Annual
+78,Services Only (SO),Asian or Asian American,244,SO,Dec-2022,Annual
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",363,SO,Dec-2022,Annual
+80,Services Only (SO),Multi-Racial,677,SO,Dec-2022,Annual
+81,Services Only (SO),"Black, African American, or African",3443,SO,Dec-2022,Annual
+82,Services Only (SO),White,8237,SO,Dec-2022,Annual
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Jan-2023,Monthly
+1,Other (OTH),Asian or Asian American,2,OTH,Jan-2023,Monthly
+2,Other (OTH),Multi-Racial,5,OTH,Jan-2023,Monthly
+3,Other (OTH),"Black, African American, or African",15,OTH,Jan-2023,Monthly
+4,Other (OTH),White,38,OTH,Jan-2023,Monthly
+5,Safe Haven (SH),Client doesn't know,1,SH,Jan-2023,Monthly
+6,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",3,SH,Jan-2023,Monthly
+7,Safe Haven (SH),Multi-Racial,3,SH,Jan-2023,Monthly
+8,Safe Haven (SH),"Black, African American, or African",7,SH,Jan-2023,Monthly
+9,Safe Haven (SH),White,44,SH,Jan-2023,Monthly
+10,Transitional Housing (TH),Client doesn't know,1,TH,Jan-2023,Monthly
+11,Transitional Housing (TH),Client refused,4,TH,Jan-2023,Monthly
+12,Transitional Housing (TH),Data not collected,6,TH,Jan-2023,Monthly
+13,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",12,TH,Jan-2023,Monthly
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,16,TH,Jan-2023,Monthly
+15,Transitional Housing (TH),Asian or Asian American,18,TH,Jan-2023,Monthly
+16,Transitional Housing (TH),Multi-Racial,41,TH,Jan-2023,Monthly
+17,Transitional Housing (TH),"Black, African American, or African",241,TH,Jan-2023,Monthly
+18,Transitional Housing (TH),White,651,TH,Jan-2023,Monthly
+19,Homelessness Prevention (HP),Client doesn't know,4,HP,Jan-2023,Monthly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,8,HP,Jan-2023,Monthly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",8,HP,Jan-2023,Monthly
+22,Homelessness Prevention (HP),Data not collected,20,HP,Jan-2023,Monthly
+23,Homelessness Prevention (HP),Client refused,22,HP,Jan-2023,Monthly
+24,Homelessness Prevention (HP),Multi-Racial,40,HP,Jan-2023,Monthly
+25,Homelessness Prevention (HP),Asian or Asian American,42,HP,Jan-2023,Monthly
+26,Homelessness Prevention (HP),"Black, African American, or African",317,HP,Jan-2023,Monthly
+27,Homelessness Prevention (HP),White,489,HP,Jan-2023,Monthly
+28,Day Shelter (DS),Client doesn't know,10,DS,Jan-2023,Monthly
+29,Day Shelter (DS),Data not collected,18,DS,Jan-2023,Monthly
+30,Day Shelter (DS),Client refused,18,DS,Jan-2023,Monthly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,75,DS,Jan-2023,Monthly
+32,Day Shelter (DS),Asian or Asian American,84,DS,Jan-2023,Monthly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",142,DS,Jan-2023,Monthly
+34,Day Shelter (DS),Multi-Racial,148,DS,Jan-2023,Monthly
+35,Day Shelter (DS),"Black, African American, or African",1186,DS,Jan-2023,Monthly
+36,Day Shelter (DS),White,2725,DS,Jan-2023,Monthly
+37,Street Outreach (OUT),Client refused,18,OUT,Jan-2023,Monthly
+38,Street Outreach (OUT),Client doesn't know,19,OUT,Jan-2023,Monthly
+39,Street Outreach (OUT),Native Hawaiian or Pacific Islander,34,OUT,Jan-2023,Monthly
+40,Street Outreach (OUT),Asian or Asian American,39,OUT,Jan-2023,Monthly
+41,Street Outreach (OUT),Data not collected,44,OUT,Jan-2023,Monthly
+42,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",81,OUT,Jan-2023,Monthly
+43,Street Outreach (OUT),Multi-Racial,114,OUT,Jan-2023,Monthly
+44,Street Outreach (OUT),"Black, African American, or African",673,OUT,Jan-2023,Monthly
+45,Street Outreach (OUT),White,1697,OUT,Jan-2023,Monthly
+46,Coordinated Entry (CE),Client refused,20,CE,Jan-2023,Monthly
+47,Coordinated Entry (CE),Client doesn't know,23,CE,Jan-2023,Monthly
+48,Coordinated Entry (CE),Data not collected,44,CE,Jan-2023,Monthly
+49,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,58,CE,Jan-2023,Monthly
+50,Coordinated Entry (CE),Asian or Asian American,88,CE,Jan-2023,Monthly
+51,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",99,CE,Jan-2023,Monthly
+52,Coordinated Entry (CE),Multi-Racial,155,CE,Jan-2023,Monthly
+53,Coordinated Entry (CE),"Black, African American, or African",969,CE,Jan-2023,Monthly
+54,Coordinated Entry (CE),White,2224,CE,Jan-2023,Monthly
+55,Emergency Shelter (ES),Client refused,22,ES,Jan-2023,Monthly
+56,Emergency Shelter (ES),Data not collected,68,ES,Jan-2023,Monthly
+57,Emergency Shelter (ES),Asian or Asian American,81,ES,Jan-2023,Monthly
+58,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,90,ES,Jan-2023,Monthly
+59,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",116,ES,Jan-2023,Monthly
+60,Emergency Shelter (ES),Client doesn't know,141,ES,Jan-2023,Monthly
+61,Emergency Shelter (ES),Multi-Racial,160,ES,Jan-2023,Monthly
+62,Emergency Shelter (ES),"Black, African American, or African",1139,ES,Jan-2023,Monthly
+63,Emergency Shelter (ES),White,2804,ES,Jan-2023,Monthly
+64,Permanent Housing (PH),Client refused,24,PH,Jan-2023,Monthly
+65,Permanent Housing (PH),Data not collected,99,PH,Jan-2023,Monthly
+66,Permanent Housing (PH),Client doesn't know,170,PH,Jan-2023,Monthly
+67,Permanent Housing (PH),Native Hawaiian or Pacific Islander,183,PH,Jan-2023,Monthly
+68,Permanent Housing (PH),Asian or Asian American,200,PH,Jan-2023,Monthly
+69,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",208,PH,Jan-2023,Monthly
+70,Permanent Housing (PH),Multi-Racial,521,PH,Jan-2023,Monthly
+71,Permanent Housing (PH),"Black, African American, or African",3610,PH,Jan-2023,Monthly
+72,Permanent Housing (PH),White,6883,PH,Jan-2023,Monthly
+73,Services Only (SO),Client doesn't know,54,SO,Jan-2023,Monthly
+74,Services Only (SO),Client refused,57,SO,Jan-2023,Monthly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,104,SO,Jan-2023,Monthly
+76,Services Only (SO),Data not collected,115,SO,Jan-2023,Monthly
+77,Services Only (SO),Asian or Asian American,148,SO,Jan-2023,Monthly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",203,SO,Jan-2023,Monthly
+79,Services Only (SO),Multi-Racial,362,SO,Jan-2023,Monthly
+80,Services Only (SO),"Black, African American, or African",1831,SO,Jan-2023,Monthly
+81,Services Only (SO),White,4402,SO,Jan-2023,Monthly
+0,Safe Haven (SH),Client doesn't know,1,SH,Jan-2023,Quarterly
+1,Safe Haven (SH),Native Hawaiian or Pacific Islander,1,SH,Jan-2023,Quarterly
+2,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",3,SH,Jan-2023,Quarterly
+3,Safe Haven (SH),Multi-Racial,4,SH,Jan-2023,Quarterly
+4,Safe Haven (SH),"Black, African American, or African",9,SH,Jan-2023,Quarterly
+5,Safe Haven (SH),White,52,SH,Jan-2023,Quarterly
+6,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Jan-2023,Quarterly
+7,Other (OTH),Asian or Asian American,2,OTH,Jan-2023,Quarterly
+8,Other (OTH),Multi-Racial,5,OTH,Jan-2023,Quarterly
+9,Other (OTH),"Black, African American, or African",15,OTH,Jan-2023,Quarterly
+10,Other (OTH),White,38,OTH,Jan-2023,Quarterly
+11,Transitional Housing (TH),Client refused,5,TH,Jan-2023,Quarterly
+12,Transitional Housing (TH),Client doesn't know,7,TH,Jan-2023,Quarterly
+13,Transitional Housing (TH),Data not collected,10,TH,Jan-2023,Quarterly
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,22,TH,Jan-2023,Quarterly
+15,Transitional Housing (TH),Asian or Asian American,26,TH,Jan-2023,Quarterly
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",27,TH,Jan-2023,Quarterly
+17,Transitional Housing (TH),Multi-Racial,55,TH,Jan-2023,Quarterly
+18,Transitional Housing (TH),"Black, African American, or African",358,TH,Jan-2023,Quarterly
+19,Transitional Housing (TH),White,944,TH,Jan-2023,Quarterly
+20,Homelessness Prevention (HP),Client doesn't know,8,HP,Jan-2023,Quarterly
+21,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,11,HP,Jan-2023,Quarterly
+22,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",14,HP,Jan-2023,Quarterly
+23,Homelessness Prevention (HP),Client refused,27,HP,Jan-2023,Quarterly
+24,Homelessness Prevention (HP),Data not collected,32,HP,Jan-2023,Quarterly
+25,Homelessness Prevention (HP),Asian or Asian American,48,HP,Jan-2023,Quarterly
+26,Homelessness Prevention (HP),Multi-Racial,50,HP,Jan-2023,Quarterly
+27,Homelessness Prevention (HP),"Black, African American, or African",402,HP,Jan-2023,Quarterly
+28,Homelessness Prevention (HP),White,651,HP,Jan-2023,Quarterly
+29,Day Shelter (DS),Client doesn't know,10,DS,Jan-2023,Quarterly
+30,Day Shelter (DS),Client refused,18,DS,Jan-2023,Quarterly
+31,Day Shelter (DS),Data not collected,20,DS,Jan-2023,Quarterly
+32,Day Shelter (DS),Native Hawaiian or Pacific Islander,86,DS,Jan-2023,Quarterly
+33,Day Shelter (DS),Asian or Asian American,95,DS,Jan-2023,Quarterly
+34,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",165,DS,Jan-2023,Quarterly
+35,Day Shelter (DS),Multi-Racial,170,DS,Jan-2023,Quarterly
+36,Day Shelter (DS),"Black, African American, or African",1428,DS,Jan-2023,Quarterly
+37,Day Shelter (DS),White,3271,DS,Jan-2023,Quarterly
+38,Emergency Shelter (ES),Client refused,25,ES,Jan-2023,Quarterly
+39,Emergency Shelter (ES),Data not collected,76,ES,Jan-2023,Quarterly
+40,Emergency Shelter (ES),Asian or Asian American,110,ES,Jan-2023,Quarterly
+41,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,116,ES,Jan-2023,Quarterly
+42,Emergency Shelter (ES),Client doesn't know,143,ES,Jan-2023,Quarterly
+43,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",174,ES,Jan-2023,Quarterly
+44,Emergency Shelter (ES),Multi-Racial,228,ES,Jan-2023,Quarterly
+45,Emergency Shelter (ES),"Black, African American, or African",1561,ES,Jan-2023,Quarterly
+46,Emergency Shelter (ES),White,3928,ES,Jan-2023,Quarterly
+47,Permanent Housing (PH),Client refused,25,PH,Jan-2023,Quarterly
+48,Permanent Housing (PH),Data not collected,107,PH,Jan-2023,Quarterly
+49,Permanent Housing (PH),Client doesn't know,173,PH,Jan-2023,Quarterly
+50,Permanent Housing (PH),Native Hawaiian or Pacific Islander,198,PH,Jan-2023,Quarterly
+51,Permanent Housing (PH),Asian or Asian American,215,PH,Jan-2023,Quarterly
+52,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",226,PH,Jan-2023,Quarterly
+53,Permanent Housing (PH),Multi-Racial,566,PH,Jan-2023,Quarterly
+54,Permanent Housing (PH),"Black, African American, or African",3816,PH,Jan-2023,Quarterly
+55,Permanent Housing (PH),White,7237,PH,Jan-2023,Quarterly
+56,Coordinated Entry (CE),Client refused,36,CE,Jan-2023,Quarterly
+57,Coordinated Entry (CE),Client doesn't know,40,CE,Jan-2023,Quarterly
+58,Coordinated Entry (CE),Data not collected,104,CE,Jan-2023,Quarterly
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,113,CE,Jan-2023,Quarterly
+60,Coordinated Entry (CE),Asian or Asian American,151,CE,Jan-2023,Quarterly
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",212,CE,Jan-2023,Quarterly
+62,Coordinated Entry (CE),Multi-Racial,321,CE,Jan-2023,Quarterly
+63,Coordinated Entry (CE),"Black, African American, or African",1914,CE,Jan-2023,Quarterly
+64,Coordinated Entry (CE),White,4416,CE,Jan-2023,Quarterly
+65,Street Outreach (OUT),Client doesn't know,38,OUT,Jan-2023,Quarterly
+66,Street Outreach (OUT),Native Hawaiian or Pacific Islander,77,OUT,Jan-2023,Quarterly
+67,Street Outreach (OUT),Asian or Asian American,81,OUT,Jan-2023,Quarterly
+68,Street Outreach (OUT),Client refused,82,OUT,Jan-2023,Quarterly
+69,Street Outreach (OUT),Data not collected,98,OUT,Jan-2023,Quarterly
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",173,OUT,Jan-2023,Quarterly
+71,Street Outreach (OUT),Multi-Racial,255,OUT,Jan-2023,Quarterly
+72,Street Outreach (OUT),"Black, African American, or African",1372,OUT,Jan-2023,Quarterly
+73,Street Outreach (OUT),White,3553,OUT,Jan-2023,Quarterly
+74,Services Only (SO),Client doesn't know,69,SO,Jan-2023,Quarterly
+75,Services Only (SO),Client refused,69,SO,Jan-2023,Quarterly
+76,Services Only (SO),Native Hawaiian or Pacific Islander,133,SO,Jan-2023,Quarterly
+77,Services Only (SO),Data not collected,140,SO,Jan-2023,Quarterly
+78,Services Only (SO),Asian or Asian American,179,SO,Jan-2023,Quarterly
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",245,SO,Jan-2023,Quarterly
+80,Services Only (SO),Multi-Racial,444,SO,Jan-2023,Quarterly
+81,Services Only (SO),"Black, African American, or African",2321,SO,Jan-2023,Quarterly
+82,Services Only (SO),White,5581,SO,Jan-2023,Quarterly
+0,Safe Haven (SH),Client doesn't know,1,SH,Jan-2023,6 - Month
+1,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Jan-2023,6 - Month
+2,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",4,SH,Jan-2023,6 - Month
+3,Safe Haven (SH),Multi-Racial,4,SH,Jan-2023,6 - Month
+4,Safe Haven (SH),"Black, African American, or African",12,SH,Jan-2023,6 - Month
+5,Safe Haven (SH),White,63,SH,Jan-2023,6 - Month
+6,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Jan-2023,6 - Month
+7,Other (OTH),Asian or Asian American,2,OTH,Jan-2023,6 - Month
+8,Other (OTH),Multi-Racial,5,OTH,Jan-2023,6 - Month
+9,Other (OTH),"Black, African American, or African",15,OTH,Jan-2023,6 - Month
+10,Other (OTH),White,38,OTH,Jan-2023,6 - Month
+11,Transitional Housing (TH),Client refused,5,TH,Jan-2023,6 - Month
+12,Transitional Housing (TH),Client doesn't know,8,TH,Jan-2023,6 - Month
+13,Transitional Housing (TH),Data not collected,11,TH,Jan-2023,6 - Month
+14,Transitional Housing (TH),Asian or Asian American,27,TH,Jan-2023,6 - Month
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,28,TH,Jan-2023,6 - Month
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",32,TH,Jan-2023,6 - Month
+17,Transitional Housing (TH),Multi-Racial,63,TH,Jan-2023,6 - Month
+18,Transitional Housing (TH),"Black, African American, or African",418,TH,Jan-2023,6 - Month
+19,Transitional Housing (TH),White,1155,TH,Jan-2023,6 - Month
+20,Homelessness Prevention (HP),Client doesn't know,9,HP,Jan-2023,6 - Month
+21,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,16,HP,Jan-2023,6 - Month
+22,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",22,HP,Jan-2023,6 - Month
+23,Homelessness Prevention (HP),Client refused,27,HP,Jan-2023,6 - Month
+24,Homelessness Prevention (HP),Data not collected,38,HP,Jan-2023,6 - Month
+25,Homelessness Prevention (HP),Asian or Asian American,56,HP,Jan-2023,6 - Month
+26,Homelessness Prevention (HP),Multi-Racial,61,HP,Jan-2023,6 - Month
+27,Homelessness Prevention (HP),"Black, African American, or African",463,HP,Jan-2023,6 - Month
+28,Homelessness Prevention (HP),White,808,HP,Jan-2023,6 - Month
+29,Day Shelter (DS),Client doesn't know,12,DS,Jan-2023,6 - Month
+30,Day Shelter (DS),Client refused,19,DS,Jan-2023,6 - Month
+31,Day Shelter (DS),Data not collected,23,DS,Jan-2023,6 - Month
+32,Day Shelter (DS),Native Hawaiian or Pacific Islander,90,DS,Jan-2023,6 - Month
+33,Day Shelter (DS),Asian or Asian American,104,DS,Jan-2023,6 - Month
+34,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",179,DS,Jan-2023,6 - Month
+35,Day Shelter (DS),Multi-Racial,189,DS,Jan-2023,6 - Month
+36,Day Shelter (DS),"Black, African American, or African",1570,DS,Jan-2023,6 - Month
+37,Day Shelter (DS),White,3652,DS,Jan-2023,6 - Month
+38,Permanent Housing (PH),Client refused,25,PH,Jan-2023,6 - Month
+39,Permanent Housing (PH),Data not collected,110,PH,Jan-2023,6 - Month
+40,Permanent Housing (PH),Client doesn't know,174,PH,Jan-2023,6 - Month
+41,Permanent Housing (PH),Native Hawaiian or Pacific Islander,206,PH,Jan-2023,6 - Month
+42,Permanent Housing (PH),Asian or Asian American,223,PH,Jan-2023,6 - Month
+43,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",241,PH,Jan-2023,6 - Month
+44,Permanent Housing (PH),Multi-Racial,585,PH,Jan-2023,6 - Month
+45,Permanent Housing (PH),"Black, African American, or African",3985,PH,Jan-2023,6 - Month
+46,Permanent Housing (PH),White,7516,PH,Jan-2023,6 - Month
+47,Emergency Shelter (ES),Client refused,28,ES,Jan-2023,6 - Month
+48,Emergency Shelter (ES),Data not collected,83,ES,Jan-2023,6 - Month
+49,Emergency Shelter (ES),Asian or Asian American,123,ES,Jan-2023,6 - Month
+50,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,132,ES,Jan-2023,6 - Month
+51,Emergency Shelter (ES),Client doesn't know,146,ES,Jan-2023,6 - Month
+52,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",206,ES,Jan-2023,6 - Month
+53,Emergency Shelter (ES),Multi-Racial,264,ES,Jan-2023,6 - Month
+54,Emergency Shelter (ES),"Black, African American, or African",1824,ES,Jan-2023,6 - Month
+55,Emergency Shelter (ES),White,4625,ES,Jan-2023,6 - Month
+56,Coordinated Entry (CE),Client refused,48,CE,Jan-2023,6 - Month
+57,Coordinated Entry (CE),Client doesn't know,58,CE,Jan-2023,6 - Month
+58,Coordinated Entry (CE),Data not collected,143,CE,Jan-2023,6 - Month
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,143,CE,Jan-2023,6 - Month
+60,Coordinated Entry (CE),Asian or Asian American,189,CE,Jan-2023,6 - Month
+61,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",272,CE,Jan-2023,6 - Month
+62,Coordinated Entry (CE),Multi-Racial,428,CE,Jan-2023,6 - Month
+63,Coordinated Entry (CE),"Black, African American, or African",2496,CE,Jan-2023,6 - Month
+64,Coordinated Entry (CE),White,5906,CE,Jan-2023,6 - Month
+65,Street Outreach (OUT),Client doesn't know,50,OUT,Jan-2023,6 - Month
+66,Street Outreach (OUT),Client refused,102,OUT,Jan-2023,6 - Month
+67,Street Outreach (OUT),Native Hawaiian or Pacific Islander,103,OUT,Jan-2023,6 - Month
+68,Street Outreach (OUT),Asian or Asian American,105,OUT,Jan-2023,6 - Month
+69,Street Outreach (OUT),Data not collected,164,OUT,Jan-2023,6 - Month
+70,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",230,OUT,Jan-2023,6 - Month
+71,Street Outreach (OUT),Multi-Racial,321,OUT,Jan-2023,6 - Month
+72,Street Outreach (OUT),"Black, African American, or African",1761,OUT,Jan-2023,6 - Month
+73,Street Outreach (OUT),White,4801,OUT,Jan-2023,6 - Month
+74,Services Only (SO),Client refused,74,SO,Jan-2023,6 - Month
+75,Services Only (SO),Client doesn't know,79,SO,Jan-2023,6 - Month
+76,Services Only (SO),Native Hawaiian or Pacific Islander,145,SO,Jan-2023,6 - Month
+77,Services Only (SO),Data not collected,171,SO,Jan-2023,6 - Month
+78,Services Only (SO),Asian or Asian American,196,SO,Jan-2023,6 - Month
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",276,SO,Jan-2023,6 - Month
+80,Services Only (SO),Multi-Racial,515,SO,Jan-2023,6 - Month
+81,Services Only (SO),"Black, African American, or African",2659,SO,Jan-2023,6 - Month
+82,Services Only (SO),White,6343,SO,Jan-2023,6 - Month
+0,Safe Haven (SH),Client doesn't know,1,SH,Jan-2023,Annual
+1,Safe Haven (SH),Asian or Asian American,2,SH,Jan-2023,Annual
+2,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Jan-2023,Annual
+3,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",4,SH,Jan-2023,Annual
+4,Safe Haven (SH),Multi-Racial,5,SH,Jan-2023,Annual
+5,Safe Haven (SH),"Black, African American, or African",21,SH,Jan-2023,Annual
+6,Safe Haven (SH),White,89,SH,Jan-2023,Annual
+7,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Jan-2023,Annual
+8,Other (OTH),Asian or Asian American,2,OTH,Jan-2023,Annual
+9,Other (OTH),Multi-Racial,5,OTH,Jan-2023,Annual
+10,Other (OTH),"Black, African American, or African",15,OTH,Jan-2023,Annual
+11,Other (OTH),White,44,OTH,Jan-2023,Annual
+12,Transitional Housing (TH),Client refused,6,TH,Jan-2023,Annual
+13,Transitional Housing (TH),Client doesn't know,9,TH,Jan-2023,Annual
+14,Transitional Housing (TH),Data not collected,13,TH,Jan-2023,Annual
+15,Transitional Housing (TH),Asian or Asian American,37,TH,Jan-2023,Annual
+16,Transitional Housing (TH),Native Hawaiian or Pacific Islander,43,TH,Jan-2023,Annual
+17,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",57,TH,Jan-2023,Annual
+18,Transitional Housing (TH),Multi-Racial,83,TH,Jan-2023,Annual
+19,Transitional Housing (TH),"Black, African American, or African",639,TH,Jan-2023,Annual
+20,Transitional Housing (TH),White,1736,TH,Jan-2023,Annual
+21,Day Shelter (DS),Client doesn't know,13,DS,Jan-2023,Annual
+22,Day Shelter (DS),Client refused,24,DS,Jan-2023,Annual
+23,Day Shelter (DS),Data not collected,27,DS,Jan-2023,Annual
+24,Day Shelter (DS),Native Hawaiian or Pacific Islander,100,DS,Jan-2023,Annual
+25,Day Shelter (DS),Asian or Asian American,120,DS,Jan-2023,Annual
+26,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",218,DS,Jan-2023,Annual
+27,Day Shelter (DS),Multi-Racial,245,DS,Jan-2023,Annual
+28,Day Shelter (DS),"Black, African American, or African",1898,DS,Jan-2023,Annual
+29,Day Shelter (DS),White,4434,DS,Jan-2023,Annual
+30,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,17,HP,Jan-2023,Annual
+31,Homelessness Prevention (HP),Client refused,28,HP,Jan-2023,Annual
+32,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",32,HP,Jan-2023,Annual
+33,Homelessness Prevention (HP),Client doesn't know,37,HP,Jan-2023,Annual
+34,Homelessness Prevention (HP),Data not collected,43,HP,Jan-2023,Annual
+35,Homelessness Prevention (HP),Asian or Asian American,74,HP,Jan-2023,Annual
+36,Homelessness Prevention (HP),Multi-Racial,88,HP,Jan-2023,Annual
+37,Homelessness Prevention (HP),"Black, African American, or African",571,HP,Jan-2023,Annual
+38,Homelessness Prevention (HP),White,1228,HP,Jan-2023,Annual
+39,Permanent Housing (PH),Client refused,27,PH,Jan-2023,Annual
+40,Permanent Housing (PH),Data not collected,116,PH,Jan-2023,Annual
+41,Permanent Housing (PH),Client doesn't know,175,PH,Jan-2023,Annual
+42,Permanent Housing (PH),Native Hawaiian or Pacific Islander,219,PH,Jan-2023,Annual
+43,Permanent Housing (PH),Asian or Asian American,250,PH,Jan-2023,Annual
+44,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",264,PH,Jan-2023,Annual
+45,Permanent Housing (PH),Multi-Racial,661,PH,Jan-2023,Annual
+46,Permanent Housing (PH),"Black, African American, or African",4374,PH,Jan-2023,Annual
+47,Permanent Housing (PH),White,8209,PH,Jan-2023,Annual
+48,Emergency Shelter (ES),Client refused,36,ES,Jan-2023,Annual
+49,Emergency Shelter (ES),Data not collected,105,ES,Jan-2023,Annual
+50,Emergency Shelter (ES),Client doesn't know,171,ES,Jan-2023,Annual
+51,Emergency Shelter (ES),Asian or Asian American,181,ES,Jan-2023,Annual
+52,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,193,ES,Jan-2023,Annual
+53,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",326,ES,Jan-2023,Annual
+54,Emergency Shelter (ES),Multi-Racial,414,ES,Jan-2023,Annual
+55,Emergency Shelter (ES),"Black, African American, or African",2669,ES,Jan-2023,Annual
+56,Emergency Shelter (ES),White,6929,ES,Jan-2023,Annual
+57,Coordinated Entry (CE),Client refused,68,CE,Jan-2023,Annual
+58,Coordinated Entry (CE),Client doesn't know,85,CE,Jan-2023,Annual
+59,Coordinated Entry (CE),Data not collected,220,CE,Jan-2023,Annual
+60,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,230,CE,Jan-2023,Annual
+61,Coordinated Entry (CE),Asian or Asian American,268,CE,Jan-2023,Annual
+62,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",437,CE,Jan-2023,Annual
+63,Coordinated Entry (CE),Multi-Racial,681,CE,Jan-2023,Annual
+64,Coordinated Entry (CE),"Black, African American, or African",3863,CE,Jan-2023,Annual
+65,Coordinated Entry (CE),White,9164,CE,Jan-2023,Annual
+66,Street Outreach (OUT),Client doesn't know,84,OUT,Jan-2023,Annual
+67,Street Outreach (OUT),Client refused,147,OUT,Jan-2023,Annual
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,176,OUT,Jan-2023,Annual
+69,Street Outreach (OUT),Asian or Asian American,189,OUT,Jan-2023,Annual
+70,Street Outreach (OUT),Data not collected,342,OUT,Jan-2023,Annual
+71,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",377,OUT,Jan-2023,Annual
+72,Street Outreach (OUT),Multi-Racial,511,OUT,Jan-2023,Annual
+73,Street Outreach (OUT),"Black, African American, or African",2872,OUT,Jan-2023,Annual
+74,Street Outreach (OUT),White,8219,OUT,Jan-2023,Annual
+75,Services Only (SO),Client doesn't know,91,SO,Jan-2023,Annual
+76,Services Only (SO),Client refused,97,SO,Jan-2023,Annual
+77,Services Only (SO),Native Hawaiian or Pacific Islander,194,SO,Jan-2023,Annual
+78,Services Only (SO),Data not collected,199,SO,Jan-2023,Annual
+79,Services Only (SO),Asian or Asian American,263,SO,Jan-2023,Annual
+80,Services Only (SO),"American Indian, Alaska Native, or Indigenous",368,SO,Jan-2023,Annual
+81,Services Only (SO),Multi-Racial,673,SO,Jan-2023,Annual
+82,Services Only (SO),"Black, African American, or African",3505,SO,Jan-2023,Annual
+83,Services Only (SO),White,8426,SO,Jan-2023,Annual
+0,Safe Haven (SH),Client doesn't know,1,SH,Feb-2023,Monthly
+1,Safe Haven (SH),Multi-Racial,3,SH,Feb-2023,Monthly
+2,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",4,SH,Feb-2023,Monthly
+3,Safe Haven (SH),"Black, African American, or African",8,SH,Feb-2023,Monthly
+4,Safe Haven (SH),White,51,SH,Feb-2023,Monthly
+5,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Feb-2023,Monthly
+6,Other (OTH),Asian or Asian American,2,OTH,Feb-2023,Monthly
+7,Other (OTH),Multi-Racial,5,OTH,Feb-2023,Monthly
+8,Other (OTH),"Black, African American, or African",15,OTH,Feb-2023,Monthly
+9,Other (OTH),White,38,OTH,Feb-2023,Monthly
+10,Transitional Housing (TH),Client doesn't know,1,TH,Feb-2023,Monthly
+11,Transitional Housing (TH),Client refused,4,TH,Feb-2023,Monthly
+12,Transitional Housing (TH),Data not collected,12,TH,Feb-2023,Monthly
+13,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",13,TH,Feb-2023,Monthly
+14,Transitional Housing (TH),Asian or Asian American,16,TH,Feb-2023,Monthly
+15,Transitional Housing (TH),Native Hawaiian or Pacific Islander,16,TH,Feb-2023,Monthly
+16,Transitional Housing (TH),Multi-Racial,41,TH,Feb-2023,Monthly
+17,Transitional Housing (TH),"Black, African American, or African",236,TH,Feb-2023,Monthly
+18,Transitional Housing (TH),White,635,TH,Feb-2023,Monthly
+19,Homelessness Prevention (HP),Client doesn't know,4,HP,Feb-2023,Monthly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,8,HP,Feb-2023,Monthly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",9,HP,Feb-2023,Monthly
+22,Homelessness Prevention (HP),Data not collected,20,HP,Feb-2023,Monthly
+23,Homelessness Prevention (HP),Client refused,23,HP,Feb-2023,Monthly
+24,Homelessness Prevention (HP),Multi-Racial,35,HP,Feb-2023,Monthly
+25,Homelessness Prevention (HP),Asian or Asian American,50,HP,Feb-2023,Monthly
+26,Homelessness Prevention (HP),"Black, African American, or African",318,HP,Feb-2023,Monthly
+27,Homelessness Prevention (HP),White,478,HP,Feb-2023,Monthly
+28,Day Shelter (DS),Client doesn't know,11,DS,Feb-2023,Monthly
+29,Day Shelter (DS),Client refused,17,DS,Feb-2023,Monthly
+30,Day Shelter (DS),Data not collected,21,DS,Feb-2023,Monthly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,67,DS,Feb-2023,Monthly
+32,Day Shelter (DS),Asian or Asian American,76,DS,Feb-2023,Monthly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",131,DS,Feb-2023,Monthly
+34,Day Shelter (DS),Multi-Racial,146,DS,Feb-2023,Monthly
+35,Day Shelter (DS),"Black, African American, or African",1168,DS,Feb-2023,Monthly
+36,Day Shelter (DS),White,2557,DS,Feb-2023,Monthly
+37,Emergency Shelter (ES),Client refused,21,ES,Feb-2023,Monthly
+38,Emergency Shelter (ES),Data not collected,83,ES,Feb-2023,Monthly
+39,Emergency Shelter (ES),Asian or Asian American,84,ES,Feb-2023,Monthly
+40,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,89,ES,Feb-2023,Monthly
+41,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",121,ES,Feb-2023,Monthly
+42,Emergency Shelter (ES),Client doesn't know,143,ES,Feb-2023,Monthly
+43,Emergency Shelter (ES),Multi-Racial,155,ES,Feb-2023,Monthly
+44,Emergency Shelter (ES),"Black, African American, or African",1121,ES,Feb-2023,Monthly
+45,Emergency Shelter (ES),White,2794,ES,Feb-2023,Monthly
+46,Street Outreach (OUT),Client doesn't know,24,OUT,Feb-2023,Monthly
+47,Street Outreach (OUT),Client refused,28,OUT,Feb-2023,Monthly
+48,Street Outreach (OUT),Native Hawaiian or Pacific Islander,39,OUT,Feb-2023,Monthly
+49,Street Outreach (OUT),Asian or Asian American,44,OUT,Feb-2023,Monthly
+50,Street Outreach (OUT),Data not collected,58,OUT,Feb-2023,Monthly
+51,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",106,OUT,Feb-2023,Monthly
+52,Street Outreach (OUT),Multi-Racial,144,OUT,Feb-2023,Monthly
+53,Street Outreach (OUT),"Black, African American, or African",820,OUT,Feb-2023,Monthly
+54,Street Outreach (OUT),White,2095,OUT,Feb-2023,Monthly
+55,Permanent Housing (PH),Client refused,26,PH,Feb-2023,Monthly
+56,Permanent Housing (PH),Data not collected,107,PH,Feb-2023,Monthly
+57,Permanent Housing (PH),Client doesn't know,169,PH,Feb-2023,Monthly
+58,Permanent Housing (PH),Native Hawaiian or Pacific Islander,186,PH,Feb-2023,Monthly
+59,Permanent Housing (PH),Asian or Asian American,203,PH,Feb-2023,Monthly
+60,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",203,PH,Feb-2023,Monthly
+61,Permanent Housing (PH),Multi-Racial,523,PH,Feb-2023,Monthly
+62,Permanent Housing (PH),"Black, African American, or African",3628,PH,Feb-2023,Monthly
+63,Permanent Housing (PH),White,6925,PH,Feb-2023,Monthly
+64,Coordinated Entry (CE),Client refused,29,CE,Feb-2023,Monthly
+65,Coordinated Entry (CE),Client doesn't know,31,CE,Feb-2023,Monthly
+66,Coordinated Entry (CE),Data not collected,76,CE,Feb-2023,Monthly
+67,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,78,CE,Feb-2023,Monthly
+68,Coordinated Entry (CE),Asian or Asian American,115,CE,Feb-2023,Monthly
+69,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",123,CE,Feb-2023,Monthly
+70,Coordinated Entry (CE),Multi-Racial,200,CE,Feb-2023,Monthly
+71,Coordinated Entry (CE),"Black, African American, or African",1324,CE,Feb-2023,Monthly
+72,Coordinated Entry (CE),White,2990,CE,Feb-2023,Monthly
+73,Services Only (SO),Client refused,57,SO,Feb-2023,Monthly
+74,Services Only (SO),Client doesn't know,62,SO,Feb-2023,Monthly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,109,SO,Feb-2023,Monthly
+76,Services Only (SO),Data not collected,123,SO,Feb-2023,Monthly
+77,Services Only (SO),Asian or Asian American,154,SO,Feb-2023,Monthly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",196,SO,Feb-2023,Monthly
+79,Services Only (SO),Multi-Racial,345,SO,Feb-2023,Monthly
+80,Services Only (SO),"Black, African American, or African",1817,SO,Feb-2023,Monthly
+81,Services Only (SO),White,4469,SO,Feb-2023,Monthly
+0,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Feb-2023,Quarterly
+1,Other (OTH),Asian or Asian American,2,OTH,Feb-2023,Quarterly
+2,Other (OTH),Multi-Racial,5,OTH,Feb-2023,Quarterly
+3,Other (OTH),"Black, African American, or African",15,OTH,Feb-2023,Quarterly
+4,Other (OTH),White,38,OTH,Feb-2023,Quarterly
+5,Safe Haven (SH),Client doesn't know,1,SH,Feb-2023,Quarterly
+6,Safe Haven (SH),Multi-Racial,4,SH,Feb-2023,Quarterly
+7,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",4,SH,Feb-2023,Quarterly
+8,Safe Haven (SH),"Black, African American, or African",9,SH,Feb-2023,Quarterly
+9,Safe Haven (SH),White,62,SH,Feb-2023,Quarterly
+10,Transitional Housing (TH),Client doesn't know,2,TH,Feb-2023,Quarterly
+11,Transitional Housing (TH),Client refused,5,TH,Feb-2023,Quarterly
+12,Transitional Housing (TH),Data not collected,14,TH,Feb-2023,Quarterly
+13,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",16,TH,Feb-2023,Quarterly
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,23,TH,Feb-2023,Quarterly
+15,Transitional Housing (TH),Asian or Asian American,24,TH,Feb-2023,Quarterly
+16,Transitional Housing (TH),Multi-Racial,51,TH,Feb-2023,Quarterly
+17,Transitional Housing (TH),"Black, African American, or African",321,TH,Feb-2023,Quarterly
+18,Transitional Housing (TH),White,889,TH,Feb-2023,Quarterly
+19,Homelessness Prevention (HP),Client doesn't know,6,HP,Feb-2023,Quarterly
+20,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,10,HP,Feb-2023,Quarterly
+21,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",15,HP,Feb-2023,Quarterly
+22,Homelessness Prevention (HP),Client refused,28,HP,Feb-2023,Quarterly
+23,Homelessness Prevention (HP),Data not collected,33,HP,Feb-2023,Quarterly
+24,Homelessness Prevention (HP),Multi-Racial,53,HP,Feb-2023,Quarterly
+25,Homelessness Prevention (HP),Asian or Asian American,53,HP,Feb-2023,Quarterly
+26,Homelessness Prevention (HP),"Black, African American, or African",402,HP,Feb-2023,Quarterly
+27,Homelessness Prevention (HP),White,647,HP,Feb-2023,Quarterly
+28,Day Shelter (DS),Client doesn't know,11,DS,Feb-2023,Quarterly
+29,Day Shelter (DS),Client refused,18,DS,Feb-2023,Quarterly
+30,Day Shelter (DS),Data not collected,21,DS,Feb-2023,Quarterly
+31,Day Shelter (DS),Native Hawaiian or Pacific Islander,82,DS,Feb-2023,Quarterly
+32,Day Shelter (DS),Asian or Asian American,93,DS,Feb-2023,Quarterly
+33,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",159,DS,Feb-2023,Quarterly
+34,Day Shelter (DS),Multi-Racial,161,DS,Feb-2023,Quarterly
+35,Day Shelter (DS),"Black, African American, or African",1393,DS,Feb-2023,Quarterly
+36,Day Shelter (DS),White,3194,DS,Feb-2023,Quarterly
+37,Permanent Housing (PH),Client refused,26,PH,Feb-2023,Quarterly
+38,Permanent Housing (PH),Data not collected,115,PH,Feb-2023,Quarterly
+39,Permanent Housing (PH),Client doesn't know,172,PH,Feb-2023,Quarterly
+40,Permanent Housing (PH),Native Hawaiian or Pacific Islander,201,PH,Feb-2023,Quarterly
+41,Permanent Housing (PH),Asian or Asian American,218,PH,Feb-2023,Quarterly
+42,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",221,PH,Feb-2023,Quarterly
+43,Permanent Housing (PH),Multi-Racial,567,PH,Feb-2023,Quarterly
+44,Permanent Housing (PH),"Black, African American, or African",3822,PH,Feb-2023,Quarterly
+45,Permanent Housing (PH),White,7266,PH,Feb-2023,Quarterly
+46,Emergency Shelter (ES),Client refused,26,ES,Feb-2023,Quarterly
+47,Emergency Shelter (ES),Data not collected,96,ES,Feb-2023,Quarterly
+48,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,115,ES,Feb-2023,Quarterly
+49,Emergency Shelter (ES),Asian or Asian American,118,ES,Feb-2023,Quarterly
+50,Emergency Shelter (ES),Client doesn't know,152,ES,Feb-2023,Quarterly
+51,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",183,ES,Feb-2023,Quarterly
+52,Emergency Shelter (ES),Multi-Racial,231,ES,Feb-2023,Quarterly
+53,Emergency Shelter (ES),"Black, African American, or African",1544,ES,Feb-2023,Quarterly
+54,Emergency Shelter (ES),White,3910,ES,Feb-2023,Quarterly
+55,Street Outreach (OUT),Client doesn't know,39,OUT,Feb-2023,Quarterly
+56,Street Outreach (OUT),Client refused,52,OUT,Feb-2023,Quarterly
+57,Street Outreach (OUT),Native Hawaiian or Pacific Islander,61,OUT,Feb-2023,Quarterly
+58,Street Outreach (OUT),Asian or Asian American,73,OUT,Feb-2023,Quarterly
+59,Street Outreach (OUT),Data not collected,103,OUT,Feb-2023,Quarterly
+60,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",173,OUT,Feb-2023,Quarterly
+61,Street Outreach (OUT),Multi-Racial,252,OUT,Feb-2023,Quarterly
+62,Street Outreach (OUT),"Black, African American, or African",1345,OUT,Feb-2023,Quarterly
+63,Street Outreach (OUT),White,3494,OUT,Feb-2023,Quarterly
+64,Coordinated Entry (CE),Client refused,42,CE,Feb-2023,Quarterly
+65,Coordinated Entry (CE),Client doesn't know,45,CE,Feb-2023,Quarterly
+66,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,109,CE,Feb-2023,Quarterly
+67,Coordinated Entry (CE),Data not collected,113,CE,Feb-2023,Quarterly
+68,Coordinated Entry (CE),Asian or Asian American,156,CE,Feb-2023,Quarterly
+69,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",205,CE,Feb-2023,Quarterly
+70,Coordinated Entry (CE),Multi-Racial,317,CE,Feb-2023,Quarterly
+71,Coordinated Entry (CE),"Black, African American, or African",1939,CE,Feb-2023,Quarterly
+72,Coordinated Entry (CE),White,4482,CE,Feb-2023,Quarterly
+73,Services Only (SO),Client refused,70,SO,Feb-2023,Quarterly
+74,Services Only (SO),Client doesn't know,76,SO,Feb-2023,Quarterly
+75,Services Only (SO),Native Hawaiian or Pacific Islander,132,SO,Feb-2023,Quarterly
+76,Services Only (SO),Data not collected,145,SO,Feb-2023,Quarterly
+77,Services Only (SO),Asian or Asian American,187,SO,Feb-2023,Quarterly
+78,Services Only (SO),"American Indian, Alaska Native, or Indigenous",241,SO,Feb-2023,Quarterly
+79,Services Only (SO),Multi-Racial,446,SO,Feb-2023,Quarterly
+80,Services Only (SO),"Black, African American, or African",2293,SO,Feb-2023,Quarterly
+81,Services Only (SO),White,5653,SO,Feb-2023,Quarterly
+0,Safe Haven (SH),Client doesn't know,1,SH,Feb-2023,6 - Month
+1,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Feb-2023,6 - Month
+2,Safe Haven (SH),Multi-Racial,4,SH,Feb-2023,6 - Month
+3,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",5,SH,Feb-2023,6 - Month
+4,Safe Haven (SH),"Black, African American, or African",12,SH,Feb-2023,6 - Month
+5,Safe Haven (SH),White,69,SH,Feb-2023,6 - Month
+6,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Feb-2023,6 - Month
+7,Other (OTH),Asian or Asian American,2,OTH,Feb-2023,6 - Month
+8,Other (OTH),Multi-Racial,5,OTH,Feb-2023,6 - Month
+9,Other (OTH),"Black, African American, or African",15,OTH,Feb-2023,6 - Month
+10,Other (OTH),White,38,OTH,Feb-2023,6 - Month
+11,Transitional Housing (TH),Client refused,5,TH,Feb-2023,6 - Month
+12,Transitional Housing (TH),Client doesn't know,7,TH,Feb-2023,6 - Month
+13,Transitional Housing (TH),Data not collected,16,TH,Feb-2023,6 - Month
+14,Transitional Housing (TH),Native Hawaiian or Pacific Islander,25,TH,Feb-2023,6 - Month
+15,Transitional Housing (TH),Asian or Asian American,29,TH,Feb-2023,6 - Month
+16,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",31,TH,Feb-2023,6 - Month
+17,Transitional Housing (TH),Multi-Racial,61,TH,Feb-2023,6 - Month
+18,Transitional Housing (TH),"Black, African American, or African",415,TH,Feb-2023,6 - Month
+19,Transitional Housing (TH),White,1113,TH,Feb-2023,6 - Month
+20,Homelessness Prevention (HP),Client doesn't know,8,HP,Feb-2023,6 - Month
+21,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,14,HP,Feb-2023,6 - Month
+22,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",17,HP,Feb-2023,6 - Month
+23,Homelessness Prevention (HP),Client refused,28,HP,Feb-2023,6 - Month
+24,Homelessness Prevention (HP),Data not collected,37,HP,Feb-2023,6 - Month
+25,Homelessness Prevention (HP),Multi-Racial,57,HP,Feb-2023,6 - Month
+26,Homelessness Prevention (HP),Asian or Asian American,58,HP,Feb-2023,6 - Month
+27,Homelessness Prevention (HP),"Black, African American, or African",446,HP,Feb-2023,6 - Month
+28,Homelessness Prevention (HP),White,742,HP,Feb-2023,6 - Month
+29,Day Shelter (DS),Client doesn't know,11,DS,Feb-2023,6 - Month
+30,Day Shelter (DS),Client refused,19,DS,Feb-2023,6 - Month
+31,Day Shelter (DS),Data not collected,24,DS,Feb-2023,6 - Month
+32,Day Shelter (DS),Native Hawaiian or Pacific Islander,89,DS,Feb-2023,6 - Month
+33,Day Shelter (DS),Asian or Asian American,104,DS,Feb-2023,6 - Month
+34,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",178,DS,Feb-2023,6 - Month
+35,Day Shelter (DS),Multi-Racial,181,DS,Feb-2023,6 - Month
+36,Day Shelter (DS),"Black, African American, or African",1557,DS,Feb-2023,6 - Month
+37,Day Shelter (DS),White,3591,DS,Feb-2023,6 - Month
+38,Permanent Housing (PH),Client refused,27,PH,Feb-2023,6 - Month
+39,Permanent Housing (PH),Data not collected,118,PH,Feb-2023,6 - Month
+40,Permanent Housing (PH),Client doesn't know,173,PH,Feb-2023,6 - Month
+41,Permanent Housing (PH),Native Hawaiian or Pacific Islander,205,PH,Feb-2023,6 - Month
+42,Permanent Housing (PH),Asian or Asian American,224,PH,Feb-2023,6 - Month
+43,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",231,PH,Feb-2023,6 - Month
+44,Permanent Housing (PH),Multi-Racial,582,PH,Feb-2023,6 - Month
+45,Permanent Housing (PH),"Black, African American, or African",3985,PH,Feb-2023,6 - Month
+46,Permanent Housing (PH),White,7517,PH,Feb-2023,6 - Month
+47,Emergency Shelter (ES),Client refused,29,ES,Feb-2023,6 - Month
+48,Emergency Shelter (ES),Data not collected,99,ES,Feb-2023,6 - Month
+49,Emergency Shelter (ES),Asian or Asian American,128,ES,Feb-2023,6 - Month
+50,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,134,ES,Feb-2023,6 - Month
+51,Emergency Shelter (ES),Client doesn't know,153,ES,Feb-2023,6 - Month
+52,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",210,ES,Feb-2023,6 - Month
+53,Emergency Shelter (ES),Multi-Racial,258,ES,Feb-2023,6 - Month
+54,Emergency Shelter (ES),"Black, African American, or African",1805,ES,Feb-2023,6 - Month
+55,Emergency Shelter (ES),White,4613,ES,Feb-2023,6 - Month
+56,Street Outreach (OUT),Client doesn't know,51,OUT,Feb-2023,6 - Month
+57,Street Outreach (OUT),Asian or Asian American,99,OUT,Feb-2023,6 - Month
+58,Street Outreach (OUT),Native Hawaiian or Pacific Islander,102,OUT,Feb-2023,6 - Month
+59,Street Outreach (OUT),Client refused,112,OUT,Feb-2023,6 - Month
+60,Street Outreach (OUT),Data not collected,149,OUT,Feb-2023,6 - Month
+61,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",234,OUT,Feb-2023,6 - Month
+62,Street Outreach (OUT),Multi-Racial,323,OUT,Feb-2023,6 - Month
+63,Street Outreach (OUT),"Black, African American, or African",1801,OUT,Feb-2023,6 - Month
+64,Street Outreach (OUT),White,4698,OUT,Feb-2023,6 - Month
+65,Coordinated Entry (CE),Client refused,54,CE,Feb-2023,6 - Month
+66,Coordinated Entry (CE),Client doesn't know,60,CE,Feb-2023,6 - Month
+67,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,149,CE,Feb-2023,6 - Month
+68,Coordinated Entry (CE),Data not collected,150,CE,Feb-2023,6 - Month
+69,Coordinated Entry (CE),Asian or Asian American,194,CE,Feb-2023,6 - Month
+70,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",258,CE,Feb-2023,6 - Month
+71,Coordinated Entry (CE),Multi-Racial,410,CE,Feb-2023,6 - Month
+72,Coordinated Entry (CE),"Black, African American, or African",2492,CE,Feb-2023,6 - Month
+73,Coordinated Entry (CE),White,5832,CE,Feb-2023,6 - Month
+74,Services Only (SO),Client refused,77,SO,Feb-2023,6 - Month
+75,Services Only (SO),Client doesn't know,88,SO,Feb-2023,6 - Month
+76,Services Only (SO),Native Hawaiian or Pacific Islander,148,SO,Feb-2023,6 - Month
+77,Services Only (SO),Data not collected,180,SO,Feb-2023,6 - Month
+78,Services Only (SO),Asian or Asian American,201,SO,Feb-2023,6 - Month
+79,Services Only (SO),"American Indian, Alaska Native, or Indigenous",276,SO,Feb-2023,6 - Month
+80,Services Only (SO),Multi-Racial,505,SO,Feb-2023,6 - Month
+81,Services Only (SO),"Black, African American, or African",2634,SO,Feb-2023,6 - Month
+82,Services Only (SO),White,6430,SO,Feb-2023,6 - Month
+0,Safe Haven (SH),Client doesn't know,1,SH,Feb-2023,Annual
+1,Safe Haven (SH),Asian or Asian American,2,SH,Feb-2023,Annual
+2,Safe Haven (SH),Native Hawaiian or Pacific Islander,2,SH,Feb-2023,Annual
+3,Safe Haven (SH),"American Indian, Alaska Native, or Indigenous",5,SH,Feb-2023,Annual
+4,Safe Haven (SH),Multi-Racial,5,SH,Feb-2023,Annual
+5,Safe Haven (SH),"Black, African American, or African",20,SH,Feb-2023,Annual
+6,Safe Haven (SH),White,93,SH,Feb-2023,Annual
+7,Other (OTH),"American Indian, Alaska Native, or Indigenous",1,OTH,Feb-2023,Annual
+8,Other (OTH),Asian or Asian American,2,OTH,Feb-2023,Annual
+9,Other (OTH),Multi-Racial,5,OTH,Feb-2023,Annual
+10,Other (OTH),"Black, African American, or African",15,OTH,Feb-2023,Annual
+11,Other (OTH),White,44,OTH,Feb-2023,Annual
+12,Transitional Housing (TH),Client refused,5,TH,Feb-2023,Annual
+13,Transitional Housing (TH),Client doesn't know,9,TH,Feb-2023,Annual
+14,Transitional Housing (TH),Data not collected,18,TH,Feb-2023,Annual
+15,Transitional Housing (TH),Asian or Asian American,37,TH,Feb-2023,Annual
+16,Transitional Housing (TH),Native Hawaiian or Pacific Islander,42,TH,Feb-2023,Annual
+17,Transitional Housing (TH),"American Indian, Alaska Native, or Indigenous",55,TH,Feb-2023,Annual
+18,Transitional Housing (TH),Multi-Racial,80,TH,Feb-2023,Annual
+19,Transitional Housing (TH),"Black, African American, or African",640,TH,Feb-2023,Annual
+20,Transitional Housing (TH),White,1709,TH,Feb-2023,Annual
+21,Day Shelter (DS),Client doesn't know,14,DS,Feb-2023,Annual
+22,Day Shelter (DS),Client refused,23,DS,Feb-2023,Annual
+23,Day Shelter (DS),Data not collected,29,DS,Feb-2023,Annual
+24,Day Shelter (DS),Native Hawaiian or Pacific Islander,102,DS,Feb-2023,Annual
+25,Day Shelter (DS),Asian or Asian American,119,DS,Feb-2023,Annual
+26,Day Shelter (DS),"American Indian, Alaska Native, or Indigenous",223,DS,Feb-2023,Annual
+27,Day Shelter (DS),Multi-Racial,234,DS,Feb-2023,Annual
+28,Day Shelter (DS),"Black, African American, or African",1913,DS,Feb-2023,Annual
+29,Day Shelter (DS),White,4446,DS,Feb-2023,Annual
+30,Homelessness Prevention (HP),Native Hawaiian or Pacific Islander,17,HP,Feb-2023,Annual
+31,Homelessness Prevention (HP),Client refused,29,HP,Feb-2023,Annual
+32,Homelessness Prevention (HP),Client doesn't know,32,HP,Feb-2023,Annual
+33,Homelessness Prevention (HP),"American Indian, Alaska Native, or Indigenous",32,HP,Feb-2023,Annual
+34,Homelessness Prevention (HP),Data not collected,45,HP,Feb-2023,Annual
+35,Homelessness Prevention (HP),Asian or Asian American,81,HP,Feb-2023,Annual
+36,Homelessness Prevention (HP),Multi-Racial,88,HP,Feb-2023,Annual
+37,Homelessness Prevention (HP),"Black, African American, or African",569,HP,Feb-2023,Annual
+38,Homelessness Prevention (HP),White,1215,HP,Feb-2023,Annual
+39,Permanent Housing (PH),Client refused,29,PH,Feb-2023,Annual
+40,Permanent Housing (PH),Data not collected,123,PH,Feb-2023,Annual
+41,Permanent Housing (PH),Client doesn't know,174,PH,Feb-2023,Annual
+42,Permanent Housing (PH),Native Hawaiian or Pacific Islander,222,PH,Feb-2023,Annual
+43,Permanent Housing (PH),Asian or Asian American,253,PH,Feb-2023,Annual
+44,Permanent Housing (PH),"American Indian, Alaska Native, or Indigenous",264,PH,Feb-2023,Annual
+45,Permanent Housing (PH),Multi-Racial,659,PH,Feb-2023,Annual
+46,Permanent Housing (PH),"Black, African American, or African",4404,PH,Feb-2023,Annual
+47,Permanent Housing (PH),White,8253,PH,Feb-2023,Annual
+48,Emergency Shelter (ES),Client refused,34,ES,Feb-2023,Annual
+49,Emergency Shelter (ES),Data not collected,118,ES,Feb-2023,Annual
+50,Emergency Shelter (ES),Client doesn't know,180,ES,Feb-2023,Annual
+51,Emergency Shelter (ES),Asian or Asian American,185,ES,Feb-2023,Annual
+52,Emergency Shelter (ES),Native Hawaiian or Pacific Islander,196,ES,Feb-2023,Annual
+53,Emergency Shelter (ES),"American Indian, Alaska Native, or Indigenous",328,ES,Feb-2023,Annual
+54,Emergency Shelter (ES),Multi-Racial,409,ES,Feb-2023,Annual
+55,Emergency Shelter (ES),"Black, African American, or African",2652,ES,Feb-2023,Annual
+56,Emergency Shelter (ES),White,6875,ES,Feb-2023,Annual
+57,Coordinated Entry (CE),Client refused,70,CE,Feb-2023,Annual
+58,Coordinated Entry (CE),Client doesn't know,88,CE,Feb-2023,Annual
+59,Coordinated Entry (CE),Native Hawaiian or Pacific Islander,230,CE,Feb-2023,Annual
+60,Coordinated Entry (CE),Data not collected,241,CE,Feb-2023,Annual
+61,Coordinated Entry (CE),Asian or Asian American,284,CE,Feb-2023,Annual
+62,Coordinated Entry (CE),"American Indian, Alaska Native, or Indigenous",439,CE,Feb-2023,Annual
+63,Coordinated Entry (CE),Multi-Racial,684,CE,Feb-2023,Annual
+64,Coordinated Entry (CE),"Black, African American, or African",3934,CE,Feb-2023,Annual
+65,Coordinated Entry (CE),White,9300,CE,Feb-2023,Annual
+66,Street Outreach (OUT),Client doesn't know,85,OUT,Feb-2023,Annual
+67,Street Outreach (OUT),Client refused,150,OUT,Feb-2023,Annual
+68,Street Outreach (OUT),Native Hawaiian or Pacific Islander,169,OUT,Feb-2023,Annual
+69,Street Outreach (OUT),Asian or Asian American,185,OUT,Feb-2023,Annual
+70,Street Outreach (OUT),Data not collected,338,OUT,Feb-2023,Annual
+71,Street Outreach (OUT),"American Indian, Alaska Native, or Indigenous",379,OUT,Feb-2023,Annual
+72,Street Outreach (OUT),Multi-Racial,523,OUT,Feb-2023,Annual
+73,Street Outreach (OUT),"Black, African American, or African",2943,OUT,Feb-2023,Annual
+74,Street Outreach (OUT),White,8223,OUT,Feb-2023,Annual
+75,Services Only (SO),Client refused,99,SO,Feb-2023,Annual
+76,Services Only (SO),Client doesn't know,100,SO,Feb-2023,Annual
+77,Services Only (SO),Native Hawaiian or Pacific Islander,200,SO,Feb-2023,Annual
+78,Services Only (SO),Data not collected,212,SO,Feb-2023,Annual
+79,Services Only (SO),Asian or Asian American,262,SO,Feb-2023,Annual
+80,Services Only (SO),"American Indian, Alaska Native, or Indigenous",368,SO,Feb-2023,Annual
+81,Services Only (SO),Multi-Racial,671,SO,Feb-2023,Annual
+82,Services Only (SO),"Black, African American, or African",3541,SO,Feb-2023,Annual
+83,Services Only (SO),White,8586,SO,Feb-2023,Annual

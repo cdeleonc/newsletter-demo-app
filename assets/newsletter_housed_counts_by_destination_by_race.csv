@@ -1,0 +1,945 @@
+,static_demographics.race_text,Permanent Destination,clients.unique_identifier,Reporting Month,Reporting Window
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,8,Sep-2022,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,3,Sep-2022,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,1,Sep-2022,Monthly
+3,"American Indian, Alaska Native, or Indigenous",Rental by Client,12,Sep-2022,Monthly
+4,Asian or Asian American,Move In to PH,5,Sep-2022,Monthly
+5,Asian or Asian American,Moved in with Family,1,Sep-2022,Monthly
+6,Asian or Asian American,Owned by Client,1,Sep-2022,Monthly
+7,Asian or Asian American,Rental by Client,4,Sep-2022,Monthly
+8,"Black, African American, or African",Move In to PH,79,Sep-2022,Monthly
+9,"Black, African American, or African",Moved in with Family,31,Sep-2022,Monthly
+10,"Black, African American, or African",Other Permanent Housing,8,Sep-2022,Monthly
+11,"Black, African American, or African",Owned by Client,7,Sep-2022,Monthly
+12,"Black, African American, or African",Rental by Client,197,Sep-2022,Monthly
+13,Client doesn't know,Moved in with Family,2,Sep-2022,Monthly
+14,Client doesn't know,Rental by Client,1,Sep-2022,Monthly
+15,Client refused,Rental by Client,1,Sep-2022,Monthly
+16,Data not collected,Move In to PH,2,Sep-2022,Monthly
+17,Data not collected,Moved in with Family,3,Sep-2022,Monthly
+18,Data not collected,Rental by Client,22,Sep-2022,Monthly
+19,Multi-Racial,Move In to PH,12,Sep-2022,Monthly
+20,Multi-Racial,Moved in with Family,5,Sep-2022,Monthly
+21,Multi-Racial,Other Permanent Housing,1,Sep-2022,Monthly
+22,Multi-Racial,Rental by Client,22,Sep-2022,Monthly
+23,Native Hawaiian or Pacific Islander,Moved in with Family,1,Sep-2022,Monthly
+24,Native Hawaiian or Pacific Islander,Rental by Client,7,Sep-2022,Monthly
+25,White,Move In to PH,134,Sep-2022,Monthly
+26,White,Moved in with Family,86,Sep-2022,Monthly
+27,White,Other Permanent Housing,27,Sep-2022,Monthly
+28,White,Owned by Client,11,Sep-2022,Monthly
+29,White,Rental by Client,357,Sep-2022,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,25,Sep-2022,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,12,Sep-2022,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,8,Sep-2022,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,2,Sep-2022,Quarterly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,42,Sep-2022,Quarterly
+5,Asian or Asian American,Move In to PH,14,Sep-2022,Quarterly
+6,Asian or Asian American,Moved in with Family,7,Sep-2022,Quarterly
+7,Asian or Asian American,Other Permanent Housing,4,Sep-2022,Quarterly
+8,Asian or Asian American,Owned by Client,2,Sep-2022,Quarterly
+9,Asian or Asian American,Rental by Client,49,Sep-2022,Quarterly
+10,"Black, African American, or African",Move In to PH,379,Sep-2022,Quarterly
+11,"Black, African American, or African",Moved in with Family,153,Sep-2022,Quarterly
+12,"Black, African American, or African",Other Permanent Housing,92,Sep-2022,Quarterly
+13,"Black, African American, or African",Owned by Client,19,Sep-2022,Quarterly
+14,"Black, African American, or African",Rental by Client,657,Sep-2022,Quarterly
+15,Client doesn't know,Moved in with Family,6,Sep-2022,Quarterly
+16,Client doesn't know,Other Permanent Housing,1,Sep-2022,Quarterly
+17,Client doesn't know,Rental by Client,20,Sep-2022,Quarterly
+18,Client refused,Move In to PH,1,Sep-2022,Quarterly
+19,Client refused,Moved in with Family,1,Sep-2022,Quarterly
+20,Client refused,Rental by Client,5,Sep-2022,Quarterly
+21,Data not collected,Move In to PH,11,Sep-2022,Quarterly
+22,Data not collected,Moved in with Family,7,Sep-2022,Quarterly
+23,Data not collected,Other Permanent Housing,5,Sep-2022,Quarterly
+24,Data not collected,Rental by Client,43,Sep-2022,Quarterly
+25,Multi-Racial,Move In to PH,45,Sep-2022,Quarterly
+26,Multi-Racial,Moved in with Family,30,Sep-2022,Quarterly
+27,Multi-Racial,Other Permanent Housing,11,Sep-2022,Quarterly
+28,Multi-Racial,Owned by Client,2,Sep-2022,Quarterly
+29,Multi-Racial,Rental by Client,101,Sep-2022,Quarterly
+30,Native Hawaiian or Pacific Islander,Move In to PH,13,Sep-2022,Quarterly
+31,Native Hawaiian or Pacific Islander,Moved in with Family,3,Sep-2022,Quarterly
+32,Native Hawaiian or Pacific Islander,Other Permanent Housing,4,Sep-2022,Quarterly
+33,Native Hawaiian or Pacific Islander,Owned by Client,1,Sep-2022,Quarterly
+34,Native Hawaiian or Pacific Islander,Rental by Client,41,Sep-2022,Quarterly
+35,White,Move In to PH,609,Sep-2022,Quarterly
+36,White,Moved in with Family,323,Sep-2022,Quarterly
+37,White,Other Permanent Housing,183,Sep-2022,Quarterly
+38,White,Owned by Client,41,Sep-2022,Quarterly
+39,White,Rental by Client,1413,Sep-2022,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,43,Sep-2022,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,26,Sep-2022,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,10,Sep-2022,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,2,Sep-2022,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,67,Sep-2022,6 - Month
+5,Asian or Asian American,Move In to PH,28,Sep-2022,6 - Month
+6,Asian or Asian American,Moved in with Family,9,Sep-2022,6 - Month
+7,Asian or Asian American,Other Permanent Housing,6,Sep-2022,6 - Month
+8,Asian or Asian American,Owned by Client,2,Sep-2022,6 - Month
+9,Asian or Asian American,Rental by Client,63,Sep-2022,6 - Month
+10,"Black, African American, or African",Move In to PH,888,Sep-2022,6 - Month
+11,"Black, African American, or African",Moved in with Family,204,Sep-2022,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,123,Sep-2022,6 - Month
+13,"Black, African American, or African",Owned by Client,27,Sep-2022,6 - Month
+14,"Black, African American, or African",Rental by Client,985,Sep-2022,6 - Month
+15,Client doesn't know,Move In to PH,13,Sep-2022,6 - Month
+16,Client doesn't know,Moved in with Family,8,Sep-2022,6 - Month
+17,Client doesn't know,Other Permanent Housing,1,Sep-2022,6 - Month
+18,Client doesn't know,Rental by Client,37,Sep-2022,6 - Month
+19,Client refused,Move In to PH,2,Sep-2022,6 - Month
+20,Client refused,Moved in with Family,2,Sep-2022,6 - Month
+21,Client refused,Rental by Client,7,Sep-2022,6 - Month
+22,Data not collected,Move In to PH,24,Sep-2022,6 - Month
+23,Data not collected,Moved in with Family,8,Sep-2022,6 - Month
+24,Data not collected,Other Permanent Housing,6,Sep-2022,6 - Month
+25,Data not collected,Rental by Client,48,Sep-2022,6 - Month
+26,Multi-Racial,Move In to PH,108,Sep-2022,6 - Month
+27,Multi-Racial,Moved in with Family,37,Sep-2022,6 - Month
+28,Multi-Racial,Other Permanent Housing,15,Sep-2022,6 - Month
+29,Multi-Racial,Owned by Client,3,Sep-2022,6 - Month
+30,Multi-Racial,Rental by Client,156,Sep-2022,6 - Month
+31,Native Hawaiian or Pacific Islander,Move In to PH,30,Sep-2022,6 - Month
+32,Native Hawaiian or Pacific Islander,Moved in with Family,7,Sep-2022,6 - Month
+33,Native Hawaiian or Pacific Islander,Other Permanent Housing,4,Sep-2022,6 - Month
+34,Native Hawaiian or Pacific Islander,Owned by Client,1,Sep-2022,6 - Month
+35,Native Hawaiian or Pacific Islander,Rental by Client,57,Sep-2022,6 - Month
+36,White,Move In to PH,1444,Sep-2022,6 - Month
+37,White,Moved in with Family,459,Sep-2022,6 - Month
+38,White,Other Permanent Housing,248,Sep-2022,6 - Month
+39,White,Owned by Client,59,Sep-2022,6 - Month
+40,White,Rental by Client,2111,Sep-2022,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,80,Sep-2022,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,46,Sep-2022,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,20,Sep-2022,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,5,Sep-2022,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,118,Sep-2022,Annual
+5,Asian or Asian American,Move In to PH,68,Sep-2022,Annual
+6,Asian or Asian American,Moved in with Family,12,Sep-2022,Annual
+7,Asian or Asian American,Other Permanent Housing,11,Sep-2022,Annual
+8,Asian or Asian American,Owned by Client,4,Sep-2022,Annual
+9,Asian or Asian American,Rental by Client,145,Sep-2022,Annual
+10,"Black, African American, or African",Move In to PH,1331,Sep-2022,Annual
+11,"Black, African American, or African",Moved in with Family,381,Sep-2022,Annual
+12,"Black, African American, or African",Other Permanent Housing,238,Sep-2022,Annual
+13,"Black, African American, or African",Owned by Client,29,Sep-2022,Annual
+14,"Black, African American, or African",Rental by Client,1865,Sep-2022,Annual
+15,Client doesn't know,Move In to PH,13,Sep-2022,Annual
+16,Client doesn't know,Moved in with Family,13,Sep-2022,Annual
+17,Client doesn't know,Other Permanent Housing,1,Sep-2022,Annual
+18,Client doesn't know,Owned by Client,1,Sep-2022,Annual
+19,Client doesn't know,Rental by Client,57,Sep-2022,Annual
+20,Client refused,Move In to PH,3,Sep-2022,Annual
+21,Client refused,Moved in with Family,7,Sep-2022,Annual
+22,Client refused,Owned by Client,2,Sep-2022,Annual
+23,Client refused,Rental by Client,21,Sep-2022,Annual
+24,Data not collected,Move In to PH,28,Sep-2022,Annual
+25,Data not collected,Moved in with Family,15,Sep-2022,Annual
+26,Data not collected,Other Permanent Housing,6,Sep-2022,Annual
+27,Data not collected,Rental by Client,69,Sep-2022,Annual
+28,Multi-Racial,Move In to PH,195,Sep-2022,Annual
+29,Multi-Racial,Moved in with Family,67,Sep-2022,Annual
+30,Multi-Racial,Other Permanent Housing,34,Sep-2022,Annual
+31,Multi-Racial,Owned by Client,4,Sep-2022,Annual
+32,Multi-Racial,Rental by Client,327,Sep-2022,Annual
+33,Native Hawaiian or Pacific Islander,Move In to PH,58,Sep-2022,Annual
+34,Native Hawaiian or Pacific Islander,Moved in with Family,16,Sep-2022,Annual
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,10,Sep-2022,Annual
+36,Native Hawaiian or Pacific Islander,Owned by Client,3,Sep-2022,Annual
+37,Native Hawaiian or Pacific Islander,Rental by Client,101,Sep-2022,Annual
+38,White,Move In to PH,2418,Sep-2022,Annual
+39,White,Moved in with Family,826,Sep-2022,Annual
+40,White,Other Permanent Housing,552,Sep-2022,Annual
+41,White,Owned by Client,121,Sep-2022,Annual
+42,White,Rental by Client,4095,Sep-2022,Annual
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,7,Oct-2022,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,7,Oct-2022,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,2,Oct-2022,Monthly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Oct-2022,Monthly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,15,Oct-2022,Monthly
+5,Asian or Asian American,Move In to PH,1,Oct-2022,Monthly
+6,Asian or Asian American,Moved in with Family,3,Oct-2022,Monthly
+7,Asian or Asian American,Rental by Client,3,Oct-2022,Monthly
+8,"Black, African American, or African",Move In to PH,59,Oct-2022,Monthly
+9,"Black, African American, or African",Moved in with Family,42,Oct-2022,Monthly
+10,"Black, African American, or African",Other Permanent Housing,15,Oct-2022,Monthly
+11,"Black, African American, or African",Owned by Client,3,Oct-2022,Monthly
+12,"Black, African American, or African",Rental by Client,153,Oct-2022,Monthly
+13,Client doesn't know,Owned by Client,1,Oct-2022,Monthly
+14,Client doesn't know,Rental by Client,6,Oct-2022,Monthly
+15,Client refused,Moved in with Family,1,Oct-2022,Monthly
+16,Client refused,Owned by Client,2,Oct-2022,Monthly
+17,Client refused,Rental by Client,5,Oct-2022,Monthly
+18,Data not collected,Moved in with Family,1,Oct-2022,Monthly
+19,Data not collected,Other Permanent Housing,2,Oct-2022,Monthly
+20,Data not collected,Rental by Client,4,Oct-2022,Monthly
+21,Multi-Racial,Move In to PH,7,Oct-2022,Monthly
+22,Multi-Racial,Moved in with Family,3,Oct-2022,Monthly
+23,Multi-Racial,Other Permanent Housing,1,Oct-2022,Monthly
+24,Multi-Racial,Owned by Client,1,Oct-2022,Monthly
+25,Multi-Racial,Rental by Client,14,Oct-2022,Monthly
+26,Native Hawaiian or Pacific Islander,Move In to PH,5,Oct-2022,Monthly
+27,Native Hawaiian or Pacific Islander,Moved in with Family,5,Oct-2022,Monthly
+28,Native Hawaiian or Pacific Islander,Other Permanent Housing,2,Oct-2022,Monthly
+29,Native Hawaiian or Pacific Islander,Rental by Client,8,Oct-2022,Monthly
+30,White,Move In to PH,93,Oct-2022,Monthly
+31,White,Moved in with Family,83,Oct-2022,Monthly
+32,White,Other Permanent Housing,12,Oct-2022,Monthly
+33,White,Owned by Client,7,Oct-2022,Monthly
+34,White,Rental by Client,274,Oct-2022,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,25,Oct-2022,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,17,Oct-2022,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,6,Oct-2022,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Oct-2022,Quarterly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,45,Oct-2022,Quarterly
+5,Asian or Asian American,Move In to PH,11,Oct-2022,Quarterly
+6,Asian or Asian American,Moved in with Family,7,Oct-2022,Quarterly
+7,Asian or Asian American,Other Permanent Housing,3,Oct-2022,Quarterly
+8,Asian or Asian American,Owned by Client,2,Oct-2022,Quarterly
+9,Asian or Asian American,Rental by Client,31,Oct-2022,Quarterly
+10,"Black, African American, or African",Move In to PH,261,Oct-2022,Quarterly
+11,"Black, African American, or African",Moved in with Family,160,Oct-2022,Quarterly
+12,"Black, African American, or African",Other Permanent Housing,73,Oct-2022,Quarterly
+13,"Black, African American, or African",Owned by Client,13,Oct-2022,Quarterly
+14,"Black, African American, or African",Rental by Client,632,Oct-2022,Quarterly
+15,Client doesn't know,Moved in with Family,5,Oct-2022,Quarterly
+16,Client doesn't know,Other Permanent Housing,1,Oct-2022,Quarterly
+17,Client doesn't know,Owned by Client,1,Oct-2022,Quarterly
+18,Client doesn't know,Rental by Client,11,Oct-2022,Quarterly
+19,Client refused,Move In to PH,1,Oct-2022,Quarterly
+20,Client refused,Moved in with Family,2,Oct-2022,Quarterly
+21,Client refused,Owned by Client,2,Oct-2022,Quarterly
+22,Client refused,Rental by Client,8,Oct-2022,Quarterly
+23,Data not collected,Move In to PH,11,Oct-2022,Quarterly
+24,Data not collected,Moved in with Family,7,Oct-2022,Quarterly
+25,Data not collected,Other Permanent Housing,7,Oct-2022,Quarterly
+26,Data not collected,Rental by Client,44,Oct-2022,Quarterly
+27,Multi-Racial,Move In to PH,33,Oct-2022,Quarterly
+28,Multi-Racial,Moved in with Family,26,Oct-2022,Quarterly
+29,Multi-Racial,Other Permanent Housing,5,Oct-2022,Quarterly
+30,Multi-Racial,Owned by Client,1,Oct-2022,Quarterly
+31,Multi-Racial,Rental by Client,88,Oct-2022,Quarterly
+32,Native Hawaiian or Pacific Islander,Move In to PH,6,Oct-2022,Quarterly
+33,Native Hawaiian or Pacific Islander,Moved in with Family,8,Oct-2022,Quarterly
+34,Native Hawaiian or Pacific Islander,Other Permanent Housing,4,Oct-2022,Quarterly
+35,Native Hawaiian or Pacific Islander,Rental by Client,32,Oct-2022,Quarterly
+36,White,Move In to PH,443,Oct-2022,Quarterly
+37,White,Moved in with Family,320,Oct-2022,Quarterly
+38,White,Other Permanent Housing,111,Oct-2022,Quarterly
+39,White,Owned by Client,31,Oct-2022,Quarterly
+40,White,Rental by Client,1233,Oct-2022,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,42,Oct-2022,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,25,Oct-2022,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,12,Oct-2022,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,6,Oct-2022,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,66,Oct-2022,6 - Month
+5,Asian or Asian American,Move In to PH,24,Oct-2022,6 - Month
+6,Asian or Asian American,Moved in with Family,11,Oct-2022,6 - Month
+7,Asian or Asian American,Other Permanent Housing,5,Oct-2022,6 - Month
+8,Asian or Asian American,Owned by Client,2,Oct-2022,6 - Month
+9,Asian or Asian American,Rental by Client,58,Oct-2022,6 - Month
+10,"Black, African American, or African",Move In to PH,767,Oct-2022,6 - Month
+11,"Black, African American, or African",Moved in with Family,220,Oct-2022,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,116,Oct-2022,6 - Month
+13,"Black, African American, or African",Owned by Client,27,Oct-2022,6 - Month
+14,"Black, African American, or African",Rental by Client,959,Oct-2022,6 - Month
+15,Client doesn't know,Move In to PH,13,Oct-2022,6 - Month
+16,Client doesn't know,Moved in with Family,8,Oct-2022,6 - Month
+17,Client doesn't know,Other Permanent Housing,1,Oct-2022,6 - Month
+18,Client doesn't know,Owned by Client,1,Oct-2022,6 - Month
+19,Client doesn't know,Rental by Client,42,Oct-2022,6 - Month
+20,Client refused,Move In to PH,2,Oct-2022,6 - Month
+21,Client refused,Moved in with Family,3,Oct-2022,6 - Month
+22,Client refused,Owned by Client,2,Oct-2022,6 - Month
+23,Client refused,Rental by Client,9,Oct-2022,6 - Month
+24,Data not collected,Move In to PH,23,Oct-2022,6 - Month
+25,Data not collected,Moved in with Family,9,Oct-2022,6 - Month
+26,Data not collected,Other Permanent Housing,7,Oct-2022,6 - Month
+27,Data not collected,Rental by Client,50,Oct-2022,6 - Month
+28,Multi-Racial,Move In to PH,70,Oct-2022,6 - Month
+29,Multi-Racial,Moved in with Family,36,Oct-2022,6 - Month
+30,Multi-Racial,Other Permanent Housing,15,Oct-2022,6 - Month
+31,Multi-Racial,Owned by Client,2,Oct-2022,6 - Month
+32,Multi-Racial,Rental by Client,131,Oct-2022,6 - Month
+33,Native Hawaiian or Pacific Islander,Move In to PH,25,Oct-2022,6 - Month
+34,Native Hawaiian or Pacific Islander,Moved in with Family,10,Oct-2022,6 - Month
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,6,Oct-2022,6 - Month
+36,Native Hawaiian or Pacific Islander,Owned by Client,1,Oct-2022,6 - Month
+37,Native Hawaiian or Pacific Islander,Rental by Client,60,Oct-2022,6 - Month
+38,White,Move In to PH,1057,Oct-2022,6 - Month
+39,White,Moved in with Family,470,Oct-2022,6 - Month
+40,White,Other Permanent Housing,224,Oct-2022,6 - Month
+41,White,Owned by Client,56,Oct-2022,6 - Month
+42,White,Rental by Client,2026,Oct-2022,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,83,Oct-2022,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,49,Oct-2022,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,21,Oct-2022,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,9,Oct-2022,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,130,Oct-2022,Annual
+5,Asian or Asian American,Move In to PH,66,Oct-2022,Annual
+6,Asian or Asian American,Moved in with Family,15,Oct-2022,Annual
+7,Asian or Asian American,Other Permanent Housing,11,Oct-2022,Annual
+8,Asian or Asian American,Owned by Client,4,Oct-2022,Annual
+9,Asian or Asian American,Rental by Client,134,Oct-2022,Annual
+10,"Black, African American, or African",Move In to PH,1356,Oct-2022,Annual
+11,"Black, African American, or African",Moved in with Family,398,Oct-2022,Annual
+12,"Black, African American, or African",Other Permanent Housing,249,Oct-2022,Annual
+13,"Black, African American, or African",Owned by Client,31,Oct-2022,Annual
+14,"Black, African American, or African",Rental by Client,1893,Oct-2022,Annual
+15,Client doesn't know,Move In to PH,13,Oct-2022,Annual
+16,Client doesn't know,Moved in with Family,13,Oct-2022,Annual
+17,Client doesn't know,Other Permanent Housing,1,Oct-2022,Annual
+18,Client doesn't know,Owned by Client,2,Oct-2022,Annual
+19,Client doesn't know,Rental by Client,57,Oct-2022,Annual
+20,Client refused,Move In to PH,3,Oct-2022,Annual
+21,Client refused,Moved in with Family,6,Oct-2022,Annual
+22,Client refused,Owned by Client,4,Oct-2022,Annual
+23,Client refused,Rental by Client,22,Oct-2022,Annual
+24,Data not collected,Move In to PH,27,Oct-2022,Annual
+25,Data not collected,Moved in with Family,13,Oct-2022,Annual
+26,Data not collected,Other Permanent Housing,8,Oct-2022,Annual
+27,Data not collected,Rental by Client,72,Oct-2022,Annual
+28,Multi-Racial,Move In to PH,192,Oct-2022,Annual
+29,Multi-Racial,Moved in with Family,68,Oct-2022,Annual
+30,Multi-Racial,Other Permanent Housing,34,Oct-2022,Annual
+31,Multi-Racial,Owned by Client,2,Oct-2022,Annual
+32,Multi-Racial,Rental by Client,324,Oct-2022,Annual
+33,Native Hawaiian or Pacific Islander,Move In to PH,57,Oct-2022,Annual
+34,Native Hawaiian or Pacific Islander,Moved in with Family,21,Oct-2022,Annual
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,11,Oct-2022,Annual
+36,Native Hawaiian or Pacific Islander,Owned by Client,3,Oct-2022,Annual
+37,Native Hawaiian or Pacific Islander,Rental by Client,96,Oct-2022,Annual
+38,White,Move In to PH,2391,Oct-2022,Annual
+39,White,Moved in with Family,839,Oct-2022,Annual
+40,White,Other Permanent Housing,538,Oct-2022,Annual
+41,White,Owned by Client,118,Oct-2022,Annual
+42,White,Rental by Client,4127,Oct-2022,Annual
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,3,Nov-2022,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,1,Nov-2022,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,3,Nov-2022,Monthly
+3,"American Indian, Alaska Native, or Indigenous",Rental by Client,18,Nov-2022,Monthly
+4,Asian or Asian American,Move In to PH,2,Nov-2022,Monthly
+5,Asian or Asian American,Moved in with Family,3,Nov-2022,Monthly
+6,Asian or Asian American,Rental by Client,14,Nov-2022,Monthly
+7,"Black, African American, or African",Move In to PH,40,Nov-2022,Monthly
+8,"Black, African American, or African",Moved in with Family,22,Nov-2022,Monthly
+9,"Black, African American, or African",Other Permanent Housing,21,Nov-2022,Monthly
+10,"Black, African American, or African",Owned by Client,5,Nov-2022,Monthly
+11,"Black, African American, or African",Rental by Client,122,Nov-2022,Monthly
+12,Client doesn't know,Moved in with Family,1,Nov-2022,Monthly
+13,Client doesn't know,Rental by Client,1,Nov-2022,Monthly
+14,Client refused,Moved in with Family,1,Nov-2022,Monthly
+15,Client refused,Rental by Client,5,Nov-2022,Monthly
+16,Data not collected,Move In to PH,1,Nov-2022,Monthly
+17,Data not collected,Rental by Client,11,Nov-2022,Monthly
+18,Multi-Racial,Move In to PH,18,Nov-2022,Monthly
+19,Multi-Racial,Moved in with Family,6,Nov-2022,Monthly
+20,Multi-Racial,Rental by Client,32,Nov-2022,Monthly
+21,Native Hawaiian or Pacific Islander,Move In to PH,2,Nov-2022,Monthly
+22,Native Hawaiian or Pacific Islander,Moved in with Family,3,Nov-2022,Monthly
+23,Native Hawaiian or Pacific Islander,Rental by Client,5,Nov-2022,Monthly
+24,White,Move In to PH,96,Nov-2022,Monthly
+25,White,Moved in with Family,65,Nov-2022,Monthly
+26,White,Other Permanent Housing,26,Nov-2022,Monthly
+27,White,Owned by Client,2,Nov-2022,Monthly
+28,White,Rental by Client,275,Nov-2022,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,25,Nov-2022,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,13,Nov-2022,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,8,Nov-2022,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Nov-2022,Quarterly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,53,Nov-2022,Quarterly
+5,Asian or Asian American,Move In to PH,10,Nov-2022,Quarterly
+6,Asian or Asian American,Moved in with Family,9,Nov-2022,Quarterly
+7,Asian or Asian American,Other Permanent Housing,3,Nov-2022,Quarterly
+8,Asian or Asian American,Owned by Client,2,Nov-2022,Quarterly
+9,Asian or Asian American,Rental by Client,31,Nov-2022,Quarterly
+10,"Black, African American, or African",Move In to PH,237,Nov-2022,Quarterly
+11,"Black, African American, or African",Moved in with Family,148,Nov-2022,Quarterly
+12,"Black, African American, or African",Other Permanent Housing,72,Nov-2022,Quarterly
+13,"Black, African American, or African",Owned by Client,17,Nov-2022,Quarterly
+14,"Black, African American, or African",Rental by Client,629,Nov-2022,Quarterly
+15,Client doesn't know,Moved in with Family,5,Nov-2022,Quarterly
+16,Client doesn't know,Owned by Client,1,Nov-2022,Quarterly
+17,Client doesn't know,Rental by Client,12,Nov-2022,Quarterly
+18,Client refused,Move In to PH,1,Nov-2022,Quarterly
+19,Client refused,Moved in with Family,2,Nov-2022,Quarterly
+20,Client refused,Owned by Client,2,Nov-2022,Quarterly
+21,Client refused,Rental by Client,9,Nov-2022,Quarterly
+22,Data not collected,Move In to PH,11,Nov-2022,Quarterly
+23,Data not collected,Moved in with Family,6,Nov-2022,Quarterly
+24,Data not collected,Other Permanent Housing,2,Nov-2022,Quarterly
+25,Data not collected,Rental by Client,42,Nov-2022,Quarterly
+26,Multi-Racial,Move In to PH,39,Nov-2022,Quarterly
+27,Multi-Racial,Moved in with Family,25,Nov-2022,Quarterly
+28,Multi-Racial,Other Permanent Housing,3,Nov-2022,Quarterly
+29,Multi-Racial,Owned by Client,1,Nov-2022,Quarterly
+30,Multi-Racial,Rental by Client,95,Nov-2022,Quarterly
+31,Native Hawaiian or Pacific Islander,Move In to PH,7,Nov-2022,Quarterly
+32,Native Hawaiian or Pacific Islander,Moved in with Family,10,Nov-2022,Quarterly
+33,Native Hawaiian or Pacific Islander,Other Permanent Housing,3,Nov-2022,Quarterly
+34,Native Hawaiian or Pacific Islander,Rental by Client,35,Nov-2022,Quarterly
+35,White,Move In to PH,435,Nov-2022,Quarterly
+36,White,Moved in with Family,320,Nov-2022,Quarterly
+37,White,Other Permanent Housing,113,Nov-2022,Quarterly
+38,White,Owned by Client,28,Nov-2022,Quarterly
+39,White,Rental by Client,1227,Nov-2022,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,35,Nov-2022,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,20,Nov-2022,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,13,Nov-2022,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,6,Nov-2022,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,66,Nov-2022,6 - Month
+5,Asian or Asian American,Move In to PH,17,Nov-2022,6 - Month
+6,Asian or Asian American,Moved in with Family,13,Nov-2022,6 - Month
+7,Asian or Asian American,Other Permanent Housing,4,Nov-2022,6 - Month
+8,Asian or Asian American,Owned by Client,2,Nov-2022,6 - Month
+9,Asian or Asian American,Rental by Client,64,Nov-2022,6 - Month
+10,"Black, African American, or African",Move In to PH,477,Nov-2022,6 - Month
+11,"Black, African American, or African",Moved in with Family,216,Nov-2022,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,123,Nov-2022,6 - Month
+13,"Black, African American, or African",Owned by Client,27,Nov-2022,6 - Month
+14,"Black, African American, or African",Rental by Client,907,Nov-2022,6 - Month
+15,Client doesn't know,Moved in with Family,7,Nov-2022,6 - Month
+16,Client doesn't know,Other Permanent Housing,1,Nov-2022,6 - Month
+17,Client doesn't know,Owned by Client,1,Nov-2022,6 - Month
+18,Client doesn't know,Rental by Client,27,Nov-2022,6 - Month
+19,Client refused,Move In to PH,1,Nov-2022,6 - Month
+20,Client refused,Moved in with Family,3,Nov-2022,6 - Month
+21,Client refused,Owned by Client,2,Nov-2022,6 - Month
+22,Client refused,Rental by Client,13,Nov-2022,6 - Month
+23,Data not collected,Move In to PH,12,Nov-2022,6 - Month
+24,Data not collected,Moved in with Family,8,Nov-2022,6 - Month
+25,Data not collected,Other Permanent Housing,7,Nov-2022,6 - Month
+26,Data not collected,Rental by Client,50,Nov-2022,6 - Month
+27,Multi-Racial,Move In to PH,69,Nov-2022,6 - Month
+28,Multi-Racial,Moved in with Family,39,Nov-2022,6 - Month
+29,Multi-Racial,Other Permanent Housing,12,Nov-2022,6 - Month
+30,Multi-Racial,Owned by Client,2,Nov-2022,6 - Month
+31,Multi-Racial,Rental by Client,144,Nov-2022,6 - Month
+32,Native Hawaiian or Pacific Islander,Move In to PH,19,Nov-2022,6 - Month
+33,Native Hawaiian or Pacific Islander,Moved in with Family,11,Nov-2022,6 - Month
+34,Native Hawaiian or Pacific Islander,Other Permanent Housing,6,Nov-2022,6 - Month
+35,Native Hawaiian or Pacific Islander,Owned by Client,1,Nov-2022,6 - Month
+36,Native Hawaiian or Pacific Islander,Rental by Client,54,Nov-2022,6 - Month
+37,White,Move In to PH,794,Nov-2022,6 - Month
+38,White,Moved in with Family,465,Nov-2022,6 - Month
+39,White,Other Permanent Housing,217,Nov-2022,6 - Month
+40,White,Owned by Client,50,Nov-2022,6 - Month
+41,White,Rental by Client,1923,Nov-2022,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,79,Nov-2022,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,47,Nov-2022,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,22,Nov-2022,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,9,Nov-2022,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,132,Nov-2022,Annual
+5,Asian or Asian American,Move In to PH,62,Nov-2022,Annual
+6,Asian or Asian American,Moved in with Family,16,Nov-2022,Annual
+7,Asian or Asian American,Other Permanent Housing,11,Nov-2022,Annual
+8,Asian or Asian American,Owned by Client,4,Nov-2022,Annual
+9,Asian or Asian American,Rental by Client,140,Nov-2022,Annual
+10,"Black, African American, or African",Move In to PH,1326,Nov-2022,Annual
+11,"Black, African American, or African",Moved in with Family,388,Nov-2022,Annual
+12,"Black, African American, or African",Other Permanent Housing,253,Nov-2022,Annual
+13,"Black, African American, or African",Owned by Client,35,Nov-2022,Annual
+14,"Black, African American, or African",Rental by Client,1858,Nov-2022,Annual
+15,Client doesn't know,Move In to PH,13,Nov-2022,Annual
+16,Client doesn't know,Moved in with Family,12,Nov-2022,Annual
+17,Client doesn't know,Other Permanent Housing,1,Nov-2022,Annual
+18,Client doesn't know,Owned by Client,2,Nov-2022,Annual
+19,Client doesn't know,Rental by Client,58,Nov-2022,Annual
+20,Client refused,Move In to PH,2,Nov-2022,Annual
+21,Client refused,Moved in with Family,6,Nov-2022,Annual
+22,Client refused,Owned by Client,4,Nov-2022,Annual
+23,Client refused,Rental by Client,26,Nov-2022,Annual
+24,Data not collected,Move In to PH,26,Nov-2022,Annual
+25,Data not collected,Moved in with Family,13,Nov-2022,Annual
+26,Data not collected,Other Permanent Housing,8,Nov-2022,Annual
+27,Data not collected,Rental by Client,73,Nov-2022,Annual
+28,Multi-Racial,Move In to PH,198,Nov-2022,Annual
+29,Multi-Racial,Moved in with Family,64,Nov-2022,Annual
+30,Multi-Racial,Other Permanent Housing,33,Nov-2022,Annual
+31,Multi-Racial,Owned by Client,3,Nov-2022,Annual
+32,Multi-Racial,Rental by Client,322,Nov-2022,Annual
+33,Native Hawaiian or Pacific Islander,Move In to PH,55,Nov-2022,Annual
+34,Native Hawaiian or Pacific Islander,Moved in with Family,24,Nov-2022,Annual
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,10,Nov-2022,Annual
+36,Native Hawaiian or Pacific Islander,Owned by Client,2,Nov-2022,Annual
+37,Native Hawaiian or Pacific Islander,Rental by Client,99,Nov-2022,Annual
+38,White,Move In to PH,2331,Nov-2022,Annual
+39,White,Moved in with Family,844,Nov-2022,Annual
+40,White,Other Permanent Housing,523,Nov-2022,Annual
+41,White,Owned by Client,110,Nov-2022,Annual
+42,White,Rental by Client,4087,Nov-2022,Annual
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,5,Dec-2022,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,3,Dec-2022,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,2,Dec-2022,Monthly
+3,"American Indian, Alaska Native, or Indigenous",Rental by Client,7,Dec-2022,Monthly
+4,Asian or Asian American,Move In to PH,4,Dec-2022,Monthly
+5,Asian or Asian American,Moved in with Family,1,Dec-2022,Monthly
+6,Asian or Asian American,Other Permanent Housing,2,Dec-2022,Monthly
+7,Asian or Asian American,Rental by Client,9,Dec-2022,Monthly
+8,"Black, African American, or African",Move In to PH,44,Dec-2022,Monthly
+9,"Black, African American, or African",Moved in with Family,41,Dec-2022,Monthly
+10,"Black, African American, or African",Other Permanent Housing,17,Dec-2022,Monthly
+11,"Black, African American, or African",Owned by Client,6,Dec-2022,Monthly
+12,"Black, African American, or African",Rental by Client,181,Dec-2022,Monthly
+13,Client doesn't know,Move In to PH,3,Dec-2022,Monthly
+14,Client doesn't know,Rental by Client,7,Dec-2022,Monthly
+15,Client refused,Move In to PH,1,Dec-2022,Monthly
+16,Client refused,Other Permanent Housing,1,Dec-2022,Monthly
+17,Client refused,Rental by Client,4,Dec-2022,Monthly
+18,Data not collected,Move In to PH,3,Dec-2022,Monthly
+19,Data not collected,Other Permanent Housing,1,Dec-2022,Monthly
+20,Data not collected,Rental by Client,10,Dec-2022,Monthly
+21,Multi-Racial,Move In to PH,15,Dec-2022,Monthly
+22,Multi-Racial,Moved in with Family,6,Dec-2022,Monthly
+23,Multi-Racial,Other Permanent Housing,1,Dec-2022,Monthly
+24,Multi-Racial,Rental by Client,32,Dec-2022,Monthly
+25,Native Hawaiian or Pacific Islander,Move In to PH,6,Dec-2022,Monthly
+26,Native Hawaiian or Pacific Islander,Moved in with Family,4,Dec-2022,Monthly
+27,Native Hawaiian or Pacific Islander,Other Permanent Housing,1,Dec-2022,Monthly
+28,Native Hawaiian or Pacific Islander,Rental by Client,13,Dec-2022,Monthly
+29,White,Move In to PH,90,Dec-2022,Monthly
+30,White,Moved in with Family,81,Dec-2022,Monthly
+31,White,Other Permanent Housing,31,Dec-2022,Monthly
+32,White,Owned by Client,6,Dec-2022,Monthly
+33,White,Rental by Client,333,Dec-2022,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,23,Dec-2022,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,14,Dec-2022,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,8,Dec-2022,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Dec-2022,Quarterly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,44,Dec-2022,Quarterly
+5,Asian or Asian American,Move In to PH,12,Dec-2022,Quarterly
+6,Asian or Asian American,Moved in with Family,8,Dec-2022,Quarterly
+7,Asian or Asian American,Other Permanent Housing,2,Dec-2022,Quarterly
+8,Asian or Asian American,Owned by Client,1,Dec-2022,Quarterly
+9,Asian or Asian American,Rental by Client,30,Dec-2022,Quarterly
+10,"Black, African American, or African",Move In to PH,222,Dec-2022,Quarterly
+11,"Black, African American, or African",Moved in with Family,135,Dec-2022,Quarterly
+12,"Black, African American, or African",Other Permanent Housing,57,Dec-2022,Quarterly
+13,"Black, African American, or African",Owned by Client,21,Dec-2022,Quarterly
+14,"Black, African American, or African",Rental by Client,624,Dec-2022,Quarterly
+15,Client doesn't know,Move In to PH,3,Dec-2022,Quarterly
+16,Client doesn't know,Moved in with Family,3,Dec-2022,Quarterly
+17,Client doesn't know,Owned by Client,1,Dec-2022,Quarterly
+18,Client doesn't know,Rental by Client,14,Dec-2022,Quarterly
+19,Client refused,Move In to PH,1,Dec-2022,Quarterly
+20,Client refused,Moved in with Family,2,Dec-2022,Quarterly
+21,Client refused,Other Permanent Housing,1,Dec-2022,Quarterly
+22,Client refused,Owned by Client,2,Dec-2022,Quarterly
+23,Client refused,Rental by Client,14,Dec-2022,Quarterly
+24,Data not collected,Move In to PH,6,Dec-2022,Quarterly
+25,Data not collected,Moved in with Family,4,Dec-2022,Quarterly
+26,Data not collected,Other Permanent Housing,3,Dec-2022,Quarterly
+27,Data not collected,Rental by Client,46,Dec-2022,Quarterly
+28,Multi-Racial,Move In to PH,51,Dec-2022,Quarterly
+29,Multi-Racial,Moved in with Family,20,Dec-2022,Quarterly
+30,Multi-Racial,Other Permanent Housing,3,Dec-2022,Quarterly
+31,Multi-Racial,Owned by Client,1,Dec-2022,Quarterly
+32,Multi-Racial,Rental by Client,89,Dec-2022,Quarterly
+33,Native Hawaiian or Pacific Islander,Move In to PH,13,Dec-2022,Quarterly
+34,Native Hawaiian or Pacific Islander,Moved in with Family,13,Dec-2022,Quarterly
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,3,Dec-2022,Quarterly
+36,Native Hawaiian or Pacific Islander,Rental by Client,33,Dec-2022,Quarterly
+37,White,Move In to PH,411,Dec-2022,Quarterly
+38,White,Moved in with Family,311,Dec-2022,Quarterly
+39,White,Other Permanent Housing,92,Dec-2022,Quarterly
+40,White,Owned by Client,26,Dec-2022,Quarterly
+41,White,Rental by Client,1186,Dec-2022,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,33,Dec-2022,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,21,Dec-2022,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,11,Dec-2022,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Dec-2022,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,63,Dec-2022,6 - Month
+5,Asian or Asian American,Move In to PH,17,Dec-2022,6 - Month
+6,Asian or Asian American,Moved in with Family,11,Dec-2022,6 - Month
+7,Asian or Asian American,Other Permanent Housing,5,Dec-2022,6 - Month
+8,Asian or Asian American,Owned by Client,2,Dec-2022,6 - Month
+9,Asian or Asian American,Rental by Client,53,Dec-2022,6 - Month
+10,"Black, African American, or African",Move In to PH,344,Dec-2022,6 - Month
+11,"Black, African American, or African",Moved in with Family,222,Dec-2022,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,107,Dec-2022,6 - Month
+13,"Black, African American, or African",Owned by Client,24,Dec-2022,6 - Month
+14,"Black, African American, or African",Rental by Client,902,Dec-2022,6 - Month
+15,Client doesn't know,Move In to PH,3,Dec-2022,6 - Month
+16,Client doesn't know,Moved in with Family,6,Dec-2022,6 - Month
+17,Client doesn't know,Other Permanent Housing,1,Dec-2022,6 - Month
+18,Client doesn't know,Owned by Client,1,Dec-2022,6 - Month
+19,Client doesn't know,Rental by Client,18,Dec-2022,6 - Month
+20,Client refused,Move In to PH,2,Dec-2022,6 - Month
+21,Client refused,Moved in with Family,3,Dec-2022,6 - Month
+22,Client refused,Other Permanent Housing,1,Dec-2022,6 - Month
+23,Client refused,Owned by Client,2,Dec-2022,6 - Month
+24,Client refused,Rental by Client,17,Dec-2022,6 - Month
+25,Data not collected,Move In to PH,15,Dec-2022,6 - Month
+26,Data not collected,Moved in with Family,7,Dec-2022,6 - Month
+27,Data not collected,Other Permanent Housing,8,Dec-2022,6 - Month
+28,Data not collected,Rental by Client,57,Dec-2022,6 - Month
+29,Multi-Racial,Move In to PH,66,Dec-2022,6 - Month
+30,Multi-Racial,Moved in with Family,38,Dec-2022,6 - Month
+31,Multi-Racial,Other Permanent Housing,6,Dec-2022,6 - Month
+32,Multi-Racial,Owned by Client,1,Dec-2022,6 - Month
+33,Multi-Racial,Rental by Client,141,Dec-2022,6 - Month
+34,Native Hawaiian or Pacific Islander,Move In to PH,14,Dec-2022,6 - Month
+35,Native Hawaiian or Pacific Islander,Moved in with Family,15,Dec-2022,6 - Month
+36,Native Hawaiian or Pacific Islander,Other Permanent Housing,5,Dec-2022,6 - Month
+37,Native Hawaiian or Pacific Islander,Rental by Client,50,Dec-2022,6 - Month
+38,White,Move In to PH,627,Dec-2022,6 - Month
+39,White,Moved in with Family,464,Dec-2022,6 - Month
+40,White,Other Permanent Housing,165,Dec-2022,6 - Month
+41,White,Owned by Client,39,Dec-2022,6 - Month
+42,White,Rental by Client,1784,Dec-2022,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,81,Dec-2022,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,47,Dec-2022,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,20,Dec-2022,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,9,Dec-2022,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,133,Dec-2022,Annual
+5,Asian or Asian American,Move In to PH,55,Dec-2022,Annual
+6,Asian or Asian American,Moved in with Family,17,Dec-2022,Annual
+7,Asian or Asian American,Other Permanent Housing,10,Dec-2022,Annual
+8,Asian or Asian American,Owned by Client,4,Dec-2022,Annual
+9,Asian or Asian American,Rental by Client,128,Dec-2022,Annual
+10,"Black, African American, or African",Move In to PH,1281,Dec-2022,Annual
+11,"Black, African American, or African",Moved in with Family,395,Dec-2022,Annual
+12,"Black, African American, or African",Other Permanent Housing,204,Dec-2022,Annual
+13,"Black, African American, or African",Owned by Client,43,Dec-2022,Annual
+14,"Black, African American, or African",Rental by Client,1830,Dec-2022,Annual
+15,Client doesn't know,Move In to PH,16,Dec-2022,Annual
+16,Client doesn't know,Moved in with Family,10,Dec-2022,Annual
+17,Client doesn't know,Other Permanent Housing,1,Dec-2022,Annual
+18,Client doesn't know,Owned by Client,2,Dec-2022,Annual
+19,Client doesn't know,Rental by Client,62,Dec-2022,Annual
+20,Client refused,Move In to PH,3,Dec-2022,Annual
+21,Client refused,Moved in with Family,5,Dec-2022,Annual
+22,Client refused,Other Permanent Housing,1,Dec-2022,Annual
+23,Client refused,Owned by Client,4,Dec-2022,Annual
+24,Client refused,Rental by Client,26,Dec-2022,Annual
+25,Data not collected,Move In to PH,29,Dec-2022,Annual
+26,Data not collected,Moved in with Family,12,Dec-2022,Annual
+27,Data not collected,Other Permanent Housing,9,Dec-2022,Annual
+28,Data not collected,Rental by Client,77,Dec-2022,Annual
+29,Multi-Racial,Move In to PH,202,Dec-2022,Annual
+30,Multi-Racial,Moved in with Family,66,Dec-2022,Annual
+31,Multi-Racial,Other Permanent Housing,24,Dec-2022,Annual
+32,Multi-Racial,Owned by Client,3,Dec-2022,Annual
+33,Multi-Racial,Rental by Client,307,Dec-2022,Annual
+34,Native Hawaiian or Pacific Islander,Move In to PH,58,Dec-2022,Annual
+35,Native Hawaiian or Pacific Islander,Moved in with Family,26,Dec-2022,Annual
+36,Native Hawaiian or Pacific Islander,Other Permanent Housing,8,Dec-2022,Annual
+37,Native Hawaiian or Pacific Islander,Owned by Client,1,Dec-2022,Annual
+38,Native Hawaiian or Pacific Islander,Rental by Client,104,Dec-2022,Annual
+39,White,Move In to PH,2266,Dec-2022,Annual
+40,White,Moved in with Family,878,Dec-2022,Annual
+41,White,Other Permanent Housing,411,Dec-2022,Annual
+42,White,Owned by Client,109,Dec-2022,Annual
+43,White,Rental by Client,4033,Dec-2022,Annual
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,1,Jan-2023,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,1,Jan-2023,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,1,Jan-2023,Monthly
+3,"American Indian, Alaska Native, or Indigenous",Rental by Client,15,Jan-2023,Monthly
+4,Asian or Asian American,Move In to PH,1,Jan-2023,Monthly
+5,Asian or Asian American,Moved in with Family,3,Jan-2023,Monthly
+6,Asian or Asian American,Rental by Client,8,Jan-2023,Monthly
+7,"Black, African American, or African",Move In to PH,52,Jan-2023,Monthly
+8,"Black, African American, or African",Moved in with Family,41,Jan-2023,Monthly
+9,"Black, African American, or African",Other Permanent Housing,10,Jan-2023,Monthly
+10,"Black, African American, or African",Owned by Client,1,Jan-2023,Monthly
+11,"Black, African American, or African",Rental by Client,192,Jan-2023,Monthly
+12,Client doesn't know,Moved in with Family,1,Jan-2023,Monthly
+13,Client doesn't know,Rental by Client,2,Jan-2023,Monthly
+14,Client refused,Rental by Client,5,Jan-2023,Monthly
+15,Data not collected,Move In to PH,2,Jan-2023,Monthly
+16,Data not collected,Owned by Client,1,Jan-2023,Monthly
+17,Data not collected,Rental by Client,5,Jan-2023,Monthly
+18,Multi-Racial,Move In to PH,7,Jan-2023,Monthly
+19,Multi-Racial,Moved in with Family,9,Jan-2023,Monthly
+20,Multi-Racial,Rental by Client,38,Jan-2023,Monthly
+21,Native Hawaiian or Pacific Islander,Move In to PH,2,Jan-2023,Monthly
+22,Native Hawaiian or Pacific Islander,Moved in with Family,1,Jan-2023,Monthly
+23,Native Hawaiian or Pacific Islander,Rental by Client,3,Jan-2023,Monthly
+24,White,Move In to PH,60,Jan-2023,Monthly
+25,White,Moved in with Family,76,Jan-2023,Monthly
+26,White,Other Permanent Housing,17,Jan-2023,Monthly
+27,White,Owned by Client,2,Jan-2023,Monthly
+28,White,Rental by Client,258,Jan-2023,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,16,Jan-2023,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,12,Jan-2023,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,8,Jan-2023,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Jan-2023,Quarterly
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,47,Jan-2023,Quarterly
+5,Asian or Asian American,Move In to PH,8,Jan-2023,Quarterly
+6,Asian or Asian American,Moved in with Family,10,Jan-2023,Quarterly
+7,Asian or Asian American,Other Permanent Housing,2,Jan-2023,Quarterly
+8,Asian or Asian American,Rental by Client,32,Jan-2023,Quarterly
+9,"Black, African American, or African",Move In to PH,194,Jan-2023,Quarterly
+10,"Black, African American, or African",Moved in with Family,142,Jan-2023,Quarterly
+11,"Black, African American, or African",Other Permanent Housing,60,Jan-2023,Quarterly
+12,"Black, African American, or African",Owned by Client,14,Jan-2023,Quarterly
+13,"Black, African American, or African",Rental by Client,609,Jan-2023,Quarterly
+14,Client doesn't know,Move In to PH,3,Jan-2023,Quarterly
+15,Client doesn't know,Moved in with Family,2,Jan-2023,Quarterly
+16,Client doesn't know,Owned by Client,1,Jan-2023,Quarterly
+17,Client doesn't know,Rental by Client,15,Jan-2023,Quarterly
+18,Client refused,Move In to PH,1,Jan-2023,Quarterly
+19,Client refused,Moved in with Family,2,Jan-2023,Quarterly
+20,Client refused,Other Permanent Housing,1,Jan-2023,Quarterly
+21,Client refused,Owned by Client,2,Jan-2023,Quarterly
+22,Client refused,Rental by Client,18,Jan-2023,Quarterly
+23,Data not collected,Move In to PH,6,Jan-2023,Quarterly
+24,Data not collected,Moved in with Family,1,Jan-2023,Quarterly
+25,Data not collected,Other Permanent Housing,3,Jan-2023,Quarterly
+26,Data not collected,Owned by Client,1,Jan-2023,Quarterly
+27,Data not collected,Rental by Client,30,Jan-2023,Quarterly
+28,Multi-Racial,Move In to PH,47,Jan-2023,Quarterly
+29,Multi-Racial,Moved in with Family,23,Jan-2023,Quarterly
+30,Multi-Racial,Other Permanent Housing,2,Jan-2023,Quarterly
+31,Multi-Racial,Owned by Client,1,Jan-2023,Quarterly
+32,Multi-Racial,Rental by Client,97,Jan-2023,Quarterly
+33,Native Hawaiian or Pacific Islander,Move In to PH,15,Jan-2023,Quarterly
+34,Native Hawaiian or Pacific Islander,Moved in with Family,13,Jan-2023,Quarterly
+35,Native Hawaiian or Pacific Islander,Other Permanent Housing,3,Jan-2023,Quarterly
+36,Native Hawaiian or Pacific Islander,Rental by Client,28,Jan-2023,Quarterly
+37,White,Move In to PH,338,Jan-2023,Quarterly
+38,White,Moved in with Family,299,Jan-2023,Quarterly
+39,White,Other Permanent Housing,83,Jan-2023,Quarterly
+40,White,Owned by Client,17,Jan-2023,Quarterly
+41,White,Rental by Client,1095,Jan-2023,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,31,Jan-2023,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,17,Jan-2023,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,11,Jan-2023,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Jan-2023,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,73,Jan-2023,6 - Month
+5,Asian or Asian American,Move In to PH,15,Jan-2023,6 - Month
+6,Asian or Asian American,Moved in with Family,13,Jan-2023,6 - Month
+7,Asian or Asian American,Other Permanent Housing,5,Jan-2023,6 - Month
+8,Asian or Asian American,Owned by Client,2,Jan-2023,6 - Month
+9,Asian or Asian American,Rental by Client,46,Jan-2023,6 - Month
+10,"Black, African American, or African",Move In to PH,332,Jan-2023,6 - Month
+11,"Black, African American, or African",Moved in with Family,227,Jan-2023,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,98,Jan-2023,6 - Month
+13,"Black, African American, or African",Owned by Client,23,Jan-2023,6 - Month
+14,"Black, African American, or African",Rental by Client,955,Jan-2023,6 - Month
+15,Client doesn't know,Move In to PH,3,Jan-2023,6 - Month
+16,Client doesn't know,Moved in with Family,6,Jan-2023,6 - Month
+17,Client doesn't know,Owned by Client,1,Jan-2023,6 - Month
+18,Client doesn't know,Rental by Client,20,Jan-2023,6 - Month
+19,Client refused,Move In to PH,2,Jan-2023,6 - Month
+20,Client refused,Moved in with Family,2,Jan-2023,6 - Month
+21,Client refused,Other Permanent Housing,1,Jan-2023,6 - Month
+22,Client refused,Owned by Client,2,Jan-2023,6 - Month
+23,Client refused,Rental by Client,17,Jan-2023,6 - Month
+24,Data not collected,Move In to PH,16,Jan-2023,6 - Month
+25,Data not collected,Moved in with Family,6,Jan-2023,6 - Month
+26,Data not collected,Other Permanent Housing,3,Jan-2023,6 - Month
+27,Data not collected,Owned by Client,1,Jan-2023,6 - Month
+28,Data not collected,Rental by Client,57,Jan-2023,6 - Month
+29,Multi-Racial,Move In to PH,61,Jan-2023,6 - Month
+30,Multi-Racial,Moved in with Family,39,Jan-2023,6 - Month
+31,Multi-Racial,Other Permanent Housing,4,Jan-2023,6 - Month
+32,Multi-Racial,Owned by Client,1,Jan-2023,6 - Month
+33,Multi-Racial,Rental by Client,146,Jan-2023,6 - Month
+34,Native Hawaiian or Pacific Islander,Move In to PH,15,Jan-2023,6 - Month
+35,Native Hawaiian or Pacific Islander,Moved in with Family,15,Jan-2023,6 - Month
+36,Native Hawaiian or Pacific Islander,Other Permanent Housing,4,Jan-2023,6 - Month
+37,Native Hawaiian or Pacific Islander,Rental by Client,50,Jan-2023,6 - Month
+38,White,Move In to PH,583,Jan-2023,6 - Month
+39,White,Moved in with Family,473,Jan-2023,6 - Month
+40,White,Other Permanent Housing,158,Jan-2023,6 - Month
+41,White,Owned by Client,36,Jan-2023,6 - Month
+42,White,Rental by Client,1760,Jan-2023,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,73,Jan-2023,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,44,Jan-2023,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,20,Jan-2023,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,9,Jan-2023,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,142,Jan-2023,Annual
+5,Asian or Asian American,Move In to PH,44,Jan-2023,Annual
+6,Asian or Asian American,Moved in with Family,20,Jan-2023,Annual
+7,Asian or Asian American,Other Permanent Housing,9,Jan-2023,Annual
+8,Asian or Asian American,Owned by Client,2,Jan-2023,Annual
+9,Asian or Asian American,Rental by Client,125,Jan-2023,Annual
+10,"Black, African American, or African",Move In to PH,1259,Jan-2023,Annual
+11,"Black, African American, or African",Moved in with Family,406,Jan-2023,Annual
+12,"Black, African American, or African",Other Permanent Housing,212,Jan-2023,Annual
+13,"Black, African American, or African",Owned by Client,42,Jan-2023,Annual
+14,"Black, African American, or African",Rental by Client,1865,Jan-2023,Annual
+15,Client doesn't know,Move In to PH,16,Jan-2023,Annual
+16,Client doesn't know,Moved in with Family,10,Jan-2023,Annual
+17,Client doesn't know,Other Permanent Housing,1,Jan-2023,Annual
+18,Client doesn't know,Owned by Client,2,Jan-2023,Annual
+19,Client doesn't know,Rental by Client,62,Jan-2023,Annual
+20,Client refused,Move In to PH,3,Jan-2023,Annual
+21,Client refused,Moved in with Family,5,Jan-2023,Annual
+22,Client refused,Other Permanent Housing,1,Jan-2023,Annual
+23,Client refused,Owned by Client,2,Jan-2023,Annual
+24,Client refused,Rental by Client,26,Jan-2023,Annual
+25,Data not collected,Move In to PH,31,Jan-2023,Annual
+26,Data not collected,Moved in with Family,10,Jan-2023,Annual
+27,Data not collected,Other Permanent Housing,9,Jan-2023,Annual
+28,Data not collected,Owned by Client,1,Jan-2023,Annual
+29,Data not collected,Rental by Client,77,Jan-2023,Annual
+30,Multi-Racial,Move In to PH,191,Jan-2023,Annual
+31,Multi-Racial,Moved in with Family,66,Jan-2023,Annual
+32,Multi-Racial,Other Permanent Housing,23,Jan-2023,Annual
+33,Multi-Racial,Owned by Client,2,Jan-2023,Annual
+34,Multi-Racial,Rental by Client,321,Jan-2023,Annual
+35,Native Hawaiian or Pacific Islander,Move In to PH,57,Jan-2023,Annual
+36,Native Hawaiian or Pacific Islander,Moved in with Family,23,Jan-2023,Annual
+37,Native Hawaiian or Pacific Islander,Other Permanent Housing,8,Jan-2023,Annual
+38,Native Hawaiian or Pacific Islander,Owned by Client,1,Jan-2023,Annual
+39,Native Hawaiian or Pacific Islander,Rental by Client,97,Jan-2023,Annual
+40,White,Move In to PH,2151,Jan-2023,Annual
+41,White,Moved in with Family,890,Jan-2023,Annual
+42,White,Other Permanent Housing,411,Jan-2023,Annual
+43,White,Owned by Client,90,Jan-2023,Annual
+44,White,Rental by Client,3958,Jan-2023,Annual
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,6,Feb-2023,Monthly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,5,Feb-2023,Monthly
+2,"American Indian, Alaska Native, or Indigenous",Rental by Client,13,Feb-2023,Monthly
+3,Asian or Asian American,Move In to PH,9,Feb-2023,Monthly
+4,Asian or Asian American,Moved in with Family,1,Feb-2023,Monthly
+5,Asian or Asian American,Other Permanent Housing,1,Feb-2023,Monthly
+6,Asian or Asian American,Rental by Client,20,Feb-2023,Monthly
+7,"Black, African American, or African",Move In to PH,60,Feb-2023,Monthly
+8,"Black, African American, or African",Moved in with Family,20,Feb-2023,Monthly
+9,"Black, African American, or African",Other Permanent Housing,5,Feb-2023,Monthly
+10,"Black, African American, or African",Owned by Client,2,Feb-2023,Monthly
+11,"Black, African American, or African",Rental by Client,216,Feb-2023,Monthly
+12,Client refused,Move In to PH,3,Feb-2023,Monthly
+13,Client refused,Rental by Client,4,Feb-2023,Monthly
+14,Data not collected,Move In to PH,1,Feb-2023,Monthly
+15,Data not collected,Rental by Client,7,Feb-2023,Monthly
+16,Multi-Racial,Move In to PH,8,Feb-2023,Monthly
+17,Multi-Racial,Moved in with Family,7,Feb-2023,Monthly
+18,Multi-Racial,Other Permanent Housing,1,Feb-2023,Monthly
+19,Multi-Racial,Rental by Client,22,Feb-2023,Monthly
+20,Native Hawaiian or Pacific Islander,Moved in with Family,3,Feb-2023,Monthly
+21,Native Hawaiian or Pacific Islander,Other Permanent Housing,3,Feb-2023,Monthly
+22,Native Hawaiian or Pacific Islander,Rental by Client,8,Feb-2023,Monthly
+23,White,Move In to PH,111,Feb-2023,Monthly
+24,White,Moved in with Family,68,Feb-2023,Monthly
+25,White,Other Permanent Housing,24,Feb-2023,Monthly
+26,White,Owned by Client,4,Feb-2023,Monthly
+27,White,Rental by Client,308,Feb-2023,Monthly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,15,Feb-2023,Quarterly
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,10,Feb-2023,Quarterly
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,6,Feb-2023,Quarterly
+3,"American Indian, Alaska Native, or Indigenous",Rental by Client,49,Feb-2023,Quarterly
+4,Asian or Asian American,Move In to PH,16,Feb-2023,Quarterly
+5,Asian or Asian American,Moved in with Family,8,Feb-2023,Quarterly
+6,Asian or Asian American,Other Permanent Housing,3,Feb-2023,Quarterly
+7,Asian or Asian American,Rental by Client,49,Feb-2023,Quarterly
+8,"Black, African American, or African",Move In to PH,194,Feb-2023,Quarterly
+9,"Black, African American, or African",Moved in with Family,118,Feb-2023,Quarterly
+10,"Black, African American, or African",Other Permanent Housing,53,Feb-2023,Quarterly
+11,"Black, African American, or African",Owned by Client,14,Feb-2023,Quarterly
+12,"Black, African American, or African",Rental by Client,677,Feb-2023,Quarterly
+13,Client doesn't know,Move In to PH,3,Feb-2023,Quarterly
+14,Client doesn't know,Moved in with Family,2,Feb-2023,Quarterly
+15,Client doesn't know,Rental by Client,9,Feb-2023,Quarterly
+16,Client refused,Move In to PH,4,Feb-2023,Quarterly
+17,Client refused,Moved in with Family,1,Feb-2023,Quarterly
+18,Client refused,Other Permanent Housing,1,Feb-2023,Quarterly
+19,Client refused,Rental by Client,17,Feb-2023,Quarterly
+20,Data not collected,Move In to PH,7,Feb-2023,Quarterly
+21,Data not collected,Other Permanent Housing,1,Feb-2023,Quarterly
+22,Data not collected,Owned by Client,1,Feb-2023,Quarterly
+23,Data not collected,Rental by Client,32,Feb-2023,Quarterly
+24,Multi-Racial,Move In to PH,45,Feb-2023,Quarterly
+25,Multi-Racial,Moved in with Family,27,Feb-2023,Quarterly
+26,Multi-Racial,Other Permanent Housing,2,Feb-2023,Quarterly
+27,Multi-Racial,Rental by Client,102,Feb-2023,Quarterly
+28,Native Hawaiian or Pacific Islander,Move In to PH,10,Feb-2023,Quarterly
+29,Native Hawaiian or Pacific Islander,Moved in with Family,11,Feb-2023,Quarterly
+30,Native Hawaiian or Pacific Islander,Other Permanent Housing,4,Feb-2023,Quarterly
+31,Native Hawaiian or Pacific Islander,Rental by Client,28,Feb-2023,Quarterly
+32,White,Move In to PH,354,Feb-2023,Quarterly
+33,White,Moved in with Family,286,Feb-2023,Quarterly
+34,White,Other Permanent Housing,92,Feb-2023,Quarterly
+35,White,Owned by Client,14,Feb-2023,Quarterly
+36,White,Rental by Client,1141,Feb-2023,Quarterly
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,30,Feb-2023,6 - Month
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,20,Feb-2023,6 - Month
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,9,Feb-2023,6 - Month
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,4,Feb-2023,6 - Month
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,68,Feb-2023,6 - Month
+5,Asian or Asian American,Move In to PH,22,Feb-2023,6 - Month
+6,Asian or Asian American,Moved in with Family,12,Feb-2023,6 - Month
+7,Asian or Asian American,Other Permanent Housing,3,Feb-2023,6 - Month
+8,Asian or Asian American,Owned by Client,1,Feb-2023,6 - Month
+9,Asian or Asian American,Rental by Client,56,Feb-2023,6 - Month
+10,"Black, African American, or African",Move In to PH,332,Feb-2023,6 - Month
+11,"Black, African American, or African",Moved in with Family,189,Feb-2023,6 - Month
+12,"Black, African American, or African",Other Permanent Housing,72,Feb-2023,6 - Month
+13,"Black, African American, or African",Owned by Client,23,Feb-2023,6 - Month
+14,"Black, African American, or African",Rental by Client,986,Feb-2023,6 - Month
+15,Client doesn't know,Move In to PH,3,Feb-2023,6 - Month
+16,Client doesn't know,Moved in with Family,4,Feb-2023,6 - Month
+17,Client doesn't know,Owned by Client,1,Feb-2023,6 - Month
+18,Client doesn't know,Rental by Client,16,Feb-2023,6 - Month
+19,Client refused,Move In to PH,4,Feb-2023,6 - Month
+20,Client refused,Moved in with Family,2,Feb-2023,6 - Month
+21,Client refused,Other Permanent Housing,1,Feb-2023,6 - Month
+22,Client refused,Owned by Client,2,Feb-2023,6 - Month
+23,Client refused,Rental by Client,21,Feb-2023,6 - Month
+24,Data not collected,Move In to PH,9,Feb-2023,6 - Month
+25,Data not collected,Moved in with Family,4,Feb-2023,6 - Month
+26,Data not collected,Other Permanent Housing,3,Feb-2023,6 - Month
+27,Data not collected,Owned by Client,1,Feb-2023,6 - Month
+28,Data not collected,Rental by Client,57,Feb-2023,6 - Month
+29,Multi-Racial,Move In to PH,63,Feb-2023,6 - Month
+30,Multi-Racial,Moved in with Family,35,Feb-2023,6 - Month
+31,Multi-Racial,Other Permanent Housing,4,Feb-2023,6 - Month
+32,Multi-Racial,Owned by Client,1,Feb-2023,6 - Month
+33,Multi-Racial,Rental by Client,136,Feb-2023,6 - Month
+34,Native Hawaiian or Pacific Islander,Move In to PH,15,Feb-2023,6 - Month
+35,Native Hawaiian or Pacific Islander,Moved in with Family,17,Feb-2023,6 - Month
+36,Native Hawaiian or Pacific Islander,Other Permanent Housing,6,Feb-2023,6 - Month
+37,Native Hawaiian or Pacific Islander,Rental by Client,43,Feb-2023,6 - Month
+38,White,Move In to PH,579,Feb-2023,6 - Month
+39,White,Moved in with Family,450,Feb-2023,6 - Month
+40,White,Other Permanent Housing,128,Feb-2023,6 - Month
+41,White,Owned by Client,32,Feb-2023,6 - Month
+42,White,Rental by Client,1720,Feb-2023,6 - Month
+0,"American Indian, Alaska Native, or Indigenous",Move In to PH,69,Feb-2023,Annual
+1,"American Indian, Alaska Native, or Indigenous",Moved in with Family,50,Feb-2023,Annual
+2,"American Indian, Alaska Native, or Indigenous",Other Permanent Housing,19,Feb-2023,Annual
+3,"American Indian, Alaska Native, or Indigenous",Owned by Client,9,Feb-2023,Annual
+4,"American Indian, Alaska Native, or Indigenous",Rental by Client,140,Feb-2023,Annual
+5,Asian or Asian American,Move In to PH,49,Feb-2023,Annual
+6,Asian or Asian American,Moved in with Family,21,Feb-2023,Annual
+7,Asian or Asian American,Other Permanent Housing,9,Feb-2023,Annual
+8,Asian or Asian American,Owned by Client,2,Feb-2023,Annual
+9,Asian or Asian American,Rental by Client,134,Feb-2023,Annual
+10,"Black, African American, or African",Move In to PH,1215,Feb-2023,Annual
+11,"Black, African American, or African",Moved in with Family,397,Feb-2023,Annual
+12,"Black, African American, or African",Other Permanent Housing,198,Feb-2023,Annual
+13,"Black, African American, or African",Owned by Client,43,Feb-2023,Annual
+14,"Black, African American, or African",Rental by Client,1941,Feb-2023,Annual
+15,Client doesn't know,Move In to PH,16,Feb-2023,Annual
+16,Client doesn't know,Moved in with Family,10,Feb-2023,Annual
+17,Client doesn't know,Other Permanent Housing,1,Feb-2023,Annual
+18,Client doesn't know,Owned by Client,2,Feb-2023,Annual
+19,Client doesn't know,Rental by Client,59,Feb-2023,Annual
+20,Client refused,Move In to PH,6,Feb-2023,Annual
+21,Client refused,Moved in with Family,4,Feb-2023,Annual
+22,Client refused,Other Permanent Housing,1,Feb-2023,Annual
+23,Client refused,Owned by Client,2,Feb-2023,Annual
+24,Client refused,Rental by Client,26,Feb-2023,Annual
+25,Data not collected,Move In to PH,31,Feb-2023,Annual
+26,Data not collected,Moved in with Family,9,Feb-2023,Annual
+27,Data not collected,Other Permanent Housing,9,Feb-2023,Annual
+28,Data not collected,Owned by Client,1,Feb-2023,Annual
+29,Data not collected,Rental by Client,76,Feb-2023,Annual
+30,Multi-Racial,Move In to PH,180,Feb-2023,Annual
+31,Multi-Racial,Moved in with Family,70,Feb-2023,Annual
+32,Multi-Racial,Other Permanent Housing,21,Feb-2023,Annual
+33,Multi-Racial,Owned by Client,2,Feb-2023,Annual
+34,Multi-Racial,Rental by Client,314,Feb-2023,Annual
+35,Native Hawaiian or Pacific Islander,Move In to PH,51,Feb-2023,Annual
+36,Native Hawaiian or Pacific Islander,Moved in with Family,25,Feb-2023,Annual
+37,Native Hawaiian or Pacific Islander,Other Permanent Housing,11,Feb-2023,Annual
+38,Native Hawaiian or Pacific Islander,Rental by Client,104,Feb-2023,Annual
+39,White,Move In to PH,2063,Feb-2023,Annual
+40,White,Moved in with Family,902,Feb-2023,Annual
+41,White,Other Permanent Housing,386,Feb-2023,Annual
+42,White,Owned by Client,90,Feb-2023,Annual
+43,White,Rental by Client,3978,Feb-2023,Annual
