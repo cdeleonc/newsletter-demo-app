@@ -11,23 +11,23 @@ from datetime import datetime
 app = Dash(__name__)
 
 
-newsletter_counts_df = pd.read_csv('src/assets/newsletter_counts.csv')
+newsletter_counts_df = pd.read_csv('assets/newsletter_counts.csv')
 newsletter_counts_df = newsletter_counts_df[newsletter_counts_df.columns[1:]]
 
-active_counts_by_proj_type_df = pd.read_csv('src/assets/newsletter_active_counts_by_proj_type.csv')
+active_counts_by_proj_type_df = pd.read_csv('assets/newsletter_active_counts_by_proj_type.csv')
 
-newsletter_housed_counts_by_destination_df = pd.read_csv('src/assets/newsletter_housed_counts_by_destination_by_race.csv')
+newsletter_housed_counts_by_destination_df = pd.read_csv('assets/newsletter_housed_counts_by_destination_by_race.csv')
 
 
 
-newsletter_counts_by_race_df1 = pd.read_csv('src/assets/newsletter_counts_by_race.csv')
+newsletter_counts_by_race_df1 = pd.read_csv('assets/newsletter_counts_by_race.csv')
 
 old_cols = [x for x in newsletter_counts_by_race_df1.columns if 'by Race' in x]
 new_cols = [x.split(" by ")[0] for x in newsletter_counts_by_race_df1 if 'by Race' in x]
 
 newsletter_counts_by_race_df1 = newsletter_counts_by_race_df1.rename(columns=dict(zip(old_cols, new_cols)))
 
-newsletter_active_counts_by_proj_type_by_race = pd.read_csv('src/assets/newsletter_active_counts_by_proj_type_by_race.csv')
+newsletter_active_counts_by_proj_type_by_race = pd.read_csv('assets/newsletter_active_counts_by_proj_type_by_race.csv')
 
 race_picklist = sorted(list(newsletter_counts_by_race_df1['static_demographics.race_text'].unique()))
 
