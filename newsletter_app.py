@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 app = Dash(__name__)
-
+server = app.server
 
 newsletter_counts_df = pd.read_csv('assets/newsletter_counts.csv')
 newsletter_counts_df = newsletter_counts_df[newsletter_counts_df.columns[1:]]
